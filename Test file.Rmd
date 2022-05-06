@@ -5,11 +5,46 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(skimr)
 ```
 
+### Data description
 
-```{r cars}
-data <- read.csv("Absenteeism AND Overtime SUMMARISED.csv")
+Absenteeism AND Overtime SUMMARISED
+Absenteeism AND Overtime
+ANZ_IND_Absenteism
+All those three deal with data that has to do with absenteism or overtime
+
+```{r}
+abs_over_sum <- read.csv("Absenteeism AND Overtime SUMMARISED.csv")
+abs_over <- read.csv("Absenteeism AND Overtime.csv")
+abs <- read.csv("ANZ_IND_Absenteism.csv")
 ```
 
+#### ANZ_IND_Absenteism
 
+Pers.no. - individual number of the employee that was absent
+A.AType - ???
+Attendance.or.Absence.Type - Type of leave
+Absence.Start.date - the start of the leave (change into date format)
+Absence.End.date - the day that employee returned (change into date format)
+Hrs - hours that employee wasnt at work (change into numeric)
+Days - number of days that the employee was absent
+DailyHrs - daily number of working hours
+Personnel.Area - the location
+Personnel.Subarea - smaller location
+Position - job position
+Cost.ctr - ???
+Cost.Center - ???
+Organizational.Unit - unit that was affected by the absentee?
+Date - ??? DOB??
+
+#### Absenteeism AND Overtime
+
+#### Absenteeism AND Overtime SUMMARISED
+
+
+
+
+			
