@@ -1,0 +1,15 @@
+---
+title: "Test file"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r cars}
+data <- read.csv("Absenteeism AND Overtime SUMMARISED.csv")
+```
+
+
