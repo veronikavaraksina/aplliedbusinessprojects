@@ -1,0 +1,76 @@
+---
+title: "kyle_test_enviro"
+author: "Kyle Beall"
+date: "5/9/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#rm(list = ls())
+```
+
+```{r}
+#install.packages("janitor")
+library(janitor)
+library(tidyverse)
+library(tidytext)
+library(lubridate)
+library(dplyr)
+
+```
+
+
+## Looking at the datasets for Absenteeism 
+```{r}
+# cleaning up the names of the columns 
+Absenteeism_AND_Overtime <- clean_names(Absenteeism_AND_Overtime)
+Absenteeism_AND_Overtime_SUMMARISED <- clean_names(Absenteeism_AND_Overtime_SUMMARISED)
+Absenteism <- clean_names(ANZ_IND_Absenteism)
+rm(ANZ_IND_Absenteism)
+```
+
+# anz_ind_absenteeism is obsolete 
+# absenteeism_and_overtime = anz_ind_absenteeism + overtime information
+# absenteeism_and_overtime has 10x the oversavations that absenteeism_and_overtime_summarised
+# both absenteeism_and_overtime and summarised version have different pers_no and different a_a_type
+
+```{r}
+# making a combined file for absenteeism
+absenteeism_combined <- rbind(Absenteeism_AND_Overtime, Absenteeism_AND_Overtime_SUMMARISED, na_matches = "never")
+```
+
+## looking at datasets for org_movement
+
+```{r}
+# cleaning the names of the files 
+
+org_movement <- ANZ_IND_Org_Movement %>% clean_names()
+rm(ANZ_IND_Org_Movement)
+
+org_move_modified <- ANZ_IND_Org_Movement_modified %>% clean_names()
+rm(ANZ_IND_Org_Movement_modified)
+
+org_move_modified_org_movements <- ANZ_IND_Org_Movement_modified_Org_Movements %>% clean_names()
+rm(ANZ_IND_Org_Movement_modified_Org_Movements)
+
+org_move_modified_transformed <- ANZ_IND_Org_Movement_modified_Transformed_Movements %>% clean_names()
+rm(ANZ_IND_Org_Movement_modified_Transformed_Movements)
+
+org_move_summarised <- ANZ_IND_Org_Movement_SUMMARISED %>% clean_names()
+rm(ANZ_IND_Org_Movement_SUMMARISED)
+```
+
+```{r}
+# combining all org_move datasets into one and removing duplicates
+org_move_combined <- rbind(org_movement, org_move_modified) %>% distinct(.keep_all = TRUE)
+
+org_move_combined <- rbind(org_move_combined, org_move_modified_org_movements) %>% distinct(.keep_all = TRUE)
+
+org_move_trans_summ <- rbind(org_move_modified_transformed, org_move_summarised) %>% distinct(.keep_all = TRUE)
+
+```
+
