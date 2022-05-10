@@ -7,44 +7,93 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(skimr)
+library(janitor)
 ```
 
 ### Data description
 
-Absenteeism AND Overtime SUMMARISED
-Absenteeism AND Overtime
-ANZ_IND_Absenteism
-All those three deal with data that has to do with absenteism or overtime
+#### Turnover
 
 ```{r}
-abs_over_sum <- read.csv("Absenteeism AND Overtime SUMMARISED.csv")
-abs_over <- read.csv("Absenteeism AND Overtime.csv")
-abs <- read.csv("ANZ_IND_Absenteism.csv")
+turnover <- read.csv("ANZ_IND_Turnover.csv")
+turnover <- clean_names(turnover)
 ```
 
-#### ANZ_IND_Absenteism
+pers_no
+action_type
+reason_for_action
+co_cd
+company_code
+personell_area
+cost_ctr_code
+cost_center
+organizational_unit
+date
+turnover
+turn_abs
 
-Pers.no. - individual number of the employee that was absent
-A.AType - ???
-Attendance.or.Absence.Type - Type of leave
-Absence.Start.date - the start of the leave (change into date format)
-Absence.End.date - the day that employee returned (change into date format)
-Hrs - hours that employee wasnt at work (change into numeric)
-Days - number of days that the employee was absent
-DailyHrs - daily number of working hours
-Personnel.Area - the location
-Personnel.Subarea - smaller location
-Position - job position
-Cost.ctr - ???
-Cost.Center - ???
-Organizational.Unit - unit that was affected by the absentee?
-Date - ??? DOB??
+```{r}
+skim(turnover)
+```
 
-#### Absenteeism AND Overtime
+1. Cleaning change the hiring to hire employee
+```{r}
+turnover %>%
+  count(action_type)
+```
+```{r}
+turnover %>%
+  count(organizational_unit, sort = TRUE)
+```
 
-#### Absenteeism AND Overtime SUMMARISED
+```{r}
+turnover %>%
+  count(reason_for_action, sort = TRUE)
+```
+Add other for reason for action
 
+2. Change the turnover column
 
+#### Termination Data
 
+```{r}
+termination <- read.csv("ANZ_IND_Termination Data.csv")
+termination <- clean_names(termination)
+```
 
-			
+Same data but includes more terminations, have to add it to the turnover
+
+#### Headcount Data
+
+```{r}
+headcount <- read.csv("Headcount Filtered.csv")
+headcount <- clean_names(headcount)
+```
+
+```{r}
+headcount2 <- read.csv("Headcount Report APAC_MAY 2019.csv")
+headcount2 <- clean_names(headcount2)
+```
+
+```{r}
+headcount3 <- read.csv("Headcount Filtered Connors.csv")
+headcount3 <- clean_names(headcount3)
+```
+
+Add all the data tables together, remove insignificant columns 
+
+#### New Starter Data
+
+```{r}
+new_starter <- read.csv("ANZ_IND_New Starter Data.csv")
+new_starter <- clean_names(new_starter)
+```
+
+```{r}
+new_starter %>%
+  count(action_type)
+```
+```{r}
+new_starter %>%
+  count(reason_for_action)
+```
