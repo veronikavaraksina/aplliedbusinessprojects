@@ -120,6 +120,9 @@ headcount <- headcount %>%
          full_name = str_c(last_name, " ", first_name),
          full_name = str_trim(full_name),
          full_name = str_to_title(full_name),
+         manager = str_replace(manager, ",", " "),
+         manager = str_trim(manager),
+         manager = str_to_title(manager),
          pers_no = as.character(pers_no),
          man_persno = as.character(man_persno)) %>%
   select(-fullname, -first_name, -last_name)
@@ -129,6 +132,10 @@ headcount3 <- headcount3 %>%
          full_name = str_c(last_name, " ", first_name),
          full_name = str_trim(full_name),
          full_name = str_to_title(full_name),
+         manager = str_replace(manager, ",", " "),
+         manager = str_trim(manager),
+         manager = str_to_title(manager),
+         pers_no = as.character(pers_no),
          pers_no = as.character(pers_no),
          man_persno = as.character(man_persno)) %>%
   select(-fullname, -first_name, -last_name)
