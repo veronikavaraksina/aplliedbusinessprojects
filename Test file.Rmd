@@ -104,11 +104,12 @@ Headcount 3 has the same formatting as headcount.
 
 ```{r}
 headcount <- headcount %>%
-  select(-pers_count, -presno2, -empl)
+  select(-presno2, -empl)
 headcount3 <- headcount3 %>%
-  select(-pers_count, -presno2, -empl, -connors)
+  select(-presno2, -empl, -connors)
 headcount2 <- headcount2 %>%
   select(-empl)
+headcount2$pers_count <- 1
 ```
 
 Instead of two column of first name and last name, one column named full name was created. We got rid of all extra white spaces and changed the order from last name, comma, first name to last name and first name. The new column was named full_name. Also changed the format of the name, some were all lower letter, so we changed that.
@@ -179,7 +180,6 @@ headcount2 <- rename(headcount2, c("pers_no" = "pers_no.x"))
 
 ```
 
-
 ```{r}
 combined_headcount <- union(headcount, headcount2)
 combined_headcount <- union(combined_headcount, headcount3)
@@ -187,6 +187,8 @@ combined_headcount <- union(combined_headcount, headcount3)
 
 ```{r}
 combined_headcount <- distinct(combined_headcount)
+combined_headcount <- combined_headcount
+combined_headcount <- combined_headcount %>% mutate(across(where(is.character), str_trim))
 ```
 
 ```{r}
