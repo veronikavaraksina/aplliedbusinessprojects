@@ -8,60 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(skimr)
 library(janitor)
+library(lubridate)
 ```
 
 ### Data description
-
-#### Turnover
-
-```{r}
-turnover <- read.csv("ANZ_IND_Turnover.csv")
-turnover <- clean_names(turnover)
-```
-
-pers_no
-action_type
-reason_for_action
-co_cd
-company_code
-personell_area
-cost_ctr_code
-cost_center
-organizational_unit
-date
-turnover
-turn_abs
-
-```{r}
-skim(turnover)
-```
-
-1. Cleaning change the hiring to hire employee
-```{r}
-turnover %>%
-  count(action_type, sort = TRUE)
-```
-```{r}
-turnover %>%
-  count(organizational_unit, sort = TRUE)
-```
-
-```{r}
-turnover %>%
-  count(reason_for_action, sort = TRUE)
-```
-Add other for reason for action
-
-2. Change the turnover column
-
-#### Termination Data
-
-```{r}
-termination <- read.csv("ANZ_IND_Termination Data.csv")
-termination <- clean_names(termination)
-```
-
-Same data but includes more terminations, have to add it to the turnover
 
 #### Headcount Data
 
@@ -187,7 +137,6 @@ combined_headcount <- union(combined_headcount, headcount3)
 
 ```{r}
 combined_headcount <- distinct(combined_headcount)
-combined_headcount <- combined_headcount
 combined_headcount <- combined_headcount %>% mutate(across(where(is.character), str_trim))
 ```
 
@@ -196,19 +145,66 @@ write.csv(combined_headcount,"combined_headcount.csv", row.names = FALSE)
 ```
 
 
-#### New Starter Data
+#### Turnover Data
 
 ```{r}
+turnover <- read.csv("ANZ_IND_Turnover.csv")
+turnover <- clean_names(turnover)
 new_starter <- read.csv("ANZ_IND_New Starter Data.csv")
-new_starter <- clean_names(new_starter)
+new_starter <- clean_names(new_starter) %>%
+  select(-start_date_action, -end_date_action, -position, -organizational_key)
+termination <- read.csv("ANZ_IND_Termination Data.csv")
+termination <- clean_names(termination)
 ```
 
 ```{r}
-new_starter %>%
-  count(action_type, sort = TRUE)
+new_starter <- rename(new_starter, c('co_cd' = 'company_code'))
+new_starter <- rename(new_starter, c('company_code' = 'company_code_1'))
+termination <- rename(termination, c('date' = 'start_date_action'))
+turnover <- rename(turnover, c('cost_ctr' = 'cost_ctr_code'))
+new_starter$turnover <- 1
+new_starter$turn_abs <- 1
+termination$turnover <- -1
+termination$turn_abs <- 1
+new_starter <- new_starter %>%
+  mutate(action_type = str_replace(action_type, 'Hiring', 'Hire Employee'))
+turnover <- turnover %>%
+  mutate(action_type = str_replace(action_type, 'Hiring', 'Hire Employee'))
 ```
 
 ```{r}
-new_starter %>%
-  count(reason_for_action, sort = TRUE)
+combined_turnover <- union(new_starter, termination)
+combined_turnover <- union(combined_turnover, turnover)
+combined_turnover <- distinct(combined_turnover)
+combined_turnover <- combined_turnover %>% mutate(across(where(is.character), str_trim))
 ```
+
+
+```{r}
+hiring <- read.csv("ANZ_IND_New Starter Data.csv")
+hiring <- clean_names(hiring)
+hiring <- hiring %>% mutate(across(where(is.character), str_trim))
+hiring <- hiring %>%
+  mutate(action_type = str_replace(action_type, 'Hiring', 'Hire Employee'))
+```
+
+```{r}
+write.csv(combined_turnover,"combined_turnover.csv", row.names = FALSE)
+write.csv(hiring,"hiring.csv", row.names = FALSE)
+```
+
+
+pers_no - id
+action_type - resignation or hiring
+reason_for_action - reason
+co_cd and company_code 
+company_code
+personell_area
+cost_ctr
+cost_center
+organizational_unit
+date
+turnover
+turn_abs
+
+
