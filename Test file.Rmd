@@ -141,6 +141,25 @@ combined_headcount <- combined_headcount %>% mutate(across(where(is.character), 
 ```
 
 ```{r}
+combined_headcount <- rename(combined_headcount, c("funct" = "function"))
+```
+
+
+```{r}
+combined_headcount %>%
+  count(position, sort = TRUE)
+```
+```{r}
+combined_headcount %>%
+  count(funct, sort = TRUE)
+```
+```{r}
+combined_headcount %>%
+  count(organizational_unit, sort = TRUE)
+```
+
+
+```{r}
 write.csv(combined_headcount,"combined_headcount.csv", row.names = FALSE)
 ```
 
