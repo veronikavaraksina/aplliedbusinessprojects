@@ -164,16 +164,14 @@ new_starter <- new_starter %>%
   mutate(action_type = str_replace(action_type, 'Hiring', 'Hire Employee'))
 turnover <- turnover %>%
   mutate(action_type = str_replace(action_type, 'Hiring', 'Hire Employee'))
-```
 
-```{r}
 turnover <- turnover %>%
   mutate(location = case_when(personnel_subarea == "Adelaide Shift" ~ "Adelaide",
                               personnel_subarea == "Adelaide Day" ~ "Adelaide",
                               personnel_subarea == "Brisbane Shift" ~ "Brisbane",
                               personnel_subarea == "Brisbane Day" ~ "Brisbane",
-                              personnel_subarea == "Day Elec" ~ "Day",
-                              personnel_subarea == "Day Glass" ~ "Day",
+                              personnel_subarea == "Day Elec" ~ "Sydney",
+                              personnel_subarea == "Day Glass" ~ "Sydney",
                               personnel_subarea == "Jkta Day Glass" ~ "Jakarta",
                               personnel_subarea == "Jkta Day No Awd" ~ "Jakarta",
                               personnel_subarea == "Jkta Shft Glass" ~ "Jakarta",
@@ -188,31 +186,25 @@ turnover <- turnover %>%
                               personnel_subarea == "Sydney Day" ~ "Sydney",
                               personnel_subarea == "Sydney Shift" ~ "Sydney",)) %>%
   mutate(location = replace_na(location, "Other"))
-```
 
-```{r}
 turnover <- turnover %>%
-  select(-co_cd, -company_code, -personnel_area, -personnel_subarea, -cost_ctr_code, -cost_center, - organizational_unit)
-```
+  select(-co_cd, -company_code, -personnel_area, -personnel_subarea, -cost_ctr_code, -cost_center)
 
-```{r}
 a <- turnover$date
 b <- as.factor(a)
 c <- as.Date(a,format="%Y-%m-%d")
 d <- strptime(b,format="%d/%m/%Y")
 e <- as.Date(d,format="%Y-%m-%d")
 turnover$date <- e
-```
 
-```{r}
 headcount_turnover <- combined_headcount %>%
-  select(-personnel_area, -man_persno, -manager, -funct, -organizational_unit, -employee_group, -position, -cost_centre_number, -cost_centre_description, -salaried_waged, -location, -travel_cost_centre, -travel_cost_code, -full_name) %>%
+  select(-personnel_area, -man_persno, -manager, -funct, -employee_group, -position, -cost_centre_number, -cost_centre_description, -salaried_waged, -location, -travel_cost_centre, -travel_cost_code, -full_name) %>%
   mutate(location = case_when(personnel_subarea == "Adelaide Shift" ~ "Adelaide",
                               personnel_subarea == "Adelaide Day" ~ "Adelaide",
                               personnel_subarea == "Brisbane Shift" ~ "Brisbane",
                               personnel_subarea == "Brisbane Day" ~ "Brisbane",
-                              personnel_subarea == "Day Elec" ~ "Day",
-                              personnel_subarea == "Day Glass" ~ "Day",
+                              personnel_subarea == "Day Elec" ~ "Sydney",
+                              personnel_subarea == "Day Glass" ~ "Sydney",
                               personnel_subarea == "Jkta Day Glass" ~ "Jakarta",
                               personnel_subarea == "Jkta Day No Awd" ~ "Jakarta",
                               personnel_subarea == "Jkta Shft Glass" ~ "Jakarta",
@@ -227,42 +219,27 @@ headcount_turnover <- combined_headcount %>%
                               personnel_subarea == "Sydney Day" ~ "Sydney",
                               personnel_subarea == "Sydney Shift" ~ "Sydney",)) %>%
   mutate(location = replace_na(location, "Other"))
-```
 
-```{r}
 a <- headcount_turnover$date
 b <- as.factor(a)
 c <- as.Date(a,format="%Y-%m-%d")
 d <- strptime(b,format="%d/%m/%Y")
 e <- as.Date(d,format="%Y-%m-%d")
 headcount_turnover$date <- e
-```
 
-Sub-setting for the data only from 2000
-
-```{r}
 headcount_turnover <- headcount_turnover[(headcount_turnover$date > "2000-01-01" & headcount_turnover$date < "2022-05-20"),]
 turnover <- turnover[(turnover$date > "2000-01-01" & turnover$date < "2022-05-20"),]
-```
 
-What location has the highest employee turnover?
-Location leaving employees / location number of employees
-
-```{r}
 a <- headcount_turnover %>% count(location, name = "positive")
 b <- turnover[(turnover$turnover == -1),] %>% count(location, name = "negative")
 turnover_ratio <- inner_join(a, b)
 ```
 
-Average time spent before movement?
-
 ```{r}
 new_starter_mov <- new_starter %>%
   select(-company_code, -company_code_1, -personnel_area, -cost_ctr, -cost_center, -organizational_key, -organizational_unit)
 new_starter_mov <- new_starter_mov[(new_starter_mov$reason_for_action == "New position"),]
-```
 
-```{r}
 a <- new_starter_mov$date
 b <- as.factor(a)
 c <- as.Date(a,format="%Y-%m-%d")
@@ -281,20 +258,16 @@ c <- as.Date(a,format="%Y-%m-%d")
 d <- strptime(b,format="%d/%m/%Y")
 e <- as.Date(d,format="%Y-%m-%d")
 new_starter_mov$end_date_action <- e
-```
 
-```{r}
 new_starter_mov <- distinct(new_starter_mov)
-```
 
-```{r}
 new_starter_mov <- new_starter_mov %>%
   mutate(location = case_when(personnel_subarea == "Adelaide Shift" ~ "Adelaide",
                               personnel_subarea == "Adelaide Day" ~ "Adelaide",
                               personnel_subarea == "Brisbane Shift" ~ "Brisbane",
                               personnel_subarea == "Brisbane Day" ~ "Brisbane",
-                              personnel_subarea == "Day Elec" ~ "Day",
-                              personnel_subarea == "Day Glass" ~ "Day",
+                              personnel_subarea == "Day Elec" ~ "Sydney",
+                              personnel_subarea == "Day Glass" ~ "Sydney",
                               personnel_subarea == "Jkta Day Glass" ~ "Jakarta",
                               personnel_subarea == "Jkta Day No Awd" ~ "Jakarta",
                               personnel_subarea == "Jkta Shft Glass" ~ "Jakarta",
@@ -310,12 +283,93 @@ new_starter_mov <- new_starter_mov %>%
                               personnel_subarea == "Sydney Shift" ~ "Sydney",)) %>%
   mutate(location = replace_na(location, "Other")) %>%
   select(-personnel_subarea)
-```
 
-```{r}
 new_starter_mov <- new_starter_mov %>%
   filter(end_date_action != "9999-12-31") %>%
   mutate(movement = end_date_action - start_date_action)
 ```
 
-Employee trends
+Departments & location with highest employee turnover 
+
+Joining current headcount with new employees through the years
+
+```{r}
+headcount_turnover <- headcount_turnover%>%
+  mutate(pers_no = as.integer(pers_no))
+hired <- turnover %>%
+  filter(turnover != -1) %>%
+  select(-action_type, -reason_for_action, -turnover) %>%
+  rename(c("pers_count" = "turn_abs"))
+headcount_turnover <- headcount_turnover %>%
+  select(-country, -employee_subgroup, -personnel_subarea)
+turnover_positive <- union(headcount_turnover, hired)
+turnover_negative <- turnover %>%
+  filter(turnover != 1) %>%
+  select(-action_type, -reason_for_action, -turnover) %>%
+  distinct(pers_no, .keep_all = TRUE)
+new_hired <- new_starter %>%
+  select(pers_no, date, organizational_unit, personnel_subarea) %>%
+  mutate(location = case_when(personnel_subarea == "Adelaide Shift" ~ "Adelaide",
+                              personnel_subarea == "Adelaide Day" ~ "Adelaide",
+                              personnel_subarea == "Brisbane Shift" ~ "Brisbane",
+                              personnel_subarea == "Brisbane Day" ~ "Brisbane",
+                              personnel_subarea == "Day Elec" ~ "Sydney",
+                              personnel_subarea == "Day Glass" ~ "Sydney",
+                              personnel_subarea == "Jkta Day Glass" ~ "Jakarta",
+                              personnel_subarea == "Jkta Day No Awd" ~ "Jakarta",
+                              personnel_subarea == "Jkta Shft Glass" ~ "Jakarta",
+                              personnel_subarea == "Jkta Shft Staff" ~ "Jakarta",
+                              personnel_subarea == "Jkta Shft Wages" ~ "Jakarta",
+                              personnel_subarea == "Melbourne CBD" ~ "Melbourne",
+                              personnel_subarea == "Melbourne CBDAU" ~ "Melbourne",
+                              personnel_subarea == "Melbourne Day" ~ "Melbourne",
+                              personnel_subarea == "Melbourne Shift" ~ "Melbourne",
+                              personnel_subarea == "New Zealand Day" ~ "Brisbane",
+                              personnel_subarea == "NewZealandShift" ~ "Brisbane",
+                              personnel_subarea == "Sydney Day" ~ "Sydney",
+                              personnel_subarea == "Sydney Shift" ~ "Sydney",)) %>%
+  mutate(location = replace_na(location, "Other")) %>%
+  select(-personnel_subarea)
+new_hired$pers_count <- 1
+a <- new_hired$date
+b <- as.factor(a)
+c <- as.Date(a,format="%Y-%m-%d")
+d <- strptime(b,format="%d/%m/%Y")
+e <- as.Date(d,format="%Y-%m-%d")
+new_hired$date <- e 
+turnover_positive <- union(turnover_positive, new_hired)
+```
+
+Counting by location and department
+
+```{r}
+a <- turnover_positive %>% count(location, name = "positive")
+b <- turnover_negative %>% count(location, name = "negative")
+turnover_ratio_2 <- inner_join(a, b)
+
+a <- turnover_positive %>% count(organizational_unit, name = "positive")
+b <- turnover_negative %>% count(organizational_unit, name = "negative")
+turnover_ratio_dep <- inner_join(a, b)
+```
+
+Gap between new hires and leavers
+
+```{r}
+turnover <- turnover %>% mutate(years = year(date))
+```
+
+```{r}
+turnover_negative <- turnover_negative %>% mutate(years = year(date))
+turnover_positive <- turnover_positive %>% mutate(years = year(date))
+new_hired <- new_hired %>% mutate(years = year(date))
+```
+
+```{r}
+write.csv(turnover_ratio_2,"turnover_ratio_location.csv", row.names = FALSE)
+write.csv(turnover_ratio_dep,"turnover_ratio_department", row.names = FALSE)
+write.csv(turnover_negative,"leavers.csv", row.names = FALSE)
+write.csv(new_starter_mov,"promotion_data.csv", row.names = FALSE)
+write.csv(turnover,"turnover.csv", row.names = FALSE)
+write.csv(new_hired,"new_employees.csv", row.names = FALSE)
+```
+

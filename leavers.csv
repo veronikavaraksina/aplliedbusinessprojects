@@ -1,0 +1,2713 @@
+"pers_no","organizational_unit","date","turn_abs","location","years"
+1,"Commercial O-I Asia Pacific",2018-12-21,1,"Other",2018
+2,"Wine Segment",2013-12-21,1,"Other",2013
+3,"Sales & Marketing Australia",2006-01-01,1,"Brisbane",2006
+6,"Sales South Australia",2008-04-05,1,"Adelaide",2008
+9,"Marketing",2007-09-29,1,"Melbourne",2007
+10,"Sales South Australia",2007-08-18,1,"Adelaide",2007
+12,"Marketing",2002-08-24,1,"Melbourne",2002
+13,"Sales",2003-12-20,1,"Melbourne",2003
+42,"E Shift",2001-01-23,1,"Other",2001
+46,"Machine Maintenance",2003-08-09,1,"Other",2003
+100,"Machine Maintenance",2001-10-06,1,"Other",2001
+101,"",2003-09-12,1,"Other",2003
+107,"Audit and Resort",2001-10-16,1,"Other",2001
+132,"D Shift",2003-08-17,1,"Other",2003
+139,"Batch & Furnace",2011-12-10,1,"Brisbane",2011
+140,"Analytical Services",2001-05-05,1,"Melbourne",2001
+172,"Analytical Services",2013-06-29,1,"Melbourne",2013
+177,"Analytical Services",2013-06-29,1,"Melbourne",2013
+289,"Plant Procedures & Specifications (ISO)",2003-09-17,1,"Sydney",2003
+290,"C Shift",2016-03-05,1,"Sydney",2016
+291,"Maintenance-Cold End",2003-01-11,1,"Sydney",2003
+292,"Cold End Job Change",2001-11-12,1,"Sydney",2001
+294,"B Shift",2003-04-26,1,"Sydney",2003
+296,"A Shift",2002-05-31,1,"Sydney",2002
+298,"C Shift",2008-08-16,1,"Sydney",2008
+300,"D Shift",2010-10-24,1,"Sydney",2010
+301,"Plant Procedures & Specifications (ISO)",2005-06-11,1,"Sydney",2005
+306,"Machine Maintenance",2013-03-17,1,"Sydney",2013
+307,"C Shift",2005-07-26,1,"Sydney",2005
+308,"B Shift",2004-08-22,1,"Sydney",2004
+310,"AUDIT",2013-11-13,1,"Sydney",2013
+314,"A Shift",2013-11-12,1,"Sydney",2013
+315,"Mould Repair",2003-01-01,1,"Sydney",2003
+318,"Mould Repair",2013-11-13,1,"Sydney",2013
+319,"B Shift",2013-11-13,1,"Sydney",2013
+320,"B Shift",2019-06-24,1,"Sydney",2019
+321,"Batch & Furnace",2013-11-09,1,"Sydney",2013
+323,"Batch & Furnace",2011-07-05,1,"Sydney",2011
+325,"Customer Technical Services",2004-02-28,1,"Sydney",2004
+326,"Batch & Furnace",2006-03-12,1,"Sydney",2006
+327,"D Shift",2013-11-13,1,"Sydney",2013
+329,"Maintenance-Cold End",2011-10-30,1,"Sydney",2011
+330,"Inspection & Packaging",2005-03-20,1,"Sydney",2005
+337,"D Shift",2013-11-13,1,"Sydney",2013
+339,"Engineering",2000-03-25,1,"Sydney",2000
+342,"Plant Mechanical Sydney",2013-11-13,1,"Sydney",2013
+344,"C Shift",2013-11-13,1,"Sydney",2013
+346,"Batch & Furnace",2013-12-29,1,"Sydney",2013
+347,"Cold End Job Change",2013-11-13,1,"Sydney",2013
+348,"C Shift",2002-12-23,1,"Sydney",2002
+350,"Batch & Furnace",2013-12-29,1,"Sydney",2013
+351,"AUDIT",2013-11-12,1,"Sydney",2013
+352,"A Shift",2000-01-22,1,"Sydney",2000
+354,"Mould Repair",2015-01-17,1,"Sydney",2015
+356,"A Shift",2013-11-12,1,"Sydney",2013
+357,"D Shift",2008-09-13,1,"Sydney",2008
+358,"Customer Technical Services",2017-08-01,1,"Sydney",2017
+360,"Machine Maintenance",2004-04-03,1,"Sydney",2004
+361,"Plant Procedures & Specifications (ISO)",2003-02-22,1,"Sydney",2003
+363,"Batch & Furnace",2013-12-29,1,"Sydney",2013
+364,"A Shift",2007-03-26,1,"Sydney",2007
+367,"Manufacturing",2013-06-29,1,"Sydney",2013
+372,"Plant Procedures & Specifications (ISO)",2004-11-06,1,"Sydney",2004
+374,"D Shift",2007-08-27,1,"Sydney",2007
+376,"C Shift",2008-01-26,1,"Sydney",2008
+377,"D Shift",2013-11-13,1,"Sydney",2013
+381,"Mould Repair",2013-11-13,1,"Sydney",2013
+382,"Batch & Furnace",2004-01-23,1,"Sydney",2004
+386,"Engineering",2002-02-17,1,"Sydney",2002
+391,"Machine Maintenance",2007-08-18,1,"Sydney",2007
+392,"C Shift",2013-11-13,1,"Sydney",2013
+393,"A Shift",2013-11-13,1,"Sydney",2013
+398,"Plant Electrical Sydney",2013-11-30,1,"Sydney",2013
+399,"Cold End Job Change",2013-11-13,1,"Sydney",2013
+401,"Plant Maintenance Sydney",2013-11-13,1,"Sydney",2013
+404,"Batch & Furnace",2008-07-18,1,"Sydney",2008
+406,"Maintenance-Cold End",2013-03-17,1,"Sydney",2013
+407,"Cold End Job Change",2004-03-13,1,"Sydney",2004
+410,"D Shift",2002-08-22,1,"Sydney",2002
+411,"B Shift",2005-02-05,1,"Sydney",2005
+412,"B Shift",2005-05-06,1,"Sydney",2005
+417,"Stock Control",2010-10-02,1,"Sydney",2010
+419,"Cold End Job Change",2011-08-29,1,"Sydney",2011
+421,"Engineering",2011-10-15,1,"Sydney",2011
+423,"A Shift",2013-11-12,1,"Sydney",2013
+425,"Machine Maintenance",2011-10-30,1,"Sydney",2011
+426,"A Shift",2013-11-12,1,"Sydney",2013
+427,"A Shift",2004-07-11,1,"Sydney",2004
+428,"D Shift",2008-01-26,1,"Sydney",2008
+432,"B Shift",2004-09-03,1,"Sydney",2004
+439,"Mould Repair",2011-03-26,1,"Sydney",2011
+440,"Forming Job Change",2006-07-21,1,"Sydney",2006
+441,"A Shift",2004-01-29,1,"Sydney",2004
+444,"B Shift",2003-05-10,1,"Sydney",2003
+446,"A Shift",2003-02-01,1,"Sydney",2003
+447,"Mould Repair",2010-07-11,1,"Sydney",2010
+450,"B Shift",2002-01-25,1,"Sydney",2002
+452,"B Shift",2006-07-22,1,"Sydney",2006
+453,"C Shift",2013-11-13,1,"Sydney",2013
+454,"C Shift",2013-11-13,1,"Sydney",2013
+455,"Business Services",2006-09-15,1,"Sydney",2006
+458,"Plant Electrical Sydney",2013-11-15,1,"Sydney",2013
+460,"O-I Sydney Plant",2017-04-12,1,"Sydney",2017
+462,"Engineering",2000-01-15,1,"Sydney",2000
+466,"D Shift",2001-12-13,1,"Sydney",2001
+467,"D Shift",2013-11-13,1,"Sydney",2013
+468,"B Shift",2006-10-29,1,"Sydney",2006
+471,"Plant Procedures & Specifications (ISO)",2005-06-18,1,"Sydney",2005
+475,"C Shift",2009-10-03,1,"Sydney",2009
+476,"Maintenance-Cold End",2011-12-07,1,"Sydney",2011
+477,"A Shift",2013-04-25,1,"Sydney",2013
+478,"Batch & Furnace",2013-12-29,1,"Sydney",2013
+481,"D Shift",2019-01-16,1,"Sydney",2019
+482,"Stock Control",2007-07-08,1,"Sydney",2007
+485,"Plant Procedures & Specifications (ISO)",2002-03-09,1,"Sydney",2002
+488,"A Shift",2007-09-15,1,"Sydney",2007
+490,"Plant Electrical Sydney",2013-11-28,1,"Sydney",2013
+491,"A Shift",2009-07-05,1,"Sydney",2009
+493,"Business Services",2001-11-14,1,"Sydney",2001
+494,"Plant Mechanical Sydney",2013-11-13,1,"Sydney",2013
+495,"Maintenance-Cold End",2013-03-25,1,"Sydney",2013
+500,"Forming Job Change",2006-07-21,1,"Sydney",2006
+502,"A Shift",2002-02-20,1,"Sydney",2002
+504,"A Shift",2013-11-13,1,"Sydney",2013
+513,"Machine Maintenance",2011-10-22,1,"Sydney",2011
+516,"Maintenance-Cold End",2011-08-29,1,"Sydney",2011
+519,"Mould Repair",2005-03-24,1,"Sydney",2005
+522,"C Shift",2008-09-26,1,"Sydney",2008
+524,"Mould Repair",2007-12-14,1,"Sydney",2007
+525,"B Shift",2013-11-13,1,"Sydney",2013
+530,"B Shift",2013-11-13,1,"Sydney",2013
+534,"A Shift",2013-11-12,1,"Sydney",2013
+535,"Stock Control",2007-08-11,1,"Sydney",2007
+537,"Machine Maintenance",2012-11-17,1,"Sydney",2012
+539,"Forming Job Change",2011-12-07,1,"Sydney",2011
+542,"C Shift",2000-05-31,1,"Sydney",2000
+546,"Mould Repair",2010-09-04,1,"Sydney",2010
+548,"Plant Electrical Sydney",2013-11-13,1,"Sydney",2013
+549,"Maintenance-Cold End",2011-10-30,1,"Sydney",2011
+550,"Production Line Management 2",2018-10-20,1,"Sydney",2018
+551,"B Shift",2008-01-25,1,"Sydney",2008
+552,"C Shift",2012-07-01,1,"Sydney",2012
+555,"Batch & Furnace",2013-12-29,1,"Sydney",2013
+556,"D Shift",2015-09-07,1,"Sydney",2015
+558,"Engineering",2003-02-01,1,"Sydney",2003
+559,"D Shift",2018-10-04,1,"Sydney",2018
+563,"Mould Repair",2006-07-08,1,"Sydney",2006
+569,"C Shift",2006-07-21,1,"Sydney",2006
+570,"Forming Job Change",2003-12-25,1,"Sydney",2003
+571,"A Shift",2010-12-28,1,"Sydney",2010
+572,"Machine Maintenance",2008-08-11,1,"Sydney",2008
+573,"B Shift",2002-05-25,1,"Sydney",2002
+578,"D Shift",2013-11-13,1,"Sydney",2013
+579,"Mould Repair",2001-10-21,1,"Sydney",2001
+581,"Mould Repair",2010-07-10,1,"Sydney",2010
+582,"Mould Repair",2000-02-26,1,"Sydney",2000
+583,"C Shift",2011-04-03,1,"Sydney",2011
+584,"Mould Repair",2008-08-09,1,"Sydney",2008
+585,"A Shift",2008-08-09,1,"Sydney",2008
+587,"Maintenance-Cold End",2011-10-23,1,"Sydney",2011
+601,"Batch & Furnace",2013-12-29,1,"Sydney",2013
+602,"B Shift",2007-05-13,1,"Sydney",2007
+608,"A Shift",2010-05-21,1,"Sydney",2010
+611,"Customer Technical Services",2017-07-02,1,"Sydney",2017
+613,"Occupational Health & Safety",2001-09-08,1,"Sydney",2001
+614,"Batch and Furnace",2002-04-10,1,"Adelaide",2002
+615,"Forming",2007-03-07,1,"Sydney",2007
+617,"Batch & Furnace",2001-12-15,1,"Sydney",2001
+619,"Operational Advancement",2017-08-17,1,"Sydney",2017
+620,"C Shift",2018-04-17,1,"Sydney",2018
+621,"Engineering",2007-12-04,1,"Sydney",2007
+623,"Occupational Health & Safety",2002-09-07,1,"Sydney",2002
+631,"Manufacturing",2013-11-13,1,"Sydney",2013
+634,"Human Resources",2004-08-29,1,"Sydney",2004
+638,"Manufacturing",2009-06-23,1,"Melbourne",2009
+640,"Business Services",2003-09-01,1,"Sydney",2003
+643,"Human Resources",2006-08-01,1,"Sydney",2006
+645,"Quality Services",2013-11-22,1,"Sydney",2013
+649,"Mould Repair",2003-07-05,1,"Sydney",2003
+650,"B Shift",2003-05-06,1,"Sydney",2003
+655,"Quality Services",2016-07-02,1,"Sydney",2016
+656,"C Shift",2004-04-07,1,"Sydney",2004
+660,"ACI Glass Packaging Penrith",2003-08-23,1,"Sydney",2003
+661,"Machine Maintenance",2002-08-17,1,"Sydney",2002
+662,"Human Resources",2003-07-05,1,"Sydney",2003
+663,"Business Services",2002-12-19,1,"Sydney",2002
+665,"Plant Procedures & Specifications (ISO)",2003-05-24,1,"Sydney",2003
+666,"D Shift",2013-11-13,1,"Sydney",2013
+667,"Batch & Furnace",2002-11-02,1,"Sydney",2002
+669,"Cold End C Shift",2007-08-04,1,"Brisbane",2007
+670,"D Shift",2013-04-01,1,"Brisbane",2013
+673,"Distribution",2012-12-01,1,"Melbourne",2012
+675,"Sales & Marketing O-I Australia",2017-07-08,1,"Melbourne",2017
+676,"Forming",2005-01-01,1,"Adelaide",2005
+678,"Human Resources O-I Asia Pacific",2017-01-01,1,"Melbourne",2017
+680,"Manufacturing Support",2008-08-30,1,"Melbourne",2008
+682,"Marketing",2007-12-01,1,"Melbourne",2007
+691,"Human Resources O-I Asia Pacific",2013-12-21,1,"Melbourne",2013
+692,"Customer Services",2009-03-07,1,"Melbourne",2009
+694,"Human Resources",2002-03-16,1,"Brisbane",2002
+695,"Applications",2011-02-05,1,"Melbourne",2011
+698,"Plant Engineering",2006-01-06,1,"Melbourne",2006
+700,"Risk Management",2016-11-01,1,"Melbourne",2016
+704,"Human Resources",2004-11-20,1,"Adelaide",2004
+706,"Business Services",2004-09-02,1,"Melbourne",2004
+707,"Business Services",2013-09-26,1,"Brisbane",2013
+710,"Customer Technical Services Australia",2013-07-06,1,"Other",2013
+718,"Sales & Marketing O-I Australia",2014-10-01,1,"Melbourne",2014
+719,"Occupational Health & Safety",2013-12-21,1,"Melbourne",2013
+720,"Human Resources",2004-06-01,1,"Melbourne",2004
+721,"Distribution - Victoria",2017-04-30,1,"Melbourne",2017
+722,"Financial Operations",2011-10-29,1,"Melbourne",2011
+723,"Forming",2002-03-01,1,"Adelaide",2002
+724,"ANZ Planning",2017-10-01,1,"Melbourne",2017
+725,"Facilities Advancement",2013-07-16,1,"Melbourne",2013
+726,"Applications",2013-07-13,1,"Melbourne",2013
+727,"Business Services",2004-02-13,1,"Other",2004
+728,"Plant Engineering",2011-09-01,1,"Melbourne",2011
+729,"Manufacturing",2005-11-26,1,"Brisbane",2005
+734,"Commercial",2011-11-01,1,"Melbourne",2011
+738,"Corporate Accounting",2011-07-16,1,"Melbourne",2011
+740,"Regional Integrated Operations",2014-09-01,1,"Melbourne",2014
+744,"Customer Technical Services",2005-03-25,1,"Melbourne",2005
+747,"Product & Mould Design",2007-08-01,1,"Melbourne",2007
+752,"Facilities Advancement",2013-06-29,1,"Melbourne",2013
+753,"Information Technology",2009-01-01,1,"Melbourne",2009
+754,"Customer Technical Services Australia",2002-01-01,1,"Melbourne",2002
+757,"Financial Operations",2011-05-27,1,"Melbourne",2011
+759,"Specifications & Quality Mgt Systems",2002-12-14,1,"Melbourne",2002
+761,"ANZ Planning",2017-12-30,1,"Melbourne",2017
+766,"E Shift",2012-09-11,1,"Melbourne",2012
+768,"O-I Australia",2015-01-01,1,"Melbourne",2015
+771,"Australian Financial Operations",2013-11-01,1,"Melbourne",2013
+773,"Manufacturing Support",2006-11-28,1,"Melbourne",2006
+778,"Mould Design and Draughting",2014-11-18,1,"Melbourne",2014
+779,"Regional Quality",2016-08-20,1,"Adelaide",2016
+780,"Hot End D Shift",2006-07-15,1,"Brisbane",2006
+781,"Batch and Furnace",2005-08-02,1,"Adelaide",2005
+782,"Information Technology",2005-01-01,1,"Melbourne",2005
+785,"Regional Quality",2013-09-01,1,"Melbourne",2013
+789,"Distribution - Queensland",2001-11-17,1,"Brisbane",2001
+791,"Plant Engineering",2014-01-17,1,"Melbourne",2014
+796,"Glass Technology",2007-01-01,1,"Melbourne",2007
+797,"Manufacturing",2007-11-11,1,"Brisbane",2007
+799,"Business Services",2004-04-01,1,"Adelaide",2004
+800,"Plant Engineering",2013-08-10,1,"Melbourne",2013
+802,"Information Technology",2004-10-02,1,"Melbourne",2004
+803,"Job Change",2005-07-30,1,"Melbourne",2005
+808,"Expatriates",2006-07-01,1,"Other",2006
+811,"Integrated Systems and Risk",2014-11-16,1,"Brisbane",2014
+815,"ANZ Planning",2017-08-11,1,"Melbourne",2017
+817,"Engineering",2006-11-02,1,"Brisbane",2006
+820,"Operational Advancement",2013-09-01,1,"Melbourne",2013
+821,"Regional Quality",2010-09-01,1,"Melbourne",2010
+822,"Glass Technology",2006-07-10,1,"Melbourne",2006
+825,"Integrated Systems and Risk",2014-11-26,1,"Melbourne",2014
+827,"Business Services Melbourne",2014-07-23,1,"Melbourne",2014
+832,"Inspection & Packaging",2008-05-01,1,"Sydney",2008
+842,"Commercial Projects",2015-07-12,1,"Melbourne",2015
+843,"O-I Australia",2017-02-18,1,"Melbourne",2017
+844,"Inspection & Packaging",2002-01-19,1,"Adelaide",2002
+845,"Engineering",2013-10-15,1,"Adelaide",2013
+848,"Integrated Systems & Risk",2014-09-12,1,"Adelaide",2014
+855,"Engineering Services",2008-03-15,1,"Melbourne",2008
+859,"Engineering",2003-02-01,1,"Adelaide",2003
+860,"Customer Services",2010-05-01,1,"Melbourne",2010
+861,"Mould Repair",2007-12-15,1,"Melbourne",2007
+866,"Distribution - South Australia",2007-11-03,1,"Adelaide",2007
+868,"Customer Services",2008-10-11,1,"Melbourne",2008
+869,"Regional Quality",2015-08-01,1,"Brisbane",2015
+871,"Human Resources O-I Asia Pacific",2013-08-01,1,"Melbourne",2013
+875,"Risk Management",2010-07-31,1,"Melbourne",2010
+877,"Plant Procurement",2001-12-01,1,"Melbourne",2001
+879,"Facilities Engineering",2009-03-17,1,"Melbourne",2009
+880,"Plant Engineering",2009-07-02,1,"Melbourne",2009
+881,"Customer Technical Services",2002-07-27,1,"Brisbane",2002
+883,"Plant Reliability",2014-09-10,1,"Adelaide",2014
+884,"Forming-Job Change",2005-12-10,1,"Brisbane",2005
+885,"Cold End A Shift",2007-08-04,1,"Brisbane",2007
+888,"A Shift",2011-07-30,1,"Adelaide",2011
+890,"Manufacturing",2003-07-02,1,"Brisbane",2003
+893,"Human Resources",2003-01-01,1,"Melbourne",2003
+897,"Integrated Systems and Risk",2014-07-19,1,"Melbourne",2014
+900,"Technical Advancement",2009-10-31,1,"Melbourne",2009
+902,"Mould Repair",2013-08-01,1,"Brisbane",2013
+903,"Engineering",2005-10-29,1,"Sydney",2005
+911,"Plant Engineering",2015-10-03,1,"Melbourne",2015
+919,"Adelaide Plant",2018-12-15,1,"Adelaide",2018
+920,"Regional Quality",2017-02-01,1,"Melbourne",2017
+922,"ACI Packaging",2006-01-01,1,"Other",2006
+923,"Cold End A Shift",2002-02-01,1,"Brisbane",2002
+924,"Business Services",2006-05-06,1,"Brisbane",2006
+928,"New Product Development",2011-03-01,1,"Melbourne",2011
+930,"ANZ Logistics",2017-10-01,1,"Melbourne",2017
+934,"Mechanical Services",2006-11-18,1,"Brisbane",2006
+936,"O-I Melbourne Plant",2009-10-24,1,"Melbourne",2009
+937,"Engineering",2003-01-21,1,"Adelaide",2003
+938,"Regional Quality",2006-11-28,1,"Melbourne",2006
+939,"Cullet Business Development",2018-07-02,1,"Melbourne",2018
+943,"Mould Design and Draughting",2009-10-10,1,"Melbourne",2009
+944,"Expatriates",2014-11-01,1,"Other",2014
+947,"C Shift",2012-11-01,1,"Brisbane",2012
+948,"Plant Engineering",2005-08-27,1,"Melbourne",2005
+949,"Engineering Services",2001-11-17,1,"Melbourne",2001
+950,"Commercial Accounting",2014-09-19,1,"Melbourne",2014
+951,"Operational Advancement & Capability",2017-12-16,1,"Melbourne",2017
+952,"Applications",2016-08-03,1,"Melbourne",2016
+953,"Business Services",2007-05-05,1,"Melbourne",2007
+954,"Engineering Services",2004-06-26,1,"Melbourne",2004
+955,"Distribution",2013-01-01,1,"Melbourne",2013
+956,"Distribution - New South Wales",2002-10-12,1,"Sydney",2002
+960,"Inspection & Packaging",2007-12-01,1,"Brisbane",2007
+962,"UPM",2014-09-11,1,"Adelaide",2014
+966,"Monthly Reporting and Planning",2005-11-19,1,"Melbourne",2005
+969,"Operational Advancement",2017-07-04,1,"Melbourne",2017
+972,"Integrated Systems and Risk",2013-12-21,1,"Melbourne",2013
+975,"Product & Mould Design",2013-08-01,1,"Melbourne",2013
+978,"Human Resources",2009-06-06,1,"Melbourne",2009
+983,"Quantum_Master Data",2018-12-19,1,"Melbourne",2018
+985,"Operational Advancement",2017-08-17,1,"Melbourne",2017
+986,"Lean Six Sigma",2018-01-01,1,"Melbourne",2018
+987,"Procurement",2013-06-15,1,"Melbourne",2013
+994,"SAP Basis",2011-08-27,1,"Melbourne",2011
+995,"Information Technology",2001-11-17,1,"Melbourne",2001
+996,"Human Resources",2006-07-08,1,"Sydney",2006
+997,"Human Resources",2010-01-29,1,"Melbourne",2010
+998,"C Shift",2001-10-27,1,"Melbourne",2001
+999,"Integrated Systems & Risk",2014-09-11,1,"Adelaide",2014
+1003,"Procurement",2003-09-01,1,"Melbourne",2003
+1006,"Business Services",2004-05-01,1,"Brisbane",2004
+1008,"Business Services",2005-05-10,1,"Adelaide",2005
+1015,"B Shift",2006-11-02,1,"Melbourne",2006
+1021,"D Shift",2005-01-31,1,"Melbourne",2005
+1025,"Job Change",2009-10-22,1,"Melbourne",2009
+1031,"Forming",2001-12-31,1,"Melbourne",2001
+1039,"A Shift",2010-08-02,1,"Melbourne",2010
+1041,"A Shift",2005-07-12,1,"Melbourne",2005
+1059,"Distribution - Victoria",2001-10-13,1,"Melbourne",2001
+1072,"Inspection & Packaging",2013-12-21,1,"Melbourne",2013
+1074,"E Shift",2008-08-11,1,"Melbourne",2008
+1076,"Engineering Services",2003-06-16,1,"Melbourne",2003
+1077,"Plant Procedures & Specifications (ISO)",2006-07-31,1,"Melbourne",2006
+1087,"Pack Centre",2014-05-22,1,"Melbourne",2014
+1096,"Stores",2017-07-29,1,"Melbourne",2017
+1099,"B Shift",2010-05-11,1,"Melbourne",2010
+1105,"Cold End Job Change",2018-04-28,1,"Melbourne",2018
+1113,"Shift D",2018-05-16,1,"Melbourne",2018
+1116,"Mould Repair",2006-05-27,1,"Melbourne",2006
+1117,"A Shift",2002-10-23,1,"Melbourne",2002
+1118,"Engineering Services",2007-04-23,1,"Melbourne",2007
+1119,"B Shift",2007-07-24,1,"Melbourne",2007
+1120,"D Shift",2008-08-18,1,"Melbourne",2008
+1122,"E Shift",2006-11-20,1,"Melbourne",2006
+1125,"Batch & Furnace",2009-10-01,1,"Melbourne",2009
+1127,"Batch & Furnace",2005-01-31,1,"Melbourne",2005
+1150,"Forming",2004-07-26,1,"Melbourne",2004
+1162,"UPM3 A Shift",2013-12-30,1,"Melbourne",2013
+1183,"A Shift",2003-11-29,1,"Melbourne",2003
+1199,"Mould Repair",2003-04-04,1,"Melbourne",2003
+1213,"Integrated Systems and Risk",2014-08-20,1,"Melbourne",2014
+1246,"C Shift",2003-01-13,1,"Melbourne",2003
+1253,"C Shift",2004-04-30,1,"Melbourne",2004
+1274,"C Shift",2007-06-29,1,"Melbourne",2007
+1276,"A Shift",2009-01-26,1,"Melbourne",2009
+1286,"B Shift",2008-06-20,1,"Melbourne",2008
+1297,"Distribution - Victoria",2007-03-03,1,"Melbourne",2007
+1300,"Integrates Systems and Risk C Shift",2015-07-30,1,"Melbourne",2015
+1303,"A Shift",2008-07-26,1,"Melbourne",2008
+1304,"D Shift",2007-03-03,1,"Melbourne",2007
+1306,"Engineering Services",2001-09-28,1,"Melbourne",2001
+1313,"A Shift",2007-11-10,1,"Melbourne",2007
+1323,"D Shift",2008-09-07,1,"Melbourne",2008
+1337,"B Shift",2011-08-31,1,"Melbourne",2011
+1347,"E Shift",2011-04-09,1,"Melbourne",2011
+1354,"A Shift",2003-04-07,1,"Melbourne",2003
+1356,"D Shift",2011-10-28,1,"Adelaide",2011
+1361,"A Shift",2001-09-11,1,"Adelaide",2001
+1362,"Plant Reliability",2014-10-02,1,"Adelaide",2014
+1366,"Forming",2008-10-08,1,"Adelaide",2008
+1368,"Plant Reliability",2014-10-02,1,"Adelaide",2014
+1372,"Batch and Furnace",2003-04-07,1,"Adelaide",2003
+1373,"Plant Reliability",2014-10-02,1,"Adelaide",2014
+1374,"D Shift",2003-10-15,1,"Adelaide",2003
+1375,"A Shift",2011-10-15,1,"Adelaide",2011
+1382,"Quality Control",2014-10-02,1,"Adelaide",2014
+1383,"B Shift",2002-09-20,1,"Adelaide",2002
+1384,"A Shift",2010-01-03,1,"Adelaide",2010
+1385,"Mould Repair",2012-11-17,1,"Adelaide",2012
+1389,"Inspection & Packaging",2009-08-22,1,"Adelaide",2009
+1390,"D Shift",2012-11-13,1,"Adelaide",2012
+1393,"Engineering",2003-08-02,1,"Adelaide",2003
+1394,"Human Resources",2005-01-22,1,"Adelaide",2005
+1397,"Batch and Furnace",2006-11-03,1,"Adelaide",2006
+1400,"D Shift",2010-03-06,1,"Adelaide",2010
+1402,"Maintenance - Cold End",2001-11-10,1,"Adelaide",2001
+1408,"Machine Maintenance",2009-08-01,1,"Adelaide",2009
+1411,"Integrated Systems & Risk",2014-09-10,1,"Adelaide",2014
+1414,"UPM",2014-04-26,1,"Adelaide",2014
+1419,"D Shift",2010-01-21,1,"Adelaide",2010
+1424,"E Shift",2010-03-08,1,"Adelaide",2010
+1425,"Business Services",2014-10-02,1,"Adelaide",2014
+1426,"Engineering",2001-10-27,1,"Adelaide",2001
+1431,"Manufacturing",2012-03-14,1,"Sydney",2012
+1433,"Maintenance - Cold End",2012-03-24,1,"Adelaide",2012
+1434,"E Shift",2001-12-01,1,"Adelaide",2001
+1437,"Forming",2007-02-06,1,"Adelaide",2007
+1441,"C Shift",2007-11-29,1,"Adelaide",2007
+1444,"Inspection & Packaging",2001-03-03,1,"Adelaide",2001
+1448,"Forming",2004-11-06,1,"Adelaide",2004
+1450,"A Shift",2007-01-20,1,"Adelaide",2007
+1452,"Inspection & Packaging",2001-03-03,1,"Adelaide",2001
+1454,"Inspection & Packaging",2001-03-03,1,"Adelaide",2001
+1456,"Electrical Maintenance",2014-10-02,1,"Adelaide",2014
+1457,"B Shift",2014-11-01,1,"Adelaide",2014
+1459,"Manufacturing",2007-10-20,1,"Adelaide",2007
+1460,"Job Change",2015-04-23,1,"Adelaide",2015
+1464,"C Shift",2015-05-01,1,"Adelaide",2015
+1466,"C Shift",2014-10-02,1,"Adelaide",2014
+1467,"Mould and Machine Maintenance",2014-10-02,1,"Adelaide",2014
+1469,"A Shift",2002-02-25,1,"Adelaide",2002
+1470,"C Shift",2014-02-21,1,"Adelaide",2014
+1474,"Job Change",2014-10-02,1,"Adelaide",2014
+1476,"C Shift",2014-10-02,1,"Adelaide",2014
+1477,"B Shift",2003-11-07,1,"Adelaide",2003
+1478,"Mould and Machine Maintenance",2014-10-15,1,"Adelaide",2014
+1480,"Maintenance - Cold End",2011-11-29,1,"Adelaide",2011
+1481,"C Shift",2002-01-30,1,"Adelaide",2002
+1484,"A Shift",2001-11-16,1,"Adelaide",2001
+1486,"C Shift",2002-03-11,1,"Adelaide",2002
+1489,"Plant Maintenance",2015-08-29,1,"Adelaide",2015
+1490,"Forming",2008-03-28,1,"Adelaide",2008
+1491,"Mould and Machine Maintenance",2014-10-02,1,"Adelaide",2014
+1494,"C Shift",2002-02-06,1,"Adelaide",2002
+1495,"E Shift",2015-04-23,1,"Adelaide",2015
+1497,"O-I Brisbane Plant",2017-07-29,1,"Brisbane",2017
+1499,"Plant Maintenance",2014-10-02,1,"Adelaide",2014
+1501,"D Shift",2015-04-23,1,"Adelaide",2015
+1502,"Job Change",2013-10-15,1,"Adelaide",2013
+1503,"A Shift",2014-10-15,1,"Adelaide",2014
+1506,"C Shift",2004-11-30,1,"Adelaide",2004
+1509,"Inspection & Packaging",2001-03-03,1,"Adelaide",2001
+1511,"D Shift",2011-06-20,1,"Adelaide",2011
+1512,"Engineering",2002-08-30,1,"Adelaide",2002
+1514,"Plant Maintenance",2014-10-15,1,"Adelaide",2014
+1515,"Electrical Maintenance",2014-10-02,1,"Adelaide",2014
+1516,"A Shift",2014-10-02,1,"Adelaide",2014
+1518,"Batch and Furnace",2012-01-14,1,"Adelaide",2012
+1519,"A Shift",2003-05-30,1,"Adelaide",2003
+1520,"D Shift",2003-04-23,1,"Adelaide",2003
+1521,"Inspection & Packaging",2008-01-30,1,"Adelaide",2008
+1523,"Forming",2005-02-04,1,"Adelaide",2005
+1524,"B Shift",2006-09-23,1,"Adelaide",2006
+1528,"D Shift",2011-01-01,1,"Adelaide",2011
+1529,"E Shift",2010-03-08,1,"Adelaide",2010
+1530,"B Shift",2014-11-01,1,"Adelaide",2014
+1531,"C Shift",2002-02-25,1,"Adelaide",2002
+1533,"Machine Maintenance",2014-10-02,1,"Adelaide",2014
+1536,"D Shift",2002-02-25,1,"Adelaide",2002
+1537,"C Shift",2007-09-06,1,"Adelaide",2007
+1540,"A Shift",2015-04-23,1,"Adelaide",2015
+1545,"C Shift",2002-02-08,1,"Adelaide",2002
+1547,"Job Change",2001-10-06,1,"Adelaide",2001
+1548,"D Shift",2006-06-12,1,"Adelaide",2006
+1549,"A Shift",2003-10-13,1,"Adelaide",2003
+1551,"Forming",2003-03-07,1,"Adelaide",2003
+1554,"B Shift",2010-07-23,1,"Adelaide",2010
+1555,"D Shift",2004-07-06,1,"Adelaide",2004
+1556,"D Shift",2002-02-25,1,"Adelaide",2002
+1559,"D Shift",2010-08-31,1,"Adelaide",2010
+1560,"E Shift",2008-02-02,1,"Adelaide",2008
+1564,"Distribution - Queensland",2003-02-08,1,"Brisbane",2003
+1565,"Cold End C Shift",2006-07-03,1,"Brisbane",2006
+1566,"Hot End A Shift",2007-10-22,1,"Brisbane",2007
+1567,"C Shift",2012-09-29,1,"Brisbane",2012
+1568,"Mould Repair",2007-12-15,1,"Brisbane",2007
+1569,"Mould Repair",2014-10-02,1,"Brisbane",2014
+1571,"Forming Team",2018-09-18,1,"Brisbane",2018
+1572,"D Shift",2009-08-24,1,"Brisbane",2009
+1574,"Hot End C Shift",2008-11-09,1,"Brisbane",2008
+1578,"C Shift",2011-11-14,1,"Brisbane",2011
+1579,"Electrical Services",2017-09-06,1,"Brisbane",2017
+1580,"Mechanical Services",2010-05-08,1,"Brisbane",2010
+1581,"Forming Maintenance",2002-03-09,1,"Brisbane",2002
+1586,"Cold End B Shift",2007-07-11,1,"Brisbane",2007
+1588,"Unit Plant QG31",2018-02-18,1,"Brisbane",2018
+1589,"Hot End C Shift",2008-12-14,1,"Brisbane",2008
+1591,"Mould Repair",2004-07-31,1,"Brisbane",2004
+1592,"Mould Repair",2000-04-29,1,"Brisbane",2000
+1593,"Electrical Services",2002-03-23,1,"Brisbane",2002
+1594,"D Shift",2013-08-02,1,"Brisbane",2013
+1596,"D Shift",2014-12-30,1,"Brisbane",2014
+1597,"Cold End A Shift",2006-02-13,1,"Brisbane",2006
+1599,"A Shift",2012-04-29,1,"Brisbane",2012
+1600,"Mould Repair",2013-12-21,1,"Brisbane",2013
+1601,"Mould Repair",2004-12-18,1,"Brisbane",2004
+1602,"Manufacturing",2008-03-08,1,"Brisbane",2008
+1603,"Unit Plant QG12",2017-07-21,1,"Brisbane",2017
+1605,"Cold End D Shift",2000-03-30,1,"Brisbane",2000
+1606,"Distribution - Queensland",2004-10-06,1,"Brisbane",2004
+1607,"B Shift",2016-01-02,1,"Brisbane",2016
+1608,"Mechanical Services",2012-10-20,1,"Brisbane",2012
+1610,"A Shift",2012-08-31,1,"Brisbane",2012
+1611,"B Shift",2012-07-14,1,"Brisbane",2012
+1612,"D Shift",2009-05-07,1,"Brisbane",2009
+1613,"D Shift",2010-11-13,1,"Brisbane",2010
+1614,"Distribution - Queensland",2009-01-01,1,"Brisbane",2009
+1618,"Electrical Services",2002-03-02,1,"Brisbane",2002
+1619,"Unit Plant QG33",2018-05-01,1,"Brisbane",2018
+1624,"A Shift",2011-11-12,1,"Brisbane",2011
+1625,"Hot End B Shift",2006-05-27,1,"Brisbane",2006
+1626,"Cold End C Shift",2006-08-27,1,"Brisbane",2006
+1629,"Hot End A Shift",2005-11-23,1,"Brisbane",2005
+1630,"Hot End A Shift",2007-06-23,1,"Brisbane",2007
+1631,"Batch & Furnace",2004-07-19,1,"Brisbane",2004
+1632,"Hot End E Shift",2001-09-12,1,"Brisbane",2001
+1634,"B Shift",2015-01-27,1,"Brisbane",2015
+1637,"Inspection & Packaging Engineering",2018-03-16,1,"Brisbane",2018
+1639,"Hot End B Shift",2008-08-28,1,"Brisbane",2008
+1640,"D Shift",2015-11-16,1,"Brisbane",2015
+1641,"Hot End A Shift",2000-07-06,1,"Brisbane",2000
+1642,"Distribution - Queensland",2004-07-10,1,"Brisbane",2004
+1646,"Business Services",2003-08-09,1,"Brisbane",2003
+1647,"Forming Maintenance",2004-01-31,1,"Brisbane",2004
+1648,"Electrical Services",2009-01-07,1,"Brisbane",2009
+1649,"Electrical Services",2012-08-21,1,"Brisbane",2012
+1650,"Hot End C Shift",2008-05-13,1,"Brisbane",2008
+1652,"Batch & Furnace",2007-09-22,1,"Brisbane",2007
+1653,"Mould Repair",2008-08-30,1,"Brisbane",2008
+1654,"Hot End E Shift",2007-02-08,1,"Brisbane",2007
+1657,"Batch & Furnace",2010-10-23,1,"Brisbane",2010
+1658,"Mechanical Services",2007-10-27,1,"Brisbane",2007
+1661,"Electrical Services",2006-07-15,1,"Brisbane",2006
+1663,"Inspection & Packaging",2002-12-21,1,"Brisbane",2002
+1665,"Mould Repair",2001-12-25,1,"Brisbane",2001
+1666,"Mould Repair",2010-03-06,1,"Brisbane",2010
+1668,"Unit Plant QG31",2018-09-22,1,"Brisbane",2018
+1670,"Manufacturing",2003-03-30,1,"Brisbane",2003
+1677,"Hot End C Shift",2003-08-09,1,"Brisbane",2003
+1680,"D Shift",2013-08-07,1,"Brisbane",2013
+1681,"Distribution - Queensland",2003-11-24,1,"Brisbane",2003
+1683,"IS Repair",2018-07-07,1,"Brisbane",2018
+1684,"Forming Maintenance",2017-01-21,1,"Brisbane",2017
+1686,"B Shift",2010-05-15,1,"Brisbane",2010
+1687,"Batch & Furnace",2007-07-14,1,"Brisbane",2007
+1688,"Mould Repair",2000-07-22,1,"Brisbane",2000
+1691,"Cold End D Shift",2000-04-15,1,"Brisbane",2000
+1694,"Hot End C Shift",2000-12-22,1,"Brisbane",2000
+1695,"Hot End B Shift",2007-02-17,1,"Brisbane",2007
+1697,"Batch & Furnace",2006-09-30,1,"Brisbane",2006
+1698,"Hot End C Shift",2005-07-06,1,"Brisbane",2005
+1700,"Mechanical Services",2001-12-08,1,"Brisbane",2001
+1701,"Cold End C Shift",2000-09-01,1,"Brisbane",2000
+1704,"Hot End B Shift",2006-03-29,1,"Brisbane",2006
+1705,"Hot End E Shift",2008-05-26,1,"Brisbane",2008
+1707,"Plant Mechanical Maintenance",2017-01-21,1,"Brisbane",2017
+1709,"Hot End D Shift",2004-02-23,1,"Brisbane",2004
+1711,"Mould Repair",2003-01-05,1,"Brisbane",2003
+1712,"Mould Repair",2012-08-04,1,"Brisbane",2012
+1715,"Mechanical Services",2012-11-23,1,"Brisbane",2012
+1717,"Hot End C Shift",2007-07-05,1,"Brisbane",2007
+1718,"Inspection and Packaging",2018-07-10,1,"Brisbane",2018
+1719,"Hot End E Shift",2007-07-02,1,"Brisbane",2007
+1722,"Inspection & Packaging",2005-05-04,1,"Brisbane",2005
+1723,"Cold End E Shift",2000-05-22,1,"Brisbane",2000
+1724,"Forming Maintenance",2004-09-29,1,"Brisbane",2004
+1725,"Cold End C Shift",2005-06-03,1,"Brisbane",2005
+1726,"Cold End D Shift",2000-04-15,1,"Brisbane",2000
+1730,"Integrated Systems and Risk",2014-04-16,1,"Brisbane",2014
+1732,"Customer Technical Services",2011-08-06,1,"Brisbane",2011
+1733,"Cold End C Shift",2000-05-22,1,"Brisbane",2000
+1736,"Hot End B Shift",2008-01-21,1,"Brisbane",2008
+1737,"Unit Plant QG31",2018-02-19,1,"Brisbane",2018
+1740,"Electrical Services",2011-08-22,1,"Brisbane",2011
+1741,"Mechanical Services",2011-09-03,1,"Brisbane",2011
+1743,"Mechanical Services",2012-07-28,1,"Brisbane",2012
+1744,"Electrical Services",2017-11-02,1,"Brisbane",2017
+1745,"Mould Repair",2002-03-09,1,"Brisbane",2002
+1749,"Human Resources",2002-10-01,1,"Melbourne",2002
+1751,"IT Operations",2014-10-01,1,"Melbourne",2014
+1752,"Occupational Health & Safety",2002-05-17,1,"Adelaide",2002
+1756,"Forming Engineering",2011-07-02,1,"Melbourne",2011
+1759,"Expatriates",2008-01-01,1,"Other",2008
+1768,"C Shift",2013-11-13,1,"Sydney",2013
+1770,"Cold End A Shift",2000-05-22,1,"Brisbane",2000
+1771,"Cold End B Shift",2000-05-22,1,"Brisbane",2000
+1772,"Cold End D Shift",2000-10-11,1,"Brisbane",2000
+1774,"Operational Advancement",2010-12-02,1,"Melbourne",2010
+1778,"Mould and Machine Maintenance",2014-10-02,1,"Adelaide",2014
+1781,"Batch & Furnace",2005-11-01,1,"Brisbane",2005
+1783,"AUDIT",2013-11-13,1,"Sydney",2013
+1792,"C Shift",2007-03-26,1,"Melbourne",2007
+1793,"D Shift",2010-12-23,1,"Melbourne",2010
+1797,"Production Engineering",2007-03-05,1,"Melbourne",2007
+1799,"Plant Procedures & Specifications (ISO)",2005-01-11,1,"Melbourne",2005
+1803,"Forming",2002-06-01,1,"Adelaide",2002
+1804,"Mechanical Engineering",2009-09-19,1,"Adelaide",2009
+1806,"Forming",2004-04-10,1,"Sydney",2004
+1808,"Engineering",2004-01-24,1,"Sydney",2004
+1809,"Engineering",2004-01-24,1,"Sydney",2004
+1812,"Mould and Machine Maintenance",2014-10-15,1,"Adelaide",2014
+1816,"National Planning",2012-05-02,1,"Melbourne",2012
+1817,"Cold End B Shift",2000-04-15,1,"Brisbane",2000
+1821,"Customer Services",2007-08-11,1,"Melbourne",2007
+1828,"Forming Job Change",2008-04-05,1,"Sydney",2008
+1829,"A Shift",2013-11-12,1,"Sydney",2013
+1837,"Mould Repair",2000-04-06,1,"Brisbane",2000
+1838,"Marketing",2003-07-05,1,"Melbourne",2003
+1839,"Sales NSW",2006-12-02,1,"Sydney",2006
+1840,"Business Services",2004-10-27,1,"Melbourne",2004
+1849,"Cold End Job Change",2004-10-16,1,"Sydney",2004
+1850,"Business Services",2003-07-05,1,"Melbourne",2003
+1853,"Machine Maintenance",2004-10-22,1,"Sydney",2004
+1855,"C Shift",2013-11-13,1,"Sydney",2013
+1857,"Occupational Health & Safety",2003-02-01,1,"Brisbane",2003
+1860,"Mould Repair",2016-04-09,1,"Brisbane",2016
+1867,"Shift A",2018-12-21,1,"Melbourne",2018
+1869,"B Shift",2012-03-09,1,"Melbourne",2012
+1872,"D Shift",2000-09-17,1,"Melbourne",2000
+1873,"B Shift",2000-09-18,1,"Melbourne",2000
+1877,"Distribution - Queensland",2004-10-27,1,"Brisbane",2004
+1879,"Cold End D Shift",2008-08-15,1,"Brisbane",2008
+1885,"Plant Procedures & Specifications (ISO)",2002-08-10,1,"Melbourne",2002
+1891,"Information Technology",2005-12-24,1,"Melbourne",2005
+1894,"Applications",2008-01-26,1,"Melbourne",2008
+1896,"C Shift",2006-04-28,1,"Adelaide",2006
+1897,"Forming",2002-02-07,1,"Adelaide",2002
+1898,"E Shift",2012-09-11,1,"Melbourne",2012
+1903,"E Shift",2015-07-09,1,"Adelaide",2015
+1904,"Commercial Accounting",2006-07-20,1,"Melbourne",2006
+1910,"ACI Glass Packaging Perth",2003-07-01,1,"Other",2003
+1911,"A Shift",2005-09-12,1,"Sydney",2005
+1912,"Supply Chain",2002-05-11,1,"Melbourne",2002
+1917,"Plant Procedures & Specifications (ISO)",2002-08-31,1,"Sydney",2002
+1921,"Plant Engineering",2015-10-03,1,"Adelaide",2015
+1924,"Distribution - Western Australia",2013-07-13,1,"Other",2013
+1928,"",2016-01-01,1,"Melbourne",2016
+1930,"Continuous Improvement",2017-12-16,1,"Melbourne",2017
+1932,"Expatriates",2015-09-02,1,"Melbourne",2015
+1933,"",2012-07-02,1,"Melbourne",2012
+1935,"Job Change",2009-09-26,1,"Melbourne",2009
+1937,"C Shift",2005-04-13,1,"Melbourne",2005
+1939,"Expatriates",2001-07-14,1,"Other",2001
+1940,"Expatriates",2010-12-02,1,"Other",2010
+1942,"Procurement",2005-04-02,1,"Melbourne",2005
+1954,"B Shift",2004-11-06,1,"Sydney",2004
+1957,"Business Services",2002-12-28,1,"Melbourne",2002
+1958,"Human Resources - Glass",2002-10-05,1,"Melbourne",2002
+1964,"National Planning",2014-03-01,1,"Melbourne",2014
+1966,"Machine Maintenance",2003-12-20,1,"Other",2003
+1968,"Applications",2011-09-17,1,"Melbourne",2011
+1971,"Batch and Furnace",2003-03-27,1,"Adelaide",2003
+1975,"D Shift",2004-03-30,1,"Sydney",2004
+1978,"Mould Repair",2005-01-29,1,"Brisbane",2005
+1980,"Infrastructure",2008-08-02,1,"Melbourne",2008
+1981,"Plant Mechanical Sydney",2013-11-13,1,"Sydney",2013
+1982,"Sales & Marketing",2008-01-01,1,"Melbourne",2008
+1985,"Distribution - Victoria",2007-07-03,1,"Melbourne",2007
+1987,"Commercial",2008-03-29,1,"Melbourne",2008
+1988,"Batch & Furnace",2006-01-02,1,"Brisbane",2006
+1989,"Engineering",2003-12-13,1,"Other",2003
+1990,"A Shift",2003-07-03,1,"Sydney",2003
+1992,"Engineering",2005-01-22,1,"Sydney",2005
+1994,"C Shift",2009-08-18,1,"Sydney",2009
+1995,"Business Services",2001-12-01,1,"Melbourne",2001
+1998,"Expatriates",2004-05-21,1,"Other",2004
+2006,"Sales",2003-05-03,1,"Sydney",2003
+2007,"Information Technology",2001-09-08,1,"Melbourne",2001
+2012,"Mould Repair",2006-05-27,1,"Melbourne",2006
+2013,"Business Services",2002-03-06,1,"Melbourne",2002
+2015,"EHS & Risk",2015-02-06,1,"Adelaide",2015
+2019,"Business Services",2004-11-20,1,"Melbourne",2004
+2020,"Sales & Marketing",2010-07-03,1,"Melbourne",2010
+2024,"Engineering",2012-01-01,1,"Sydney",2012
+2025,"Quantum_RTP",2018-12-19,1,"Melbourne",2018
+2026,"Engineering",2006-07-07,1,"Adelaide",2006
+2027,"Plant Reliability",2014-10-02,1,"Adelaide",2014
+2029,"D Shift",2005-05-23,1,"Melbourne",2005
+2032,"B Shift",2015-04-23,1,"Adelaide",2015
+2033,"D Shift",2013-09-28,1,"Adelaide",2013
+2035,"Business Services",2012-05-19,1,"Adelaide",2012
+2036,"Human Resources Australia",2006-01-02,1,"Melbourne",2006
+2038,"C Shift",2001-11-24,1,"Other",2001
+2040,"Job Change",2011-09-29,1,"Adelaide",2011
+2042,"E Shift",2015-04-23,1,"Adelaide",2015
+2043,"Marketing",2004-01-24,1,"Melbourne",2004
+2044,"Engineering",2003-12-02,1,"Adelaide",2003
+2046,"Expatriates",2012-12-01,1,"Other",2012
+2047,"E Shift",2014-01-12,1,"Adelaide",2014
+2049,"Business Services",2001-11-22,1,"Brisbane",2001
+2050,"Plant Procedures & Specifications (ISO)",2001-11-21,1,"Sydney",2001
+2053,"Forming-Job Change",2001-12-22,1,"Brisbane",2001
+2054,"Regional Quality",2006-04-08,1,"Melbourne",2006
+2056,"Job Change",2006-07-15,1,"Adelaide",2006
+2058,"A Shift",2010-10-12,1,"Melbourne",2010
+2060,"ACI Packaging",2001-11-01,1,"Melbourne",2001
+2061,"ACI Packaging",2001-10-02,1,"Melbourne",2001
+2063,"Business Services",2002-05-31,1,"Melbourne",2002
+2064,"Business Services",2003-01-01,1,"Adelaide",2003
+2065,"Engineering",2005-07-02,1,"Sydney",2005
+2067,"ACI Packaging",2001-10-02,1,"Melbourne",2001
+2068,"ACI Packaging",2001-10-02,1,"Melbourne",2001
+2069,"ACI Packaging",2001-10-02,1,"Melbourne",2001
+2071,"A Shift",2001-09-24,1,"Adelaide",2001
+2073,"Business Services",2004-02-10,1,"Melbourne",2004
+2076,"Mould Repair",2014-09-11,1,"Adelaide",2014
+2077,"C Shift",2014-10-02,1,"Adelaide",2014
+2078,"Forming",2010-02-16,1,"Melbourne",2010
+2080,"ACI Packaging",2001-11-01,1,"Melbourne",2001
+2081,"ACI Packaging",2001-11-01,1,"Melbourne",2001
+2082,"ACI Packaging",2001-11-01,1,"Melbourne",2001
+2083,"ACI Packaging",2001-11-01,1,"Melbourne",2001
+2085,"ACI Packaging",2001-11-01,1,"Melbourne",2001
+2086,"C Shift",2002-03-25,1,"Adelaide",2002
+2087,"Supply Chain",2006-02-18,1,"Melbourne",2006
+2089,"B Shift",2012-03-30,1,"Adelaide",2012
+2092,"Batch and Furnace",2014-10-02,1,"Adelaide",2014
+2093,"E Shift",2011-05-05,1,"Adelaide",2011
+2094,"D Shift",2015-04-23,1,"Adelaide",2015
+2095,"A Shift",2015-07-09,1,"Adelaide",2015
+2096,"E Shift",2011-03-10,1,"Adelaide",2011
+2099,"Commercial Accounting",2005-09-10,1,"Melbourne",2005
+2100,"ACI Glass Packaging Melbourne",2005-04-09,1,"Melbourne",2005
+2101,"Facilities Advancement",2009-04-07,1,"Other",2009
+2102,"Expatriates",2011-02-01,1,"Melbourne",2011
+2105,"Supply Chain Planning",2003-06-06,1,"Melbourne",2003
+2106,"Commercial Accounting",2004-09-02,1,"Melbourne",2004
+2107,"Mechanical Services",2012-03-28,1,"Brisbane",2012
+2108,"Distribution - Queensland",2009-11-28,1,"Brisbane",2009
+2111,"D Shift",2002-04-23,1,"Adelaide",2002
+2113,"Procurement",2004-04-24,1,"Melbourne",2004
+2114,"Engineering",2006-01-21,1,"Sydney",2006
+2115,"Engineering",2006-01-21,1,"Sydney",2006
+2116,"Mould Repair",2010-01-30,1,"Brisbane",2010
+2117,"Mechanical Engineering",2009-08-31,1,"Adelaide",2009
+2118,"Forming",2002-08-24,1,"Adelaide",2002
+2120,"Stock Control",2006-07-22,1,"Sydney",2006
+2121,"O-I Brisbane Plant",2013-07-01,1,"Brisbane",2013
+2124,"Plant Reliability",2014-10-02,1,"Adelaide",2014
+2125,"Engineering Services",2004-01-24,1,"Melbourne",2004
+2129,"Electrical Services",2006-03-14,1,"Brisbane",2006
+2131,"E Shift",2015-04-23,1,"Adelaide",2015
+2137,"Forming Maintenance",2006-03-14,1,"Brisbane",2006
+2138,"Mechanical Services",2006-03-14,1,"Brisbane",2006
+2139,"Job Change",2014-10-02,1,"Adelaide",2014
+2141,"Electrical Services",2006-03-25,1,"Brisbane",2006
+2144,"Plant Procedures & Specifications (ISO)",2004-10-30,1,"Sydney",2004
+2145,"Batch and Furnace",2008-05-10,1,"Adelaide",2008
+2147,"Information Technology",2006-08-05,1,"Melbourne",2006
+2150,"Quality Control",2014-10-14,1,"Adelaide",2014
+2152,"Audit and Resort",2002-04-30,1,"Other",2002
+2156,"A Shift",2008-07-24,1,"Adelaide",2008
+2159,"C Shift",2004-12-22,1,"Adelaide",2004
+2163,"C Shift",2005-04-21,1,"Adelaide",2005
+2167,"B Shift",2002-08-12,1,"Adelaide",2002
+2168,"B Shift",2002-10-01,1,"Adelaide",2002
+2169,"Information Technology",2004-10-02,1,"Melbourne",2004
+2170,"C Shift",2006-03-07,1,"Adelaide",2006
+2171,"Customer Technical Services Australia",2011-01-11,1,"Melbourne",2011
+2178,"",2004-11-01,1,"Other",2004
+2181,"A Shift",2009-07-03,1,"Adelaide",2009
+2190,"D Shift",2005-07-06,1,"Adelaide",2005
+2191,"Human Resources Australia",2005-10-29,1,"Melbourne",2005
+2192,"C Shift",2009-10-29,1,"Sydney",2009
+2193,"Business Services",2007-06-29,1,"Sydney",2007
+2194,"",2003-06-15,1,"Melbourne",2003
+2196,"D Shift",2013-12-25,1,"Sydney",2013
+2197,"Electrical Services",2004-07-17,1,"Brisbane",2004
+2198,"B Shift",2015-04-23,1,"Adelaide",2015
+2199,"Mould Repair",2002-11-07,1,"Melbourne",2002
+2200,"Electrical Maintenance",2014-09-10,1,"Adelaide",2014
+2201,"Occupational Health & Safety",2003-09-09,1,"Sydney",2003
+2202,"Human Resources - Glass",2002-11-09,1,"Melbourne",2002
+2203,"Beer Segment O-I Australia",2013-10-01,1,"Melbourne",2013
+2208,"E Shift",2003-09-29,1,"Melbourne",2003
+2209,"A Shift",2002-11-30,1,"Melbourne",2002
+2213,"Human Resources O-I Asia Pacific",2006-07-08,1,"Melbourne",2006
+2214,"Information Technology",2011-06-23,1,"Melbourne",2011
+2217,"Risk Management",2012-01-06,1,"Melbourne",2012
+2220,"Facilities Engineering",2008-03-04,1,"Melbourne",2008
+2221,"A Shift",2004-06-26,1,"Melbourne",2004
+2224,"Business Services",2008-03-01,1,"Adelaide",2008
+2225,"Forming Maintenance",2007-01-13,1,"Brisbane",2007
+2227,"Engineering",2007-01-20,1,"Sydney",2007
+2228,"Engineering",2007-01-20,1,"Sydney",2007
+2229,"Business Services",2003-09-01,1,"Melbourne",2003
+2230,"Analytical Services",2011-03-19,1,"Melbourne",2011
+2233,"C Shift",2007-10-11,1,"Melbourne",2007
+2235,"D Shift",2004-06-02,1,"Melbourne",2004
+2236,"Human Resources",2004-09-10,1,"Melbourne",2004
+2242,"Business Services",2005-09-10,1,"Brisbane",2005
+2243,"Forming",2005-09-01,1,"Adelaide",2005
+2244,"Analytical Services",2013-06-29,1,"Melbourne",2013
+2245,"Occupational Health & Safety",2012-07-13,1,"Sydney",2012
+2255,"Batch and Furnace",2013-05-21,1,"Adelaide",2013
+2261,"Inspection & Packaging",2005-01-15,1,"Melbourne",2005
+2263,"Graduates",2004-04-03,1,"Sydney",2004
+2265,"C Shift",2004-08-23,1,"Adelaide",2004
+2266,"C Shift",2006-05-16,1,"Adelaide",2006
+2267,"B Shift",2004-11-02,1,"Adelaide",2004
+2268,"Machine Maintenance",2004-04-14,1,"Sydney",2004
+2269,"Business Services",2009-09-08,1,"Sydney",2009
+2270,"Occupational Health & Safety",2005-06-04,1,"Brisbane",2005
+2272,"B Shift",2006-01-30,1,"Sydney",2006
+2273,"B Shift",2003-12-08,1,"Sydney",2003
+2276,"D Shift",2004-10-29,1,"Adelaide",2004
+2277,"Human Resources",2009-02-04,1,"Melbourne",2009
+2279,"UPM4 E Shift",2015-12-18,1,"Melbourne",2015
+2281,"Engineering Services",2010-07-23,1,"Melbourne",2010
+2283,"Information Technology",2005-01-15,1,"Melbourne",2005
+2286,"Batch & Furnace",2006-09-20,1,"Sydney",2006
+2292,"Procurement",2004-07-30,1,"Melbourne",2004
+2293,"Commercial Accounting",2006-07-18,1,"Melbourne",2006
+2294,"Information Technology",2014-07-08,1,"Melbourne",2014
+2295,"Machine Maintenance",2010-03-31,1,"Sydney",2010
+2297,"D Shift",2007-01-20,1,"Adelaide",2007
+2307,"Mould Repair",2006-08-21,1,"Melbourne",2006
+2308,"O-I Brisbane Plant",2006-07-29,1,"Brisbane",2006
+2309,"Plant Engineering",2007-01-20,1,"Melbourne",2007
+2310,"Business Services",2011-12-30,1,"Brisbane",2011
+2311,"Mechanical Services",2003-12-04,1,"Brisbane",2003
+2313,"Asian Operations",2005-04-30,1,"Melbourne",2005
+2316,"Analytical Services",2013-06-29,1,"Melbourne",2013
+2318,"Batch & Furnace",2018-09-04,1,"Brisbane",2018
+2319,"A Shift",2011-12-12,1,"Melbourne",2011
+2320,"Human Resources",2006-02-20,1,"Melbourne",2006
+2322,"Human Resources",2008-01-21,1,"Melbourne",2008
+2323,"Human Resources",2005-11-23,1,"Melbourne",2005
+2328,"Supply Chain",2005-09-10,1,"Melbourne",2005
+2329,"Analytical Services",2005-01-22,1,"Melbourne",2005
+2330,"Engineering",2007-03-01,1,"Adelaide",2007
+2331,"Graduates",2004-10-16,1,"Sydney",2004
+2332,"Engineering",2007-03-10,1,"Adelaide",2007
+2333,"Business Services",2004-01-17,1,"Melbourne",2004
+2334,"Manufacturing",2007-08-04,1,"Adelaide",2007
+2335,"Occupational Health & Safety",2013-02-15,1,"Sydney",2013
+2336,"Glass Technology",2005-01-22,1,"Melbourne",2005
+2344,"B Shift",2011-07-24,1,"Sydney",2011
+2345,"Distribution - Queensland",2006-05-15,1,"Brisbane",2006
+2346,"D Shift",2006-09-25,1,"Melbourne",2006
+2351,"Customer Services",2004-08-29,1,"Melbourne",2004
+2352,"Applications",2007-05-02,1,"Melbourne",2007
+2353,"Superannuation Fund Director",2013-01-01,1,"Melbourne",2013
+2354,"Commercial",2015-07-02,1,"Melbourne",2015
+2360,"Forming Engineering",2008-07-01,1,"Melbourne",2008
+2363,"E Shift",2006-02-25,1,"Melbourne",2006
+2365,"Batch & Furnace",2005-01-10,1,"Brisbane",2005
+2366,"Plant Maintenance Sydney",2013-11-13,1,"Sydney",2013
+2367,"Stock Control",2006-07-28,1,"Sydney",2006
+2368,"Cash Management",2007-03-17,1,"Melbourne",2007
+2369,"Facilities CAD",2004-11-20,1,"Melbourne",2004
+2374,"Information Technology",2004-09-18,1,"Melbourne",2004
+2375,"Cash Management",2006-10-07,1,"Melbourne",2006
+2376,"Business Services",2013-11-15,1,"Sydney",2013
+2378,"Plant Electrical Sydney",2013-11-09,1,"Sydney",2013
+2379,"Electrical Services",2013-10-26,1,"Brisbane",2013
+2380,"IT Operations",2016-09-01,1,"Melbourne",2016
+2381,"Corporate Accounting",2004-12-21,1,"Melbourne",2004
+2382,"Cash Management",2005-04-30,1,"Melbourne",2005
+2383,"Human Resources",2013-12-21,1,"Sydney",2013
+2384,"Occupational Health & Safety",2010-07-01,1,"Brisbane",2010
+2385,"Batch & Furnace",2017-06-10,1,"Sydney",2017
+2388,"Applications",2013-07-02,1,"Melbourne",2013
+2389,"Information Technology",2006-10-14,1,"Melbourne",2006
+2390,"Infrastructure",2007-10-27,1,"Melbourne",2007
+2392,"Batch & Furnace",2007-05-30,1,"Brisbane",2007
+2393,"Mould Repair",2013-11-13,1,"Sydney",2013
+2394,"A Shift",2010-05-30,1,"Sydney",2010
+2395,"Business Services",2014-04-11,1,"Adelaide",2014
+2396,"Information Technology",2005-08-17,1,"Melbourne",2005
+2398,"Service Desk AP",2018-06-20,1,"Melbourne",2018
+2399,"Applications",2008-09-13,1,"Melbourne",2008
+2400,"Information Technology",2005-08-06,1,"Melbourne",2005
+2402,"Mould Repair",2006-05-31,1,"Melbourne",2006
+2405,"Glass Technology",2006-01-28,1,"Melbourne",2006
+2406,"Analytical Services",2006-01-28,1,"Melbourne",2006
+2408,"Distribution - Queensland",2006-11-11,1,"Brisbane",2006
+2410,"Plant Electrical Sydney",2014-01-19,1,"Sydney",2014
+2411,"A Shift",2013-11-12,1,"Sydney",2013
+2412,"D Shift",2012-10-22,1,"Brisbane",2012
+2415,"Occupational Health & Safety",2011-10-08,1,"Melbourne",2011
+2416,"Information Technology",2005-08-13,1,"Melbourne",2005
+2418,"Human Resources",2008-06-27,1,"Adelaide",2008
+2419,"Pack Centre",2017-07-20,1,"Sydney",2017
+2422,"Commercial Accounting",2011-01-01,1,"Melbourne",2011
+2423,"Business Services",2012-01-28,1,"Adelaide",2012
+2424,"Information Technology",2010-08-10,1,"Melbourne",2010
+2425,"E Shift",2005-09-24,1,"Adelaide",2005
+2427,"Job Change",2014-10-02,1,"Adelaide",2014
+2430,"Procurement",2006-07-01,1,"Melbourne",2006
+2431,"Operational Advancement",2016-01-01,1,"Adelaide",2016
+2432,"Business Services",2006-07-15,1,"Melbourne",2006
+2433,"Business Services",2006-05-16,1,"Melbourne",2006
+2434,"Inspection & Packaging",2011-07-30,1,"Melbourne",2011
+2435,"Human Resources Business Partnering",2018-02-01,1,"Adelaide",2018
+2436,"Mould and Machine Maintenance",2014-11-29,1,"Adelaide",2014
+2437,"O-I Asia Pacific",2012-04-01,1,"Melbourne",2012
+2438,"A Shift",2013-11-13,1,"Sydney",2013
+2439,"Procurement",2014-03-19,1,"Adelaide",2014
+2440,"Human Resources O-I Asia Pacific",2007-04-06,1,"Melbourne",2007
+2442,"Commercial Accounting",2006-04-08,1,"Melbourne",2006
+2444,"Occupational Health & Safety",2013-07-04,1,"Brisbane",2013
+2445,"Information Technology",2015-02-28,1,"Melbourne",2015
+2447,"Sales & Marketing O-I Australia",2016-04-01,1,"Melbourne",2016
+2448,"Engineering",2006-03-08,1,"Sydney",2006
+2449,"Stock Control",2007-04-05,1,"Sydney",2007
+2451,"B Shift",2011-11-29,1,"Melbourne",2011
+2452,"Business Services",2010-06-23,1,"Melbourne",2010
+2453,"Human Resources",2017-07-03,1,"Brisbane",2017
+2455,"Customer Technical Services",2012-05-31,1,"Melbourne",2012
+2456,"Engineering",2006-02-25,1,"Adelaide",2006
+2457,"Business Services",2005-11-19,1,"Sydney",2005
+2458,"Customer Technical Services",2007-06-16,1,"Melbourne",2007
+2459,"C Shift",2005-11-14,1,"Melbourne",2005
+2461,"Human Resources O-I Asia Pacific",2008-05-15,1,"Melbourne",2008
+2462,"Business Services",2007-03-03,1,"Brisbane",2007
+2465,"Analytical Services",2007-01-27,1,"Melbourne",2007
+2466,"Glass Technology",2007-02-21,1,"Melbourne",2007
+2468,"E Shift",2012-04-24,1,"Brisbane",2012
+2469,"A Shift",2010-03-18,1,"Brisbane",2010
+2473,"Plant Mechanical Sydney",2013-11-13,1,"Sydney",2013
+2474,"Engineering",2009-10-01,1,"Sydney",2009
+2476,"Batch & Furnace",2008-06-28,1,"Sydney",2008
+2477,"",2006-03-23,1,"Melbourne",2006
+2479,"Human Resources",2011-04-30,1,"Melbourne",2011
+2480,"Engineering Services",2008-08-09,1,"Melbourne",2008
+2481,"Corporate Accounting",2006-03-18,1,"Melbourne",2006
+2482,"Commercial",2006-09-01,1,"Melbourne",2006
+2483,"Business Services",2007-09-08,1,"Sydney",2007
+2484,"IT Operations",2015-07-18,1,"Melbourne",2015
+2485,"Batch & Furnace",2009-03-18,1,"Melbourne",2009
+2486,"Commercial Accounting",2006-03-13,1,"Melbourne",2006
+2487,"Human Resources",2010-04-08,1,"Melbourne",2010
+2488,"Mould Repair",2006-07-01,1,"Brisbane",2006
+2489,"Electrical Services",2010-08-21,1,"Brisbane",2010
+2490,"Electrical Services",2010-12-04,1,"Brisbane",2010
+2492,"IT Operations",2013-10-12,1,"Melbourne",2013
+2493,"Strategic Sourcing",2018-07-04,1,"Melbourne",2018
+2494,"Human Resources O-I Asia Pacific",2015-07-02,1,"Melbourne",2015
+2495,"Commercial Accounting",2008-03-01,1,"Melbourne",2008
+2496,"Procurement",2010-06-12,1,"Melbourne",2010
+2497,"ACL Printing",2015-05-30,1,"Sydney",2015
+2503,"Batch & Furnace",2006-06-20,1,"Sydney",2006
+2507,"National Planning",2007-09-19,1,"Melbourne",2007
+2508,"Analytical Services",2013-06-01,1,"Adelaide",2013
+2509,"Facilities CAD",2006-06-17,1,"Melbourne",2006
+2510,"Occupational Health & Safety",2012-11-04,1,"Melbourne",2012
+2511,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2512,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2513,"Occupational Health & Safety",2007-07-15,1,"Melbourne",2007
+2528,"Human Resources",2008-05-10,1,"Sydney",2008
+2529,"Procurement",2010-10-29,1,"Melbourne",2010
+2530,"Business Services",2013-05-18,1,"Brisbane",2013
+2531,"UPM",2014-04-21,1,"Adelaide",2014
+2534,"Mechanical Services",2006-07-22,1,"Brisbane",2006
+2535,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2538,"ACL Printing",2015-09-12,1,"Sydney",2015
+2540,"Business Services",2008-12-25,1,"Melbourne",2008
+2541,"Corporate Accounting",2008-07-01,1,"Melbourne",2008
+2542,"Occupational Health & Safety",2013-06-29,1,"Melbourne",2013
+2543,"C Shift",2013-11-13,1,"Sydney",2013
+2544,"Batch and Furnace",2011-03-31,1,"Adelaide",2011
+2546,"A Shift",2012-04-27,1,"Brisbane",2012
+2549,"Engineering",2008-09-11,1,"Adelaide",2008
+2550,"Cash Management",2008-04-08,1,"Melbourne",2008
+2552,"A Shift",2006-10-30,1,"Melbourne",2006
+2554,"D Shift",2014-10-15,1,"Adelaide",2014
+2556,"Applications",2007-04-14,1,"Melbourne",2007
+2559,"E Shift",2006-12-14,1,"Melbourne",2006
+2561,"Sales NSW",2010-07-31,1,"Sydney",2010
+2563,"UPM3 C Shift",2014-01-27,1,"Melbourne",2014
+2564,"D Shift",2006-12-11,1,"Melbourne",2006
+2566,"E Shift",2006-11-14,1,"Melbourne",2006
+2567,"Forming Job Change",2007-11-22,1,"Sydney",2007
+2568,"D Shift",2006-11-11,1,"Melbourne",2006
+2569,"B Shift",2006-11-11,1,"Melbourne",2006
+2570,"C Shift",2006-11-14,1,"Melbourne",2006
+2571,"Distribution - Queensland",2006-12-16,1,"Brisbane",2006
+2572,"New Product Development",2011-02-01,1,"Melbourne",2011
+2574,"Applications",2014-11-01,1,"Melbourne",2014
+2577,"Quality Services",2007-01-10,1,"Sydney",2007
+2578,"Forming Job Change",2007-01-03,1,"Sydney",2007
+2580,"Forming Job Change",2007-01-20,1,"Sydney",2007
+2581,"B Shift",2012-07-10,1,"Sydney",2012
+2583,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2584,"Forming Maintenance",2010-10-09,1,"Brisbane",2010
+2585,"Pack Centre",2015-10-03,1,"Melbourne",2015
+2586,"E Shift",2007-05-21,1,"Melbourne",2007
+2588,"Human Resources O-I Asia Pacific",2007-01-13,1,"Melbourne",2007
+2590,"Plant Electrical Sydney",2014-01-28,1,"Sydney",2014
+2592,"Quality Services",2008-01-12,1,"Sydney",2008
+2593,"Forming Job Change",2007-11-14,1,"Sydney",2007
+2594,"Mould Repair",2010-02-04,1,"Adelaide",2010
+2595,"Business Services",2008-12-13,1,"Sydney",2008
+2596,"Analytical Services",2007-07-28,1,"Melbourne",2007
+2597,"Human Resources",2011-03-07,1,"Melbourne",2011
+2598,"D Shift",2007-05-11,1,"Melbourne",2007
+2600,"Hot End Job Change Team",2019-04-27,1,"Melbourne",2019
+2601,"E Shift",2007-04-27,1,"Melbourne",2007
+2602,"Integrates Systems and Risk B Shift",2016-02-01,1,"Melbourne",2016
+2603,"A Shift",2008-05-14,1,"Melbourne",2008
+2604,"B Shift",2007-04-25,1,"Melbourne",2007
+2605,"UPM4A Shift",2014-07-16,1,"Melbourne",2014
+2606,"Compliance, Standards and Security",2008-08-16,1,"Melbourne",2008
+2608,"Job Change",2011-12-28,1,"Adelaide",2011
+2612,"B Shift",2008-07-28,1,"Adelaide",2008
+2613,"D Shift",2007-07-09,1,"Adelaide",2007
+2616,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2617,"Mould Repair",2013-01-19,1,"Sydney",2013
+2618,"Inspection & Packaging",2006-11-29,1,"Adelaide",2006
+2620,"Human Resources O-I Asia Pacific",2008-02-07,1,"Melbourne",2008
+2621,"Infrastructure",2010-01-30,1,"Melbourne",2010
+2624,"Cash Management",2008-06-20,1,"Melbourne",2008
+2627,"E Shift",2007-09-01,1,"Melbourne",2007
+2629,"D Shift",2007-11-19,1,"Melbourne",2007
+2632,"E Shift",2011-03-21,1,"Brisbane",2011
+2636,"E Shift",2008-01-05,1,"Melbourne",2008
+2639,"Business Services",2010-01-16,1,"Brisbane",2010
+2640,"Analytical Services",2008-01-26,1,"Melbourne",2008
+2643,"D Shift",2007-11-02,1,"Melbourne",2007
+2645,"Sales NSW",2009-12-19,1,"Sydney",2009
+2650,"E Shift",2007-09-13,1,"Melbourne",2007
+2651,"Batch & Furnace",2014-03-01,1,"Brisbane",2014
+2653,"Mould Repair",2007-12-31,1,"Melbourne",2007
+2654,"Occupational Health & Safety",2010-10-23,1,"Melbourne",2010
+2657,"Occupational Health & Safety",2014-04-01,1,"Melbourne",2014
+2658,"A Shift",2009-08-17,1,"Brisbane",2009
+2660,"B Shift",2008-02-22,1,"Sydney",2008
+2661,"Batch & Furnace",2013-11-30,1,"Sydney",2013
+2662,"B Shift",2013-11-13,1,"Sydney",2013
+2664,"Mould Repair",2008-04-14,1,"Melbourne",2008
+2667,"Distribution - Queensland",2013-06-08,1,"Brisbane",2013
+2668,"Applications",2011-05-07,1,"Melbourne",2011
+2669,"Engineering Services",2010-08-19,1,"Melbourne",2010
+2671,"Forming Job Change",2008-01-10,1,"Sydney",2008
+2673,"Infrastructure",2008-03-13,1,"Melbourne",2008
+2677,"Job Change",2011-01-20,1,"Adelaide",2011
+2678,"B Shift",2009-11-12,1,"Adelaide",2009
+2679,"Human Resources",2012-01-29,1,"Melbourne",2012
+2680,"Human Resources",2011-11-12,1,"Melbourne",2011
+2681,"Human Resources",2012-01-29,1,"Melbourne",2012
+2684,"National Planning",2013-09-01,1,"Melbourne",2013
+2685,"Commercial Accounting",2008-09-18,1,"Melbourne",2008
+2687,"Engineering",2011-11-04,1,"Sydney",2011
+2689,"Analytical Services",2008-07-19,1,"Melbourne",2008
+2690,"Human Resources O-I Asia Pacific",2011-05-24,1,"Melbourne",2011
+2691,"Distribution - Queensland",2008-11-25,1,"Brisbane",2008
+2692,"A Shift",2008-05-17,1,"Melbourne",2008
+2697,"E Shift",2012-05-14,1,"Melbourne",2012
+2699,"A Shift",2012-06-21,1,"Melbourne",2012
+2700,"E Shift",2011-01-17,1,"Melbourne",2011
+2702,"Cold End Job Change",2018-07-14,1,"Melbourne",2018
+2705,"C Shift",2007-09-12,1,"Adelaide",2007
+2706,"A Shift",2013-12-29,1,"Sydney",2013
+2710,"A Shift",2008-05-08,1,"Melbourne",2008
+2713,"D Shift",2012-03-28,1,"Adelaide",2012
+2716,"Job Change",2018-05-06,1,"Sydney",2018
+2719,"Wine Segment",2013-03-23,1,"Adelaide",2013
+2721,"Sales & Marketing",2008-08-30,1,"Melbourne",2008
+2722,"Commercial Accounting",2010-09-18,1,"Melbourne",2010
+2724,"Inspection and Packaging",2017-10-19,1,"Brisbane",2017
+2726,"E Shift",2009-03-18,1,"Melbourne",2009
+2727,"New Product Development",2013-01-05,1,"Melbourne",2013
+2730,"A Shift",2008-05-21,1,"Melbourne",2008
+2731,"Electrical Maintenance",2018-11-24,1,"Melbourne",2018
+2736,"Mould Repair",2008-06-11,1,"Melbourne",2008
+2739,"Human Resources O-I Asia Pacific",2013-09-14,1,"Melbourne",2013
+2740,"Marketing",2011-06-25,1,"Melbourne",2011
+2742,"New Product Development",2017-04-01,1,"Melbourne",2017
+2743,"Machine Maintenance",2014-07-30,1,"Adelaide",2014
+2754,"C Shift",2009-08-17,1,"Melbourne",2009
+2756,"Sales & Marketing",2012-08-04,1,"Melbourne",2012
+2758,"Commercial Accounting",2015-09-09,1,"Melbourne",2015
+2759,"Operational Advancement & Capability",2018-05-22,1,"Melbourne",2018
+2761,"National Planning",2012-03-31,1,"Melbourne",2012
+2768,"A Shift",2012-04-12,1,"Melbourne",2012
+2770,"Shift E",2018-07-03,1,"Melbourne",2018
+2771,"Infrastructure",2008-09-13,1,"Melbourne",2008
+2772,"A Shift",2008-10-24,1,"Melbourne",2008
+2773,"Forming Job Change",2010-09-25,1,"Sydney",2010
+2774,"Distribution - Queensland",2013-04-13,1,"Brisbane",2013
+2777,"Occupational Health & Safety",2011-05-07,1,"Melbourne",2011
+2778,"Sales & Marketing O-I Australia",2016-04-01,1,"Melbourne",2016
+2783,"Commercial Accounting",2013-04-30,1,"Melbourne",2013
+2785,"Procurement",2008-11-25,1,"Melbourne",2008
+2787,"Plant Electrical Sydney",2013-12-31,1,"Sydney",2013
+2789,"C Shift",2009-11-26,1,"Adelaide",2009
+2791,"Batch & Furnace",2009-04-01,1,"Sydney",2009
+2792,"A Shift",2010-01-28,1,"Adelaide",2010
+2793,"Mould Repair",2014-02-20,1,"Adelaide",2014
+2794,"Distribution - Queensland",2015-04-25,1,"Brisbane",2015
+2795,"Commercial Accounting",2009-03-28,1,"Melbourne",2009
+2797,"Occupational Health & Safety",2017-03-24,1,"Melbourne",2017
+2799,"Pricing",2011-08-06,1,"Melbourne",2011
+2800,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2801,"B Shift",2013-07-09,1,"Adelaide",2013
+2803,"A Shift",2008-11-25,1,"Melbourne",2008
+2804,"E Shift",2008-11-14,1,"Melbourne",2008
+2805,"Mould Repair",2009-01-17,1,"Sydney",2009
+2807,"B Shift",2011-05-05,1,"Melbourne",2011
+2808,"C Shift",2013-11-13,1,"Sydney",2013
+2809,"Electrical Services",2009-03-28,1,"Brisbane",2009
+2811,"Human Resources O-I Asia Pacific",2016-10-15,1,"Melbourne",2016
+2812,"C Shift",2012-04-27,1,"Brisbane",2012
+2815,"IT Operations",2012-11-07,1,"Melbourne",2012
+2816,"E Shift",2009-08-19,1,"Melbourne",2009
+2819,"Stock Control",2009-04-08,1,"Sydney",2009
+2821,"Engineering",2012-01-19,1,"Sydney",2012
+2822,"Engineering",2013-01-19,1,"Sydney",2013
+2824,"E Shift",2010-01-20,1,"Melbourne",2010
+2825,"A Shift",2013-04-13,1,"Melbourne",2013
+2827,"Batch & Furnace",2011-07-30,1,"Melbourne",2011
+2828,"Plant Engineering",2016-01-06,1,"Melbourne",2016
+2829,"Procurement",2009-04-18,1,"Melbourne",2009
+2831,"Commercial Accounting",2014-04-12,1,"Melbourne",2014
+2832,"A Shift",2009-06-15,1,"Melbourne",2009
+2833,"National Planning",2009-12-12,1,"Melbourne",2009
+2835,"Human Resources",2010-07-17,1,"Melbourne",2010
+2836,"Batch & Furnace",2015-08-11,1,"Melbourne",2015
+2837,"Sales NSW",2010-10-09,1,"Sydney",2010
+2838,"Plant Engineering",2012-06-16,1,"Melbourne",2012
+2839,"Customer Services",2014-05-31,1,"Melbourne",2014
+2841,"New Product Development",2009-07-04,1,"Melbourne",2009
+2843,"Analytical Services",2010-06-01,1,"Melbourne",2010
+2845,"Mould Repair",2010-10-09,1,"Sydney",2010
+2846,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2848,"Facilities Advancement",2018-04-28,1,"Melbourne",2018
+2849,"Applications",2009-09-15,1,"Melbourne",2009
+2850,"Mould Repair",2012-12-07,1,"Adelaide",2012
+2852,"Electrical Services",2013-12-06,1,"Brisbane",2013
+2853,"Service Desk AP",2010-04-10,1,"Melbourne",2010
+2854,"Sales & Marketing",2010-07-22,1,"Melbourne",2010
+2855,"C Shift",2009-11-17,1,"Adelaide",2009
+2856,"Distribution - Queensland",2014-08-19,1,"Brisbane",2014
+2857,"Distribution - Queensland",2014-01-11,1,"Brisbane",2014
+2859,"SAP Basis",2012-07-28,1,"Melbourne",2012
+2861,"Expatriates",2009-11-21,1,"Other",2009
+2868,"Human Resources",2010-04-01,1,"Adelaide",2010
+2871,"Distribution - Queensland",2012-11-17,1,"Brisbane",2012
+2872,"Commercial",2011-10-01,1,"Sydney",2011
+2875,"Spirits & RTD Segment",2011-12-24,1,"Sydney",2011
+2876,"Integrated Systems and Risk",2015-10-17,1,"Melbourne",2015
+2877,"Beer Segment O-I Australia",2015-09-17,1,"Melbourne",2015
+2878,"Applications",2012-02-02,1,"Melbourne",2012
+2880,"New Product Development",2011-05-21,1,"Melbourne",2011
+2881,"Wine Segment",2015-08-08,1,"Adelaide",2015
+2884,"Commercial Accounting",2011-05-07,1,"Melbourne",2011
+2885,"Applications",2012-03-10,1,"Melbourne",2012
+2888,"Occupational Health & Safety",2012-05-31,1,"Melbourne",2012
+2889,"Human Resources",2010-07-13,1,"Melbourne",2010
+2890,"Plant Reliability Sydney",2014-01-18,1,"Sydney",2014
+2894,"E Shift",2011-01-28,1,"Adelaide",2011
+2895,"Batch and Furnace",2014-10-02,1,"Adelaide",2014
+2896,"Plant Reliability Sydney",2014-02-03,1,"Sydney",2014
+2897,"New Product Development",2011-04-30,1,"Melbourne",2011
+2899,"Engineering",2013-10-19,1,"Adelaide",2013
+2900,"Monthly Reporting and Planning",2010-12-18,1,"Melbourne",2010
+2901,"UPM3",2015-07-02,1,"Melbourne",2015
+2903,"Plant Engineering",2010-07-17,1,"Melbourne",2010
+2904,"Mould and Machine Maintenance",2014-10-02,1,"Adelaide",2014
+2905,"Occupational Health & Safety",2010-08-02,1,"Melbourne",2010
+2906,"Customer Technical Services",2012-03-31,1,"Brisbane",2012
+2912,"Human Resources",2012-05-05,1,"Sydney",2012
+2913,"Business Services",2012-06-09,1,"Brisbane",2012
+2914,"Occupational Health & Safety",2010-04-30,1,"Melbourne",2010
+2915,"Business Services",2014-02-05,1,"Brisbane",2014
+2916,"Marketing Australia",2013-09-21,1,"Melbourne",2013
+2917,"Environment, Health and Safety",2017-09-30,1,"Melbourne",2017
+2918,"Service Desk AP",2010-07-31,1,"Melbourne",2010
+2920,"E Shift",2010-07-07,1,"Adelaide",2010
+2922,"Electrical Services",2010-12-11,1,"Brisbane",2010
+2923,"Business Services",2010-05-29,1,"Melbourne",2010
+2924,"Business Services",2010-06-04,1,"Melbourne",2010
+2925,"New Product Development",2016-10-01,1,"Melbourne",2016
+2926,"Customer Services",2014-09-27,1,"Melbourne",2014
+2927,"E Shift",2015-07-09,1,"Adelaide",2015
+2928,"A Shift",2010-12-08,1,"Adelaide",2010
+2929,"D Shift",2015-04-23,1,"Adelaide",2015
+2931,"B Shift",2012-03-24,1,"Adelaide",2012
+2932,"D Shift",2014-10-02,1,"Adelaide",2014
+2933,"",2014-12-13,1,"Adelaide",2014
+2934,"Commercial Logistics",2018-06-06,1,"Melbourne",2018
+2935,"Line Development",2012-11-17,1,"Adelaide",2012
+2936,"Line Development",2012-12-15,1,"Adelaide",2012
+2937,"Engineering Services",2012-04-11,1,"Melbourne",2012
+2938,"Electrical Services",2011-03-26,1,"Brisbane",2011
+2939,"National Planning",2013-01-19,1,"Melbourne",2013
+2941,"Mould Repair",2013-11-28,1,"Sydney",2013
+2944,"C Shift",2015-02-14,1,"Adelaide",2015
+2946,"Manufacturing",2014-11-29,1,"Sydney",2014
+2947,"Mould Repair",2011-10-08,1,"Sydney",2011
+2948,"D Shift",2011-05-07,1,"Sydney",2011
+2949,"Human Resources",2011-03-30,1,"Melbourne",2011
+2953,"Customer Technical Services Australia",2015-04-01,1,"Other",2015
+2954,"UPM",2014-09-11,1,"Adelaide",2014
+2955,"Human Resources",2013-12-21,1,"Melbourne",2013
+2956,"Business Services",2010-11-10,1,"Melbourne",2010
+2958,"Cullet",2019-03-06,1,"Melbourne",2019
+2959,"Service Desk AP",2012-04-01,1,"Melbourne",2012
+2961,"Sales NSW",2011-03-11,1,"Sydney",2011
+2962,"Commercial Accounting",2013-01-26,1,"Melbourne",2013
+2963,"Applications",2017-09-02,1,"Melbourne",2017
+2964,"Commercial Accounting",2012-09-29,1,"Melbourne",2012
+2965,"Sales & Marketing",2014-02-08,1,"Melbourne",2014
+2966,"Sales & Marketing",2011-04-09,1,"Sydney",2011
+2968,"O-I Australia",2014-01-01,1,"Melbourne",2014
+2974,"D Shift",2010-11-15,1,"Melbourne",2010
+2975,"Commercial Accounting",2012-12-15,1,"Melbourne",2012
+2976,"Applications",2012-10-04,1,"Melbourne",2012
+2977,"Procurement",2012-07-21,1,"Melbourne",2012
+2978,"Human Resources Business Partnering",2017-10-11,1,"Melbourne",2017
+2980,"Manufacturing",2011-02-01,1,"Melbourne",2011
+2981,"Cold End Job Change",2018-11-09,1,"Melbourne",2018
+2982,"Regional Integrated Operations",2012-08-01,1,"Melbourne",2012
+2986,"Mould Repair",2013-03-29,1,"Adelaide",2013
+2988,"Unit Plant QG3",2017-08-09,1,"Brisbane",2017
+2990,"Human Resources O-I Asia Pacific",2014-08-09,1,"Melbourne",2014
+2992,"Engineering",2012-04-21,1,"Brisbane",2012
+2994,"E Shift",2011-02-10,1,"Melbourne",2011
+2995,"Pricing",2012-06-30,1,"Melbourne",2012
+2997,"Analytical Services",2012-08-16,1,"Melbourne",2012
+2999,"Service Desk AP",2011-06-10,1,"Melbourne",2011
+3002,"E Shift",2011-01-14,1,"Melbourne",2011
+3003,"Occupational Health & Safety",2014-11-12,1,"Melbourne",2014
+3008,"Applications",2011-08-02,1,"Melbourne",2011
+3009,"Batch & Furnace",2012-06-02,1,"Brisbane",2012
+3013,"Human Resources O-I Asia Pacific",2014-10-04,1,"Melbourne",2014
+3014,"Analytical Services",2011-12-31,1,"Melbourne",2011
+3016,"Electrical Maintenance",2015-01-17,1,"Melbourne",2015
+3020,"Corporate Accounting",2011-02-19,1,"Melbourne",2011
+3021,"Service Desk AP",2011-02-05,1,"Melbourne",2011
+3022,"Mechanical Services",2011-04-09,1,"Brisbane",2011
+3023,"E Shift",2014-10-02,1,"Adelaide",2014
+3025,"D Shift",2014-10-02,1,"Adelaide",2014
+3026,"Mould Repair",2011-03-02,1,"Sydney",2011
+3027,"D Shift",2014-10-02,1,"Adelaide",2014
+3029,"Mould Repair",2018-09-28,1,"Brisbane",2018
+3030,"Plant Reliability",2013-11-02,1,"Brisbane",2013
+3031,"Mechanical Services",2011-06-23,1,"Brisbane",2011
+3032,"Electrical Services",2013-10-10,1,"Brisbane",2013
+3035,"Mould Repair",2015-01-17,1,"Sydney",2015
+3036,"Glass and Materials Advancement",2016-10-17,1,"Melbourne",2016
+3037,"National Planning",2011-07-09,1,"Melbourne",2011
+3038,"Strategy and Integration O-I AP",2018-12-19,1,"Melbourne",2018
+3039,"Human Resources",2013-03-11,1,"Melbourne",2013
+3041,"Shift C",2018-07-22,1,"Melbourne",2018
+3042,"A Shift",2011-10-14,1,"Melbourne",2011
+3044,"Commercial Accounting",2012-03-31,1,"Melbourne",2012
+3045,"Sales & Marketing",2011-06-10,1,"Melbourne",2011
+3046,"Plant Reliability Sydney",2015-03-03,1,"Sydney",2015
+3047,"New Product Development",2014-01-25,1,"Melbourne",2014
+3050,"B Shift",2014-10-02,1,"Adelaide",2014
+3052,"Marketing Australia",2014-06-28,1,"Melbourne",2014
+3053,"Electrical Services",2013-06-22,1,"Brisbane",2013
+3055,"Global Operations Support Centre",2015-08-01,1,"Brisbane",2015
+3060,"Operational and Facilities Advancement",2012-05-22,1,"Melbourne",2012
+3061,"Monthly Reporting and Planning",2013-04-13,1,"Melbourne",2013
+3062,"E Shift",2012-09-15,1,"Brisbane",2012
+3066,"B Shift",2011-07-03,1,"Melbourne",2011
+3067,"Human Resources",2013-04-11,1,"Melbourne",2013
+3068,"Mould Repair",2014-08-23,1,"Sydney",2014
+3069,"Analytical Services",2011-09-03,1,"Melbourne",2011
+3071,"Wine Segment",2015-01-08,1,"Sydney",2015
+3072,"Beer Segment O-I Australia",2013-04-19,1,"Melbourne",2013
+3073,"Applications",2015-04-15,1,"Melbourne",2015
+3077,"E Shift",2011-09-27,1,"Melbourne",2011
+3080,"Mould Repair",2011-12-31,1,"Brisbane",2011
+3081,"New Product Development",2016-02-16,1,"Melbourne",2016
+3082,"Food & NAB Segment",2012-12-01,1,"Sydney",2012
+3084,"B Shift",2014-10-02,1,"Adelaide",2014
+3086,"Sales & Marketing",2012-12-15,1,"Melbourne",2012
+3087,"Supply Chain",2015-03-02,1,"Melbourne",2015
+3089,"B Shift",2011-11-09,1,"Melbourne",2011
+3091,"National Planning",2013-12-01,1,"Melbourne",2013
+3093,"Engineering",2012-03-10,1,"Sydney",2012
+3094,"Manufacturing",2016-07-09,1,"Sydney",2016
+3102,"Supply Chain O-I Asia Pacific",2017-12-16,1,"Melbourne",2017
+3103,"Commercial Accounting",2012-09-05,1,"Melbourne",2012
+3105,"Regional Integrated Operations",2014-01-01,1,"Melbourne",2014
+3106,"Job Change",2012-06-15,1,"Adelaide",2012
+3109,"ANZ Logistics",2017-07-15,1,"Melbourne",2017
+3110,"Plant Procedures & Specifications (ISO)",2012-10-08,1,"Melbourne",2012
+3111,"Service Desk AP",2015-10-31,1,"Melbourne",2015
+3113,"Human Resources",2013-11-30,1,"Sydney",2013
+3115,"Customer Technical Services",2012-08-15,1,"Brisbane",2012
+3117,"Applications",2014-05-01,1,"Melbourne",2014
+3119,"National Planning",2013-04-27,1,"Melbourne",2013
+3120,"Plant Reliability",2013-06-29,1,"Melbourne",2013
+3121,"O-I Asia Pacific",2015-06-02,1,"Melbourne",2015
+3123,"Australian Financial Operations",2017-03-01,1,"Melbourne",2017
+3126,"Environment, Health, Safety and Risk",2012-09-22,1,"Adelaide",2012
+3128,"Accounts Payable",2017-11-18,1,"Melbourne",2017
+3129,"Batch & Furnace",2016-04-16,1,"Brisbane",2016
+3131,"Plant Reliability",2016-11-07,1,"Brisbane",2016
+3133,"Business Services",2012-09-13,1,"Adelaide",2012
+3134,"Business Services",2012-12-01,1,"Adelaide",2012
+3135,"Human Resources O-I Asia Pacific",2015-03-21,1,"Melbourne",2015
+3136,"Sales & Marketing",2012-11-01,1,"Melbourne",2012
+3137,"Human Resources O-I Asia Pacific",2014-04-01,1,"Melbourne",2014
+3138,"Service Desk AP",2016-03-19,1,"Melbourne",2016
+3140,"Distribution",2016-12-10,1,"Melbourne",2016
+3141,"Integrated Systems & Risk",2013-09-11,1,"Adelaide",2013
+3142,"Batch & Furnace",2013-10-24,1,"Sydney",2013
+3143,"Analytical Services",2012-12-01,1,"Melbourne",2012
+3145,"Mechanical Services",2013-01-23,1,"Brisbane",2013
+3146,"Information Technology O-I AP",2017-11-25,1,"Melbourne",2017
+3149,"Shared Services",2015-05-16,1,"Melbourne",2015
+3150,"Procurement",2016-03-05,1,"Melbourne",2016
+3152,"Mould and Machine Maintenance",2014-10-02,1,"Adelaide",2014
+3153,"O-I Asia Pacific",2013-01-12,1,"Melbourne",2013
+3154,"Integrated Systems & Risk",2014-07-22,1,"Adelaide",2014
+3155,"Distribution - Queensland",2017-07-08,1,"Brisbane",2017
+3156,"Commercial Accounting",2013-01-26,1,"Melbourne",2013
+3157,"Distribution",2015-09-26,1,"Sydney",2015
+3158,"Distribution",2017-01-01,1,"Melbourne",2017
+3159,"Sales & Marketing O-I Australia",2017-05-01,1,"Melbourne",2017
+3160,"Accounts Payable",2018-10-02,1,"Melbourne",2018
+3161,"Commercial Accounting",2013-02-23,1,"Melbourne",2013
+3162,"Business Services",2015-01-01,1,"Adelaide",2015
+3163,"Shared Services",2014-11-18,1,"Melbourne",2014
+3166,"Business Services Melbourne",2015-12-01,1,"Melbourne",2015
+3168,"UPM3 C Shift",2016-08-09,1,"Melbourne",2016
+3170,"Commercial Accounting",2013-11-01,1,"Melbourne",2013
+3171,"Regional Integrated Operations",2014-05-01,1,"Melbourne",2014
+3173,"Shared Services",2013-11-30,1,"Melbourne",2013
+3174,"Human Resources O-I Asia Pacific",2013-06-25,1,"Melbourne",2013
+3175,"Human Resources",2015-04-11,1,"Brisbane",2015
+3176,"Job Change Team",2018-02-12,1,"Brisbane",2018
+3177,"Procurement",2016-04-09,1,"Melbourne",2016
+3178,"Beer Segment O-I Australia",2015-12-17,1,"Melbourne",2015
+3179,"UPM4 D Shift",2014-01-01,1,"Melbourne",2014
+3181,"Integrates Systems and Risk C Shift",2017-07-12,1,"Melbourne",2017
+3185,"Glass and Materials Advancement",2013-11-01,1,"Melbourne",2013
+3186,"Human Resources Shared Services",2018-03-01,1,"Melbourne",2018
+3191,"Job Change",2013-11-05,1,"Adelaide",2013
+3192,"Job Change",2014-10-02,1,"Adelaide",2014
+3193,"Job Change",2014-10-15,1,"Adelaide",2014
+3194,"Job Change",2013-11-19,1,"Adelaide",2013
+3197,"Electrical Services",2013-09-21,1,"Brisbane",2013
+3201,"Integrated Systems and Risk",2013-11-01,1,"Brisbane",2013
+3202,"Regional Integrated Operations",2016-02-13,1,"Melbourne",2016
+3203,"Regional Integrated Operations",2016-03-01,1,"Melbourne",2016
+3204,"Plant Controls Brisbane",2017-12-30,1,"Brisbane",2017
+3205,"Commercial",2014-03-27,1,"Melbourne",2014
+3206,"Maintenance Day Trades",2014-03-14,1,"Melbourne",2014
+3207,"Electrical Services",2014-06-06,1,"Brisbane",2014
+3212,"O-I Australia",2017-02-18,1,"Melbourne",2017
+3213,"EH&S Brisbane",2017-09-09,1,"Brisbane",2017
+3216,"B Shift",2015-07-09,1,"Adelaide",2015
+3217,"Human Resources O-I Asia Pacific",2016-04-28,1,"Melbourne",2016
+3218,"Plant Reliability",2015-10-24,1,"Brisbane",2015
+3219,"Human Resources",2014-08-01,1,"Sydney",2014
+3220,"Commercial",2014-08-15,1,"Melbourne",2014
+3221,"Commercial Accounting",2016-12-17,1,"Melbourne",2016
+3222,"Business Services",2015-04-04,1,"Brisbane",2015
+3224,"Shared Services",2014-06-28,1,"Melbourne",2014
+3225,"Unit Plant Management",2018-09-14,1,"Melbourne",2018
+3227,"D Shift",2014-10-02,1,"Adelaide",2014
+3228,"Electrical Services",2014-06-19,1,"Brisbane",2014
+3229,"O-I Asia Pacific",2018-03-16,1,"Melbourne",2018
+3230,"Integrated Systems and Risk",2016-04-11,1,"Melbourne",2016
+3231,"Human Resources",2014-08-02,1,"Brisbane",2014
+3233,"Commercial Accounting",2014-11-04,1,"Melbourne",2014
+3234,"ELECTRICIAN",2015-01-17,1,"Sydney",2015
+3235,"National Planning",2016-05-31,1,"Adelaide",2016
+3238,"Sales & Marketing",2017-01-01,1,"Melbourne",2017
+3239,"Regional Engineering",2017-11-01,1,"Melbourne",2017
+3240,"Batch & Furnace",2017-01-18,1,"Sydney",2017
+3244,"Maintenance",2018-11-17,1,"Adelaide",2018
+3245,"Commercial",2016-01-19,1,"Melbourne",2016
+3246,"Learning and Development",2018-05-01,1,"Adelaide",2018
+3250,"Strategy and Integration O-I AP",2019-04-13,1,"Melbourne",2019
+3251,"Human Resources",2014-09-06,1,"Melbourne",2014
+3253,"Sales & Marketing O-I Australia",2017-06-17,1,"Melbourne",2017
+3255,"Plant Controls Melbourne",2018-01-06,1,"Melbourne",2018
+3257,"Electrical Services",2014-09-08,1,"Brisbane",2014
+3259,"Integrated Systems and Risk",2014-08-16,1,"Brisbane",2014
+3260,"Procurement",2014-09-16,1,"Melbourne",2014
+3262,"Regional Procurement",2018-03-29,1,"Melbourne",2018
+3265,"Distribution - Queensland",2015-04-18,1,"Brisbane",2015
+3267,"Pricing O-I Asia Pacific",2017-09-21,1,"Melbourne",2017
+3268,"Business Planning",2016-12-01,1,"Melbourne",2016
+3269,"General Maintenance",2018-08-10,1,"Melbourne",2018
+3270,"Distribution - Queensland",2018-01-18,1,"Brisbane",2018
+3271,"UPM4 D Shift",2017-06-01,1,"Melbourne",2017
+3272,"Service Desk AP",2016-02-05,1,"Melbourne",2016
+3273,"Customer Technical Services",2017-12-13,1,"Sydney",2017
+3275,"General Maintenace",2016-11-20,1,"Melbourne",2016
+3278,"Shared Services",2019-01-12,1,"Melbourne",2019
+3280,"Human Resources",2016-05-01,1,"Melbourne",2016
+3281,"Brisbane Cullet Pty Ltd",2017-06-17,1,"Brisbane",2017
+3284,"UPM3",2016-04-01,1,"Melbourne",2016
+3288,"Integrated Systems and Risk",2016-03-01,1,"Melbourne",2016
+3291,"Business Services",2016-10-26,1,"Brisbane",2016
+3292,"Commercial Accounting",2015-01-17,1,"Melbourne",2015
+3293,"Inspection & Packaging Engineering",2017-12-28,1,"Brisbane",2017
+3295,"Shift C",2018-05-24,1,"Melbourne",2018
+3298,"Inspection & Packaging Engineering",2015-03-21,1,"Brisbane",2015
+3299,"Plant Electrical Sydney",2019-01-18,1,"Sydney",2019
+3302,"Forming Job Change",2015-07-01,1,"Sydney",2015
+3303,"Strategy and PMO",2017-12-01,1,"Melbourne",2017
+3304,"Sales & Marketing O-I Australia",2016-09-10,1,"Melbourne",2016
+3305,"Batch & Furnace",2017-04-01,1,"Melbourne",2017
+3310,"Job Change",2018-05-06,1,"Sydney",2018
+3312,"Human Resources Brisbane",2018-01-23,1,"Brisbane",2018
+3313,"Plant Reliability",2015-04-18,1,"Brisbane",2015
+3314,"Forming Maintenance",2015-09-24,1,"Brisbane",2015
+3316,"Batch & Furnace",2017-10-06,1,"Brisbane",2017
+3317,"Electrical Maintenance",2017-07-20,1,"Melbourne",2017
+3318,"Occupational Health & Safety",2015-04-20,1,"Melbourne",2015
+3319,"Plant Mechanical Maintenance",2016-12-03,1,"Brisbane",2016
+3323,"Monthly Reporting and Planning",2017-04-29,1,"Melbourne",2017
+3325,"Distribution - Queensland",2017-04-11,1,"Brisbane",2017
+3329,"Unit Plant QG33",2018-04-05,1,"Brisbane",2018
+3330,"Production Support",2015-08-05,1,"Brisbane",2015
+3331,"Monthly Reporting and Planning",2016-01-07,1,"Melbourne",2016
+3334,"Plant Reliability",2017-08-05,1,"Brisbane",2017
+3336,"Brisbane Cullet Pty Ltd",2016-05-20,1,"Brisbane",2016
+3338,"Commercial",2015-09-17,1,"Melbourne",2015
+3339,"Quantum_RTR",2018-06-02,1,"Melbourne",2018
+3342,"Integrates Systems and Risk C Shift",2015-08-12,1,"Melbourne",2015
+3347,"Business Services",2015-11-01,1,"Adelaide",2015
+3349,"Business Services",2016-07-22,1,"Adelaide",2016
+3353,"Human Resources O-I Asia Pacific",2017-03-01,1,"Melbourne",2017
+3354,"Plant Reliability",2017-05-01,1,"Melbourne",2017
+3358,"Pack Centre",2015-12-17,1,"Melbourne",2015
+3361,"Accounts Payable",2018-10-20,1,"Melbourne",2018
+3362,"Human Resources",2017-06-22,1,"Brisbane",2017
+3363,"Electrical Engineering",2018-11-24,1,"Melbourne",2018
+3367,"O-I Australia",2017-04-01,1,"Melbourne",2017
+3368,"ANZ Planning",2018-03-31,1,"Adelaide",2018
+3369,"Procurement",2016-05-28,1,"Melbourne",2016
+3372,"Monthly Reporting and Planning",2017-04-29,1,"Melbourne",2017
+3374,"Manufacturing",2018-02-01,1,"Melbourne",2018
+3375,"O-I Brisbane Plant",2017-08-19,1,"Brisbane",2017
+3379,"Distribution - Queensland",2017-11-04,1,"Brisbane",2017
+3382,"Monthly Reporting and Planning",2019-01-31,1,"Melbourne",2019
+3383,"Pack Centre",2016-06-16,1,"Melbourne",2016
+3384,"Pack Centre",2016-02-04,1,"Melbourne",2016
+3387,"O-I Adelaide Plant",2017-02-24,1,"Adelaide",2017
+3389,"Manufacturing",2017-06-16,1,"Sydney",2017
+3390,"Business Planning",2017-04-14,1,"Melbourne",2017
+3392,"A Shift",2016-11-12,1,"Brisbane",2016
+3393,"EH&S Brisbane",2018-05-26,1,"Brisbane",2018
+3397,"Occupational Health & Safety",2017-08-10,1,"Melbourne",2017
+3402,"Mechanical Engineering",2018-11-07,1,"Melbourne",2018
+3404,"Procurement Administration",2017-12-05,1,"Brisbane",2017
+3407,"Occupational Health & Safety",2016-10-01,1,"Melbourne",2016
+3408,"Customer Services",2017-08-05,1,"Melbourne",2017
+3415,"O-I Asia Pacific",2018-05-02,1,"Melbourne",2018
+3420,"Inspection & Packaging Engineering",2017-03-25,1,"Brisbane",2017
+3422,"Business Services Melbourne",2016-08-20,1,"Melbourne",2016
+3424,"Service Desk AP",2018-09-22,1,"Melbourne",2018
+3426,"Procurement",2017-04-22,1,"Melbourne",2017
+3429,"Job Change",2016-12-08,1,"Brisbane",2016
+3437,"Sales & Marketing O-I Australia",2017-06-01,1,"Melbourne",2017
+3440,"Unit Plant QG12",2017-07-15,1,"Brisbane",2017
+3441,"Plant Controls Adelaide",2019-06-01,1,"Adelaide",2019
+3443,"Strategic Sourcing and Demand",2018-08-11,1,"Melbourne",2018
+3444,"Integrated Systems and Risk",2017-04-22,1,"Brisbane",2017
+3446,"ANZ Planning",2018-11-17,1,"Melbourne",2018
+3451,"Integrated Systems and Risk",2017-07-16,1,"Melbourne",2017
+3454,"Monthly Reporting and Planning",2018-06-05,1,"Melbourne",2018
+3455,"New Product Development",2017-06-03,1,"Melbourne",2017
+3457,"Quantum_ITF",2018-12-01,1,"Melbourne",2018
+3458,"Human Resources O-I Asia Pacific",2017-06-20,1,"Melbourne",2017
+3459,"Human Resources O-I Asia Pacific",2017-06-24,1,"Melbourne",2017
+3460,"Operations O-I Australia",2017-12-16,1,"Melbourne",2017
+3463,"Plant Maintenance",2018-10-06,1,"Brisbane",2018
+3464,"Quantum_Master Data",2018-12-01,1,"Melbourne",2018
+3465,"Occupational Health & Safety",2017-09-30,1,"Melbourne",2017
+3472,"Service Desk AP",2017-07-08,1,"Melbourne",2017
+3473,"ANZ Logistics",2017-08-01,1,"Melbourne",2017
+3474,"Regional Engineering",2017-10-29,1,"Melbourne",2017
+3476,"Batch & Furnace",2018-12-15,1,"Melbourne",2018
+3479,"Operational Capability",2017-12-16,1,"Brisbane",2017
+3481,"Quality",2018-09-29,1,"Adelaide",2018
+3483,"Business Controlling",2018-11-24,1,"Melbourne",2018
+3484,"Strategy and Integration O-I AP",2017-07-01,1,"Melbourne",2017
+3485,"Performance Improvement",2017-12-16,1,"Sydney",2017
+3486,"Plant Controls Brisbane",2018-04-28,1,"Brisbane",2018
+3487,"Change Management",2017-12-16,1,"Melbourne",2017
+3488,"Human Resources Shared Services",2017-07-29,1,"Melbourne",2017
+3489,"ANZ Logistics",2018-04-28,1,"Melbourne",2018
+3493,"Human Resources Business Partnering",2018-03-01,1,"Melbourne",2018
+3494,"Furnace Design",2019-03-31,1,"Melbourne",2019
+3496,"Human Resources O-I Asia Pacific",2017-07-01,1,"Melbourne",2017
+3498,"Cullet Operations",2017-10-03,1,"Brisbane",2017
+3499,"Brisbane Cullet Pty Ltd",2017-04-17,1,"Brisbane",2017
+3501,"Human Resources Brisbane",2018-12-01,1,"Brisbane",2018
+3502,"Human Resources Shared Services",2018-12-19,1,"Melbourne",2018
+3504,"Brisbane Cullet Pty Ltd",2017-05-29,1,"Brisbane",2017
+3509,"Reliability",2019-01-15,1,"Adelaide",2019
+3517,"Human Resources Shared Services",2018-03-17,1,"Melbourne",2018
+3519,"Logistics",2018-12-01,1,"Melbourne",2018
+3522,"IT Operations",2018-07-14,1,"Melbourne",2018
+3528,"Management Accounting",2017-11-30,1,"Melbourne",2017
+3531,"Change Management",2018-12-19,1,"Melbourne",2018
+3532,"Operational and Facilities Advancement",2018-07-01,1,"Melbourne",2018
+3535,"Learning and Development",2019-04-13,1,"Melbourne",2019
+3537,"Brisbane Cullet",2017-11-04,1,"Brisbane",2017
+3538,"Human Resources Shared Services",2018-02-21,1,"Melbourne",2018
+3539,"Regional Procurement",2017-12-01,1,"Melbourne",2017
+3543,"Pricing O-I Asia Pacific",2018-02-23,1,"Melbourne",2018
+3544,"Inspection & Packaging Engineering",2018-01-06,1,"Brisbane",2018
+3547,"Project Quantum",2018-12-01,1,"Melbourne",2018
+3548,"Quantum_RTR",2018-12-19,1,"Melbourne",2018
+3549,"Human Resources Business Partnering",2018-01-06,1,"Sydney",2018
+3550,"Quantum_OTC",2018-11-22,1,"Melbourne",2018
+3551,"Process Improvement",2018-01-26,1,"Melbourne",2018
+3553,"Change Management",2018-09-29,1,"Melbourne",2018
+3557,"Quantum_PTP",2019-02-01,1,"Melbourne",2019
+3564,"Electrical Engineering",2019-02-16,1,"Melbourne",2019
+3565,"Shared Services",2018-01-27,1,"Melbourne",2018
+3567,"Communications",2019-02-01,1,"Melbourne",2019
+3569,"Shift D",2017-10-14,1,"Melbourne",2017
+3575,"Project Quantum",2018-04-18,1,"Melbourne",2018
+3578,"ANZ Planning",2019-05-15,1,"Melbourne",2019
+3579,"UPM",2019-04-27,1,"Adelaide",2019
+3581,"Plant Maintenance",2018-01-02,1,"Brisbane",2018
+3582,"Quantum_PTP",2018-09-26,1,"Melbourne",2018
+3584,"Regional EHS",2018-11-10,1,"Melbourne",2018
+3585,"Accounts Payable",2018-07-18,1,"Melbourne",2018
+3588,"ANZ Finance",2018-06-02,1,"Melbourne",2018
+3590,"Brisbane Cullet",2019-01-16,1,"Brisbane",2019
+3592,"Change Management",2018-12-11,1,"Melbourne",2018
+3593,"D Shift",2018-03-06,1,"Adelaide",2018
+3595,"Shift B",2019-01-08,1,"Melbourne",2019
+3596,"Strategic Sourcing and Demand",2018-10-06,1,"Adelaide",2018
+3599,"Quantum_IT",2018-12-14,1,"Melbourne",2018
+3600,"Shift C",2019-04-30,1,"Adelaide",2019
+3609,"Process Improvement",2018-11-03,1,"Melbourne",2018
+3612,"Human Resources Shared Services",2018-12-19,1,"Melbourne",2018
+3613,"Plant Controls Sydney",2018-08-08,1,"Sydney",2018
+3617,"Quantum_OTC",2018-03-09,1,"Melbourne",2018
+3618,"Shared Services",2018-03-29,1,"Melbourne",2018
+3620,"Pricing O-I Asia Pacific",2018-09-19,1,"Melbourne",2018
+3626,"Quantum_IT",2018-12-01,1,"Melbourne",2018
+3636,"Human Resources Business Partnering",2018-05-26,1,"Sydney",2018
+3642,"Shared Services",2018-08-11,1,"Melbourne",2018
+3645,"Change Management",2018-12-19,1,"Melbourne",2018
+3647,"Plant Controls Brisbane",2018-12-08,1,"Brisbane",2018
+3656,"Maintenance Planning",2019-01-12,1,"Brisbane",2019
+3657,"IT Operations",2019-06-22,1,"Melbourne",2019
+3662,"Quantum_IT",2019-02-28,1,"Melbourne",2019
+3663,"IS Repair",2019-01-05,1,"Brisbane",2019
+3679,"Technical Services",2019-03-30,1,"Brisbane",2019
+3680,"Batch & Furnace",2019-01-03,1,"Melbourne",2019
+3682,"Adelaide Plant",2019-04-06,1,"Adelaide",2019
+3683,"Adelaide Plant",2019-04-06,1,"Adelaide",2019
+3689,"Management Accounting",2019-05-09,1,"Melbourne",2019
+3698,"Shift C",2019-02-23,1,"Adelaide",2019
+3716,"Shift C",2019-06-08,1,"Melbourne",2019
+3722,"IS Repair",2019-05-04,1,"Melbourne",2019
+3741,"Shift C",2019-06-30,1,"Adelaide",2019
+90000024,"Distribution",2008-08-01,1,"Jakarta",2008
+90000070,"Finance",2003-04-01,1,"Jakarta",2003
+90000079,"Machine Maintenance",2005-01-01,1,"Jakarta",2005
+90000084,"Manufacturing",2011-05-01,1,"Jakarta",2011
+90000086,"Human Resources",2003-04-01,1,"Jakarta",2003
+90000087,"PT Kangar Consolidated Industries",2009-02-01,1,"Jakarta",2009
+90000089,"Marketing & Sales",2003-01-01,1,"Jakarta",2003
+90000102,"Finance",2003-04-01,1,"Jakarta",2003
+90000104,"Marketing & Sales",2002-03-01,1,"Jakarta",2002
+90000110,"Finance",2005-07-01,1,"Jakarta",2005
+90000116,"Marketing & Sales",2009-01-01,1,"Jakarta",2009
+90000117,"Human Resources",2003-10-01,1,"Jakarta",2003
+90000121,"Purchasing",2003-04-01,1,"Jakarta",2003
+90000123,"PT Kangar Consolidated Industries",2003-04-01,1,"Jakarta",2003
+90000124,"Finance",2003-04-01,1,"Jakarta",2003
+90000130,"Purchasing",2002-02-16,1,"Jakarta",2002
+90000131,"Marketing & Sales",2003-01-01,1,"Jakarta",2003
+90000134,"Marketing & Sales",2004-05-01,1,"Jakarta",2004
+90000140,"Marketing & Sales",2005-05-01,1,"Jakarta",2005
+90000141,"Human Resources",2016-06-01,1,"Jakarta",2016
+90000142,"Marketing & Sales",2012-12-01,1,"Jakarta",2012
+90000143,"PT Kangar Consolidated Industries",2018-10-01,1,"Jakarta",2018
+90000144,"Human Resources",2009-07-01,1,"Jakarta",2009
+90000145,"Finance",2017-01-01,1,"Jakarta",2017
+90000146,"PT Kangar Consolidated Industries",2011-09-01,1,"Jakarta",2011
+90000148,"Marketing & Sales",2006-05-01,1,"Jakarta",2006
+90000150,"Quality Service",2006-10-22,1,"Jakarta",2006
+90000151,"Production Planning Inventory Control",2010-06-01,1,"Jakarta",2010
+90000154,"Finance",2014-08-01,1,"Jakarta",2014
+90000155,"Finance",2002-06-23,1,"Jakarta",2002
+90000157,"Human Resources",2004-02-16,1,"Jakarta",2004
+90000158,"Finance",2010-02-01,1,"Jakarta",2010
+90001012,"Mould Shop/R & D",2005-12-01,1,"Jakarta",2005
+90001019,"Distribution",2008-02-01,1,"Jakarta",2008
+90001023,"Security",2003-02-06,1,"Jakarta",2003
+90001045,"Mould Shop",2013-10-01,1,"Jakarta",2013
+90001054,"Canteen",2005-03-05,1,"Jakarta",2005
+90001064,"Canteen",2005-03-05,1,"Jakarta",2005
+90001065,"Canteen",2005-03-05,1,"Jakarta",2005
+90001068,"Canteen",2005-03-05,1,"Jakarta",2005
+90001069,"Canteen",2005-03-05,1,"Jakarta",2005
+90001071,"Canteen",2005-03-05,1,"Jakarta",2005
+90001072,"Human Resources",2003-04-01,1,"Jakarta",2003
+90001073,"Canteen",2005-03-05,1,"Jakarta",2005
+90001080,"Canteen",2005-03-05,1,"Jakarta",2005
+90001086,"Security",2003-02-06,1,"Jakarta",2003
+90001087,"Security",2003-02-06,1,"Jakarta",2003
+90001088,"Security",2003-02-06,1,"Jakarta",2003
+90001091,"Canteen",2005-03-05,1,"Jakarta",2005
+90001092,"Canteen",2005-03-05,1,"Jakarta",2005
+90001093,"Canteen",2005-03-05,1,"Jakarta",2005
+90001096,"Canteen",2005-03-05,1,"Jakarta",2005
+90001097,"""D"" Shift Hot End",2008-10-01,1,"Jakarta",2008
+90001099,"Security",2003-02-06,1,"Jakarta",2003
+90002005,"Batch & Furnace",2004-12-01,1,"Jakarta",2004
+90002006,"Batch & Furnace",2003-03-01,1,"Jakarta",2003
+90002010,"Batch & Furnace",2011-07-01,1,"Jakarta",2011
+90002015,"""D"" Shift Cold End",2011-06-01,1,"Jakarta",2011
+90002018,"Batch & Furnace",2010-04-01,1,"Jakarta",2010
+90002021,"Batch & Furnace",2006-10-01,1,"Jakarta",2006
+90002028,"Job Change",2009-01-01,1,"Jakarta",2009
+90002030,"Human Resources",2006-02-01,1,"Jakarta",2006
+90002031,"Finished Products",2004-05-01,1,"Jakarta",2004
+90002034,"B' Shift - Forming",2005-08-01,1,"Jakarta",2005
+90002035,"Production Planning Inventory Control",2006-10-01,1,"Jakarta",2006
+90002040,"Shift Operation ""C""",2010-02-01,1,"Jakarta",2010
+90002042,"Shift Operation ""D""",2008-01-01,1,"Jakarta",2008
+90002043,"B' Shift - Forming",2003-09-01,1,"Jakarta",2003
+90002044,"Job Change",2008-11-17,1,"Jakarta",2008
+90002045,"Forming",2009-02-01,1,"Jakarta",2009
+90002049,"Forming Development",2009-07-01,1,"Jakarta",2009
+90002051,"C' Shift - Forming",2004-02-01,1,"Jakarta",2004
+90002052,"B' Shift - Forming",2006-06-01,1,"Jakarta",2006
+90002054,"Manufacturing",2006-07-01,1,"Jakarta",2006
+90002055,"Mould Shop/R & D",2006-11-01,1,"Jakarta",2006
+90002056,"Mechanical Engineering",2008-03-01,1,"Jakarta",2008
+90002058,"C' Shift - Forming",2003-12-01,1,"Jakarta",2003
+90002060,"Annealing Coating Lehr",2008-06-01,1,"Jakarta",2008
+90002061,"Shift Operation ""A""",2007-09-01,1,"Jakarta",2007
+90002063,"B' Shift - Forming",2002-04-01,1,"Jakarta",2002
+90002072,"Quality Service",2010-08-01,1,"Jakarta",2010
+90002075,"Quality Service",2007-05-01,1,"Jakarta",2007
+90002081,"""B"" Shift Cold End",2008-11-01,1,"Jakarta",2008
+90002084,"Security",2003-02-06,1,"Jakarta",2003
+90002085,"Inspection & Packing",2006-05-01,1,"Jakarta",2006
+90002088,"Batch & Furnace",2006-10-01,1,"Jakarta",2006
+90002094,"C'Shift - Inspection & Packing",2005-01-01,1,"Jakarta",2005
+90002095,"Quality Service",2007-09-01,1,"Jakarta",2007
+90002099,"Production",2007-07-01,1,"Jakarta",2007
+90002103,"Quality Service",2009-12-01,1,"Jakarta",2009
+90002104,"Quality Service",2007-09-01,1,"Jakarta",2007
+90002107,"Quality Assurance",2004-10-01,1,"Jakarta",2004
+90002108,"Quality Service",2006-10-01,1,"Jakarta",2006
+90002111,"A'Shift - Inspection & Packing",2004-07-01,1,"Jakarta",2004
+90002112,"D'Shift - Inspection & Packing",2005-05-01,1,"Jakarta",2005
+90002121,"Human Resources",2003-03-01,1,"Jakarta",2003
+90002125,"Annealing Coating Lehr",2007-07-01,1,"Jakarta",2007
+90002126,"Cold End Support",2006-08-01,1,"Jakarta",2006
+90002133,"A'Shift - Inspection & Packing",2006-01-01,1,"Jakarta",2006
+90002135,"Annealing Coating Lehr",2006-11-01,1,"Jakarta",2006
+90002139,"Job Change",2009-02-01,1,"Jakarta",2009
+90002140,"""C"" Shift Cold End",2007-02-01,1,"Jakarta",2007
+90002142,"""D"" Shift Cold End",2009-06-01,1,"Jakarta",2009
+90002149,"Annealing Coating Lehr",2009-01-01,1,"Jakarta",2009
+90002153,"Annealing Coating Lehr",2006-10-01,1,"Jakarta",2006
+90002156,"Job Change",2005-01-01,1,"Jakarta",2005
+90002168,"Logistics",2004-05-01,1,"Jakarta",2004
+90002173,"Factory Engineering",2005-02-01,1,"Jakarta",2005
+90002174,"Electronic",2007-03-09,1,"Jakarta",2007
+90002178,"Plant Engineering",2003-09-01,1,"Jakarta",2003
+90002180,"Plant Engineering",2004-05-01,1,"Jakarta",2004
+90002181,"Plant Engineering",2004-09-01,1,"Jakarta",2004
+90002189,"Mechanical Engineering",2012-05-01,1,"Jakarta",2012
+90002194,"""D"" Shift Cold End",2008-12-01,1,"Jakarta",2008
+90002195,"Distribution",2010-11-01,1,"Jakarta",2010
+90002197,"Mechanical Engineering",2007-05-01,1,"Jakarta",2007
+90002206,"Machine Maintenance",2006-03-01,1,"Jakarta",2006
+90002215,"Mould Shop/R & D",2006-12-01,1,"Jakarta",2006
+90002216,"Mould Shop/R & D",2005-04-01,1,"Jakarta",2005
+90002224,"Mould Shop/R & D",2003-07-01,1,"Jakarta",2003
+90002226,"Mould Shop/R & D",2002-06-01,1,"Jakarta",2002
+90002228,"Security",2003-02-06,1,"Jakarta",2003
+90002229,"Mould Shop/R & D",2006-04-01,1,"Jakarta",2006
+90002234,"Mechanical Engineering",2013-02-01,1,"Jakarta",2013
+90002237,"Finance",2003-04-01,1,"Jakarta",2003
+90002238,"Store",2010-11-01,1,"Jakarta",2010
+90002240,"Warehouse",2005-08-01,1,"Jakarta",2005
+90002243,"Distribution",2011-07-01,1,"Jakarta",2011
+90002245,"Plant Electrical",2002-08-01,1,"Jakarta",2002
+90002246,"Distribution",2009-09-01,1,"Jakarta",2009
+90002252,"Security",2003-02-06,1,"Jakarta",2003
+90002259,"Finished Products",2005-01-01,1,"Jakarta",2005
+90002261,"Quality Service",2006-12-01,1,"Jakarta",2006
+90002263,"Purchasing",2011-04-01,1,"Jakarta",2011
+90002264,"Mould Shop/R & D",2006-07-01,1,"Jakarta",2006
+90002265,"A'Shift - Inspection & Packing",2005-12-01,1,"Jakarta",2005
+90002266,"Mould Shop/R & D",2007-03-01,1,"Jakarta",2007
+90002270,"Plant Engineering",2008-04-01,1,"Jakarta",2008
+90002272,"Mould Shop/R & D",2004-09-01,1,"Jakarta",2004
+90002278,"Security",2003-02-06,1,"Jakarta",2003
+90002285,"Job Change",2005-01-01,1,"Jakarta",2005
+90002291,"Mould Shop",2010-11-01,1,"Jakarta",2010
+90002293,"Mould Shop",2012-09-01,1,"Jakarta",2012
+90002300,"Secondary Process",2005-10-01,1,"Jakarta",2005
+90002301,"Shift Operation ""D""",2012-01-01,1,"Jakarta",2012
+90002303,"Job Change",2007-06-01,1,"Jakarta",2007
+90002305,"A' Shift - Forming",2006-05-01,1,"Jakarta",2006
+90002315,"Human Resources",2004-09-01,1,"Jakarta",2004
+90002316,"""C"" Shift Cold End",2012-01-01,1,"Jakarta",2012
+90002320,"Mould Shop/R & D",2004-01-01,1,"Jakarta",2004
+90002329,"Mould Shop/R & D",2007-03-01,1,"Jakarta",2007
+90002334,"Mould Shop/R & D",2009-05-01,1,"Jakarta",2009
+90002335,"Factory Engineering",2003-07-01,1,"Jakarta",2003
+90002337,"Logistics",2002-08-01,1,"Jakarta",2002
+90002341,"""A"" Shift Cold End",2010-06-01,1,"Jakarta",2010
+90002342,"Mechanical Engineering",2009-11-01,1,"Jakarta",2009
+90002346,"Plant Engineering",2009-11-01,1,"Jakarta",2009
+90002362,"Annealing Coating Lehr",2013-01-01,1,"Jakarta",2013
+90002363,"Mould Shop",2011-07-01,1,"Jakarta",2011
+90002371,"""C"" Shift Cold End",2008-11-01,1,"Jakarta",2008
+90002375,"""B"" Shift Cold End",2010-04-01,1,"Jakarta",2010
+90002376,"A' Shift - Select & Pack",2002-11-01,1,"Jakarta",2002
+90002377,"Distribution",2013-01-01,1,"Jakarta",2013
+90002382,"Production Planning Inventory Control",2009-02-01,1,"Jakarta",2009
+90002383,"Quality Service",2012-11-01,1,"Jakarta",2012
+90002386,"Security",2003-02-06,1,"Jakarta",2003
+90002393,"Batch & Furnace",2010-02-01,1,"Jakarta",2010
+90002397,"Mechanical Engineering",2005-12-01,1,"Jakarta",2005
+90002400,"Quality Service",2009-11-01,1,"Jakarta",2009
+90002402,"Shift Operation ""B""",2015-03-01,1,"Jakarta",2015
+90002411,"""A"" Shift Hot End",2012-02-01,1,"Jakarta",2012
+90002426,"Machine Maintenance",2006-04-01,1,"Jakarta",2006
+90002427,"Machine Maintenance",2014-02-01,1,"Jakarta",2014
+90002428,"Security",2003-02-06,1,"Jakarta",2003
+90002435,"Job Change",2009-04-01,1,"Jakarta",2009
+90002439,"Job Change",2008-01-01,1,"Jakarta",2008
+90002441,"Forming Development",2010-01-01,1,"Jakarta",2010
+90002444,"Mould Shop",2014-08-01,1,"Jakarta",2014
+90002445,"Quality Service",2007-06-01,1,"Jakarta",2007
+90002448,"Batch & Furnace",2011-04-01,1,"Jakarta",2011
+90002450,"Batch & Furnace",2009-03-01,1,"Jakarta",2009
+90002452,"Line 24 Shift A",2015-06-01,1,"Jakarta",2015
+90002455,"Batch & Furnace",2007-12-01,1,"Jakarta",2007
+90002456,"Quality Service",2013-11-01,1,"Jakarta",2013
+90002457,"Human Resources",2003-04-01,1,"Jakarta",2003
+90002459,"A'Shift - Inspection & Packing",2005-01-01,1,"Jakarta",2005
+90002460,"Distribution",2013-07-01,1,"Jakarta",2013
+90002461,"Shift Operation ""B""",2015-08-01,1,"Jakarta",2015
+90002464,"Plant Engineering",2004-09-01,1,"Jakarta",2004
+90002465,"Plant Engineering",2005-03-01,1,"Jakarta",2005
+90002466,"Mechanical Engineering",2007-09-01,1,"Jakarta",2007
+90002468,"Batch & Furnace",2014-04-01,1,"Jakarta",2014
+90002470,"Batch & Furnace",2012-07-01,1,"Jakarta",2012
+90002473,"Batch & Furnace",2012-02-01,1,"Jakarta",2012
+90002474,"Batch & Furnace",2013-01-01,1,"Jakarta",2013
+90002477,"""A"" Shift Cold End",2009-06-01,1,"Jakarta",2009
+90002478,"Mechanical Engineering",2012-10-01,1,"Jakarta",2012
+90002484,"Secondary Process",2002-06-01,1,"Jakarta",2002
+90002492,"Distribution",2013-07-01,1,"Jakarta",2013
+90002496,"Distribution",2007-08-01,1,"Jakarta",2007
+90002497,"Electrical",2010-07-06,1,"Jakarta",2010
+90002499,"Logistics",2002-03-01,1,"Jakarta",2002
+90002502,"Mould Shop",2009-12-01,1,"Jakarta",2009
+90002505,"Inspection Packaging",2013-08-01,1,"Jakarta",2013
+90002508,"Shift Operation ""A""",2009-06-01,1,"Jakarta",2009
+90002513,"",2002-05-01,1,"Jakarta",2002
+90002515,"Batch & Furnace",2009-10-01,1,"Jakarta",2009
+90002516,"Mould Shop/R & D",2005-11-01,1,"Jakarta",2005
+90002517,"Quality Service",2013-08-01,1,"Jakarta",2013
+90002519,"""B"" Shift Cold End",2007-07-01,1,"Jakarta",2007
+90002520,"Inspection Packaging",2016-05-01,1,"Jakarta",2016
+90002521,"D'Shift - Inspection & Packing",2005-07-01,1,"Jakarta",2005
+90002522,"""A"" Shift Cold End",2007-09-01,1,"Jakarta",2007
+90002523,"Quality Service",2014-10-01,1,"Jakarta",2014
+90002525,"Batch & Furnace",2014-06-01,1,"Jakarta",2014
+90002527,"Mould Shop",2016-09-01,1,"Jakarta",2016
+90002532,"Distribution",2014-04-01,1,"Jakarta",2014
+90002534,"Mechanical Engineering",2013-08-01,1,"Jakarta",2013
+90002541,"Distribution",2016-01-01,1,"Jakarta",2016
+90002542,"Store",2013-05-01,1,"Jakarta",2013
+90002543,"C'Shift - Inspection & Packing",2005-08-01,1,"Jakarta",2005
+90002544,"Quality Service",2013-05-01,1,"Jakarta",2013
+90002550,"D' Shift - Forming",2004-02-01,1,"Jakarta",2004
+90002554,"Batch & Furnace",2016-07-01,1,"Jakarta",2016
+90002555,"Batch & Furnace",2012-07-01,1,"Jakarta",2012
+90002557,"""D"" Shift Cold End",2009-07-01,1,"Jakarta",2009
+90002559,"Quality Service",2010-06-01,1,"Jakarta",2010
+90002561,"Distribution",2012-05-01,1,"Jakarta",2012
+90002564,"Mechanical Engineering",2009-05-01,1,"Jakarta",2009
+90002566,"Mechanical Engineering",2006-08-01,1,"Jakarta",2006
+90002567,"Mould Shop/R & D",2009-06-01,1,"Jakarta",2009
+90002568,"Mould Shop",2015-08-01,1,"Jakarta",2015
+90002573,"Inspection Packaging",2013-01-01,1,"Jakarta",2013
+90002575,"""B"" Shift Cold End",2010-08-01,1,"Jakarta",2010
+90002576,"""A"" Shift Cold End",2010-08-01,1,"Jakarta",2010
+90002581,"Quality Service",2009-01-01,1,"Jakarta",2009
+90002582,"Quality Service",2008-07-01,1,"Jakarta",2008
+90002586,"Shift Operation ""C""",2017-04-01,1,"Jakarta",2017
+90002590,"Quality Service",2015-04-01,1,"Jakarta",2015
+90002593,"Batch & Furnace",2018-03-01,1,"Jakarta",2018
+90002595,"Line 14 Shift C",2015-02-01,1,"Jakarta",2015
+90002596,"Shift Operation ""D""",2015-09-01,1,"Jakarta",2015
+90002597,"Quality Service",2009-01-01,1,"Jakarta",2009
+90002601,"Line 14 Shift B",2014-12-01,1,"Jakarta",2014
+90002604,"Logistic & PPIC",2017-03-01,1,"Jakarta",2017
+90002605,"""D"" Shift Cold End",2013-08-01,1,"Jakarta",2013
+90002608,"Distribution",2015-07-01,1,"Jakarta",2015
+90002615,"Inspection Packaging",2014-06-01,1,"Jakarta",2014
+90002617,"Security",2003-02-06,1,"Jakarta",2003
+90002618,"Distribution",2013-05-01,1,"Jakarta",2013
+90002620,"Mould Shop/R & D",2005-06-01,1,"Jakarta",2005
+90002622,"Store",2015-08-01,1,"Jakarta",2015
+90002624,"""D"" Shift Cold End",2009-08-01,1,"Jakarta",2009
+90002629,"Forming",2015-11-01,1,"Jakarta",2015
+90002632,"""A"" Shift Cold End",2011-10-01,1,"Jakarta",2011
+90002638,"Plant Engineering",2003-08-22,1,"Jakarta",2003
+90002642,"Quality Service",2012-07-01,1,"Jakarta",2012
+90002645,"Mechanical Engineering",2017-03-23,1,"Jakarta",2017
+90002651,"""A"" Shift Cold End",2013-05-01,1,"Jakarta",2013
+90002652,"Finance",2014-11-01,1,"Jakarta",2014
+90002654,"Warehouse",2017-05-01,1,"Jakarta",2017
+90002656,"Line 22 Shift A",2015-01-01,1,"Jakarta",2015
+90002657,"Distribution",2012-12-12,1,"Jakarta",2012
+90002662,"Job Change",2014-01-01,1,"Jakarta",2014
+90002664,"Distribution",2016-12-01,1,"Jakarta",2016
+90002665,"Quality Service",2017-02-01,1,"Jakarta",2017
+90002669,"Manufacturing",2017-07-01,1,"Jakarta",2017
+90002670,"Mould Shop",2016-11-01,1,"Jakarta",2016
+90002674,"PT Kangar Consolidated Industries",2019-06-01,1,"Jakarta",2019
+90002680,"Logistics",2004-07-07,1,"Jakarta",2004
+90002681,"Warehouse",2017-12-01,1,"Jakarta",2017
+90002682,"Logistics",2005-01-01,1,"Jakarta",2005
+90002685,"""A"" Shift Cold End",2013-09-01,1,"Jakarta",2013
+90002689,"Line 22 Shift C",2014-05-01,1,"Jakarta",2014
+90002691,"Shift Operation ""A""",2015-12-01,1,"Jakarta",2015
+90002696,"Line 11 Shift D",2014-01-01,1,"Jakarta",2014
+90002711,"Manufacturing",2014-06-01,1,"Jakarta",2014
+90002717,"Quality Service",2016-07-01,1,"Jakarta",2016
+90002718,"Quality Service",2019-07-01,1,"Jakarta",2019
+90002737,"""B"" Shift Cold End",2007-09-01,1,"Jakarta",2007
+90002745,"""C"" Shift Cold End",2012-04-01,1,"Jakarta",2012
+90002747,"Shift Operation ""D""",2018-03-01,1,"Jakarta",2018
+90002748,"""B"" Shift Cold End",2008-01-01,1,"Jakarta",2008
+90002750,"Line 11 Shift C",2016-07-16,1,"Jakarta",2016
+90002753,"Line 22 Shift C",2015-03-01,1,"Jakarta",2015
+90002764,"Line 21 Shift C",2016-12-01,1,"Jakarta",2016
+90002766,"Quality Service",2015-07-21,1,"Jakarta",2015
+90002767,"""C"" Shift Cold End",2008-08-13,1,"Jakarta",2008
+90002768,"Line 22 Shift B",2018-11-01,1,"Jakarta",2018
+90002769,"Line 22 Shift C",2015-12-01,1,"Jakarta",2015
+90002774,"""C"" Shift Cold End",2013-09-01,1,"Jakarta",2013
+90002775,"D'Shift - Inspection & Packing",2004-08-04,1,"Jakarta",2004
+90002776,"A'Shift - Inspection & Packing",2006-06-07,1,"Jakarta",2006
+90002781,"Shift Operation ""B""",2017-12-01,1,"Jakarta",2017
+90002784,"""D"" Shift Cold End",2010-02-01,1,"Jakarta",2010
+90002785,"Shift Operation ""D""",2016-12-01,1,"Jakarta",2016
+90002787,"C'Shift - Inspection & Packing",2004-08-01,1,"Jakarta",2004
+90002789,"""B"" Shift Cold End",2012-08-01,1,"Jakarta",2012
+90002790,"Line 22 Shift B",2017-09-01,1,"Jakarta",2017
+90002791,"Shift Operation ""B""",2015-02-01,1,"Jakarta",2015
+90002794,"Line 11 Shift A",2016-08-01,1,"Jakarta",2016
+90002800,"""C"" Shift Cold End",2013-09-01,1,"Jakarta",2013
+90002815,"Mould Shop",2019-06-01,1,"Jakarta",2019
+90002821,"""A"" Shift Hot End",2010-10-27,1,"Jakarta",2010
+90002823,"Job Change",2012-12-18,1,"Jakarta",2012
+90002826,"Production",2010-10-27,1,"Jakarta",2010
+90002835,"Line 24 Shift B",2017-01-01,1,"Jakarta",2017
+90002836,"Line 24 Shift A",2015-05-01,1,"Jakarta",2015
+90002842,"Line 11 Shift B",2019-04-01,1,"Jakarta",2019
+90002847,"Mould Shop",2017-04-01,1,"Jakarta",2017
+90002850,"Line 21 Shift B",2019-06-21,1,"Jakarta",2019
+90002851,"A' Shift - Forming",2005-07-01,1,"Jakarta",2005
+90002870,"Line 24 Shift A",2018-11-27,1,"Jakarta",2018
+90002871,"B' Shift - Forming",2002-06-01,1,"Jakarta",2002
+90002872,"Unit Plant 2",2019-06-01,1,"Jakarta",2019
+90002873,"Line 14 Shift C",2015-09-09,1,"Jakarta",2015
+90002874,"Manufacturing Process Capability Program",2018-10-15,1,"Jakarta",2018
+90002876,"Manufacturing",2012-03-19,1,"Jakarta",2012
+90002879,"Plant Engineering",2008-04-01,1,"Jakarta",2008
+90002881,"Mechanical Engineering",2009-05-01,1,"Jakarta",2009
+90002882,"""C"" Shift Cold End",2011-02-17,1,"Jakarta",2011
+90002883,"Plant Electrical",2004-04-01,1,"Jakarta",2004
+90002887,"Plant Electrical",2002-02-01,1,"Jakarta",2002
+90002888,"Logistics",2003-05-01,1,"Jakarta",2003
+90002889,"Job Change",2019-06-22,1,"Jakarta",2019
+90002893,"Manufacturing Process Capability Program",2015-01-16,1,"Jakarta",2015
+90002895,"Engineering",2005-12-01,1,"Jakarta",2005
+90002896,"Marketing & Sales",2002-11-01,1,"Jakarta",2002
+90002898,"Marketing & Sales",2002-04-01,1,"Jakarta",2002
+90002902,"Purchasing",2016-08-13,1,"Jakarta",2016
+90002903,"Purchasing",2003-03-01,1,"Jakarta",2003
+90002904,"Logistics",2003-04-01,1,"Jakarta",2003
+90002905,"""A"" Shift Hot End",2013-01-11,1,"Jakarta",2013
+90002906,"Logistics",2007-04-01,1,"Jakarta",2007
+90002907,"Logistics",2003-04-01,1,"Jakarta",2003
+90002908,"Marketing & Sales",2003-03-01,1,"Jakarta",2003
+90002911,"""B"" Shift Hot End",2010-05-13,1,"Jakarta",2010
+90002912,"""A"" Shift Hot End",2006-12-22,1,"Jakarta",2006
+90002913,"Marketing & Sales",2003-05-01,1,"Jakarta",2003
+90002915,"Marketing & Sales",2006-04-01,1,"Jakarta",2006
+90002917,"B' Shift - Forming",2003-04-12,1,"Jakarta",2003
+90002918,"B' Shift - Forming",2003-05-01,1,"Jakarta",2003
+90002919,"Unit Plant 2",2019-06-22,1,"Jakarta",2019
+90002920,"B' Shift - Forming",2003-09-01,1,"Jakarta",2003
+90002921,"Job Change",2013-08-26,1,"Jakarta",2013
+90002922,"Marketing & Sales",2005-03-01,1,"Jakarta",2005
+90002923,"Human Resources",2004-03-01,1,"Jakarta",2004
+90002924,"Forming",2013-12-01,1,"Jakarta",2013
+90002925,"D' Shift - Forming",2004-05-14,1,"Jakarta",2004
+90002926,"Batch & Furnace",2008-10-08,1,"Jakarta",2008
+90002928,"Human Resources",2004-06-19,1,"Jakarta",2004
+90002929,"Mechanical Engineering",2007-09-01,1,"Jakarta",2007
+90002931,"Electrical",2006-06-01,1,"Jakarta",2006
+90002932,"D' Shift - Forming",2006-04-14,1,"Jakarta",2006
+90002933,"Human Resources",2005-02-01,1,"Jakarta",2005
+90002936,"""A"" Shift Cold End",2007-04-01,1,"Jakarta",2007
+90002938,"Cold End Support",2005-05-01,1,"Jakarta",2005
+90002939,"B' Shift - Forming",2005-04-01,1,"Jakarta",2005
+90002940,"Mechanical Engineering",2011-10-15,1,"Jakarta",2011
+90002942,"Line 24 Shift C",2016-12-01,1,"Jakarta",2016
+90002943,"Finance",2006-11-08,1,"Jakarta",2006
+90002944,"Marketing & Sales",2006-07-01,1,"Jakarta",2006
+90002946,"Shift Operation ""D""",2016-12-01,1,"Jakarta",2016
+90002948,"Marketing & Sales",2005-11-01,1,"Jakarta",2005
+90002949,"Marketing & Sales",2006-03-01,1,"Jakarta",2006
+90002951,"Human Resources",2007-10-22,1,"Jakarta",2007
+90002954,"Mechanical Engineering",2007-01-01,1,"Jakarta",2007
+90002957,"B' Shift - Forming",2005-11-01,1,"Jakarta",2005
+90002958,"Mechanical Engineering",2018-09-01,1,"Jakarta",2018
+90002959,"Electronic",2006-05-08,1,"Jakarta",2006
+90002963,"Marketing & Sales",2006-09-15,1,"Jakarta",2006
+90002964,"Human Resources",2010-09-24,1,"Jakarta",2010
+90002965,"Machine Maintenance",2012-01-18,1,"Jakarta",2012
+90002969,"Marketing & Sales",2012-07-01,1,"Jakarta",2012
+90002970,"Batch & Furnace",2007-01-16,1,"Jakarta",2007
+90002971,"Batch & Furnace",2009-10-01,1,"Jakarta",2009
+90002973,"""A"" Shift Hot End",2006-08-01,1,"Jakarta",2006
+90002974,"Marketing & Sales",2007-11-16,1,"Jakarta",2007
+90002975,"Job Change",2019-06-28,1,"Jakarta",2019
+90002976,"""D"" Shift Hot End",2012-11-01,1,"Jakarta",2012
+90002979,"Marketing & Sales",2015-02-01,1,"Jakarta",2015
+90002980,"Electronic",2007-09-13,1,"Jakarta",2007
+90002981,"Electrical",2014-04-05,1,"Jakarta",2014
+90002982,"Mechanical Engineering",2007-09-13,1,"Jakarta",2007
+90002983,"Mechanical Engineering",2007-02-01,1,"Jakarta",2007
+90002984,"Marketing & Sales",2014-01-01,1,"Jakarta",2014
+90002986,"Machine Maintenance",2007-04-01,1,"Jakarta",2007
+90002988,"""C"" Shift Hot End",2007-01-24,1,"Jakarta",2007
+90002989,"""A"" Shift Hot End",2007-12-01,1,"Jakarta",2007
+90002992,"Forming Development",2010-04-08,1,"Jakarta",2010
+90002993,"Batch & Furnace",2007-07-01,1,"Jakarta",2007
+90002994,"Batch & Furnace",2007-09-01,1,"Jakarta",2007
+90002995,"Batch & Furnace",2008-05-01,1,"Jakarta",2008
+90002996,"Electrical",2011-05-08,1,"Jakarta",2011
+90002997,"Batch & Furnace",2007-08-04,1,"Jakarta",2007
+90002998,"Batch & Furnace",2017-03-28,1,"Jakarta",2017
+90003000,"Line 21 Shift A",2015-07-11,1,"Jakarta",2015
+90003002,"Human Resources",2007-11-01,1,"Jakarta",2007
+90003003,"Electrical",2007-11-01,1,"Jakarta",2007
+90003006,"Electrical",2009-07-01,1,"Jakarta",2009
+90003007,"Machine Maintenance",2008-03-01,1,"Jakarta",2008
+90003008,"Human Resources",2008-09-01,1,"Jakarta",2008
+90003009,"Human Resources",2008-01-20,1,"Jakarta",2008
+90003010,"Finance",2018-02-01,1,"Jakarta",2018
+90003012,"""D"" Shift Hot End",2008-06-10,1,"Jakarta",2008
+90003019,"Batch & Furnace",2017-07-04,1,"Jakarta",2017
+90003021,"Mechanical Engineering",2011-10-01,1,"Jakarta",2011
+90003022,"Machine Maintenance",2019-06-24,1,"Jakarta",2019
+90003023,"Batch & Furnace",2008-09-01,1,"Jakarta",2008
+90003024,"Distribution",2016-08-05,1,"Jakarta",2016
+90003025,"""C"" Shift Hot End",2008-10-01,1,"Jakarta",2008
+90003026,"""D"" Shift Hot End",2008-10-01,1,"Jakarta",2008
+90003027,"Batch & Furnace",2008-10-01,1,"Jakarta",2008
+90003028,"Production Planning Inventory Control",2016-06-28,1,"Jakarta",2016
+90003029,"Planning",2019-07-01,1,"Jakarta",2019
+90003030,"Purchasing",2013-07-01,1,"Jakarta",2013
+90003031,"Production Planning Inventory Control",2010-05-01,1,"Jakarta",2010
+90003032,"""C"" Shift Hot End",2009-03-01,1,"Jakarta",2009
+90003033,"""C"" Shift Hot End",2011-04-20,1,"Jakarta",2011
+90003034,"Finance",2011-02-01,1,"Jakarta",2011
+90003035,"Machine Maintenance",2010-05-13,1,"Jakarta",2010
+90003036,"Mould Shop",2010-02-01,1,"Jakarta",2010
+90003037,"Human Resources",2018-12-01,1,"Jakarta",2018
+90003038,"Unit Plant 2",2015-07-18,1,"Jakarta",2015
+90003039,"Electrical",2010-12-15,1,"Jakarta",2010
+90003040,"Mechanical Engineering",2009-12-01,1,"Jakarta",2009
+90003041,"Mechanical Engineering",2010-07-08,1,"Jakarta",2010
+90003042,"Electrical",2011-08-01,1,"Jakarta",2011
+90003043,"Batch & Furnace",2009-10-08,1,"Jakarta",2009
+90003044,"Electrical",2009-12-01,1,"Jakarta",2009
+90003045,"Procurement",2017-04-01,1,"Jakarta",2017
+90003046,"Mould Shop",2010-02-01,1,"Jakarta",2010
+90003047,"Batch & Furnace",2011-04-01,1,"Jakarta",2011
+90003048,"Mechanical Engineering",2010-02-01,1,"Jakarta",2010
+90003049,"Inspection Packaging",2010-02-01,1,"Jakarta",2010
+90003050,"Machine Maintenance",2010-02-01,1,"Jakarta",2010
+90003051,"Electrical",2010-02-01,1,"Jakarta",2010
+90003052,"Machine Maintenance",2011-04-01,1,"Jakarta",2011
+90003053,"""A"" Shift Hot End",2011-01-01,1,"Jakarta",2011
+90003057,"Marketing & Sales",2011-01-01,1,"Jakarta",2011
+90003058,"Plant Engineering",2010-08-01,1,"Jakarta",2010
+90003059,"Inspection Packaging",2011-04-16,1,"Jakarta",2011
+90003060,"Electrical",2010-06-03,1,"Jakarta",2010
+90003061,"Batch & Furnace",2011-01-30,1,"Jakarta",2011
+90003062,"Electrical",2011-02-26,1,"Jakarta",2011
+90003063,"""C"" Shift Hot End",2010-05-01,1,"Jakarta",2010
+90003068,"Human Resources",2010-11-01,1,"Jakarta",2010
+90003070,"Batch & Furnace",2011-06-01,1,"Jakarta",2011
+90003071,"Job Change",2019-06-28,1,"Jakarta",2019
+90003072,"""B"" Shift Hot End",2011-02-01,1,"Jakarta",2011
+90003073,"""C"" Shift Hot End",2010-11-01,1,"Jakarta",2010
+90003074,"""D"" Shift Hot End",2010-11-22,1,"Jakarta",2010
+90003075,"""C"" Shift Hot End",2011-06-01,1,"Jakarta",2011
+90003077,"Plant Reliability",2019-01-04,1,"Jakarta",2019
+90003079,"Batch & Furnace",2010-12-21,1,"Jakarta",2010
+90003080,"""C"" Shift Hot End",2011-10-01,1,"Jakarta",2011
+90003081,"Machine Maintenance",2010-11-22,1,"Jakarta",2010
+90003082,"Mould Shop",2011-05-30,1,"Jakarta",2011
+90003083,"Mechanical Engineering",2011-11-15,1,"Jakarta",2011
+90003084,"Mechanical Engineering",2012-05-31,1,"Jakarta",2012
+90003085,"Marketing & Sales",2011-01-01,1,"Jakarta",2011
+90003086,"Human Resources",2017-06-01,1,"Jakarta",2017
+90003087,"Batch & Furnace",2011-05-01,1,"Jakarta",2011
+90003088,"Electrical",2014-08-15,1,"Jakarta",2014
+90003089,"Electrical",2011-05-01,1,"Jakarta",2011
+90003090,"Batch & Furnace",2011-10-15,1,"Jakarta",2011
+90003092,"Machine Maintenance",2014-07-01,1,"Jakarta",2014
+90003095,"Plant Engineering",2012-01-01,1,"Jakarta",2012
+90003096,"Marketing & Sales",2012-11-01,1,"Jakarta",2012
+90003097,"Batch & Furnace",2012-12-20,1,"Jakarta",2012
+90003098,"Manufacturing",2017-03-01,1,"Jakarta",2017
+90003103,"Mould Shop",2018-11-01,1,"Jakarta",2018
+90003104,"Inspection Packaging",2017-09-01,1,"Jakarta",2017
+90003105,"""A"" Shift Hot End",2011-08-01,1,"Jakarta",2011
+90003106,"""B"" Shift Hot End",2012-03-23,1,"Jakarta",2012
+90003108,"Unit Plant 1",2019-06-22,1,"Jakarta",2019
+90003110,"Forming Engineering",2019-06-24,1,"Jakarta",2019
+90003111,"Machine Maintenance",2019-06-27,1,"Jakarta",2019
+90003114,"Line 11 Shift C",2018-05-01,1,"Jakarta",2018
+90003115,"Line 21 Shift A",2014-10-17,1,"Jakarta",2014
+90003116,"Inspection Packaging",2015-04-16,1,"Jakarta",2015
+90003117,"Batch & Furnace",2012-03-01,1,"Jakarta",2012
+90003120,"""C"" Shift Hot End",2012-03-01,1,"Jakarta",2012
+90003122,"Line 24 Shift C",2014-06-01,1,"Jakarta",2014
+90003124,"Electrical",2014-11-20,1,"Jakarta",2014
+90003125,"Mechanical Engineering",2019-05-16,1,"Jakarta",2019
+90003126,"Line 24 Shift A",2018-11-01,1,"Jakarta",2018
+90003127,"""B"" Shift Hot End",2012-07-01,1,"Jakarta",2012
+90003130,"Mechanical Engineering",2015-03-20,1,"Jakarta",2015
+90003133,"Mechanical Engineering",2014-07-01,1,"Jakarta",2014
+90003137,"Electrical",2014-11-01,1,"Jakarta",2014
+90003139,"Job Change",2013-09-01,1,"Jakarta",2013
+90003142,"""B"" Shift Hot End",2012-12-01,1,"Jakarta",2012
+90003143,"Mould Shop",2013-02-01,1,"Jakarta",2013
+90003144,"Job Change",2014-02-09,1,"Jakarta",2014
+90003145,"Inspection Packaging",2012-12-01,1,"Jakarta",2012
+90003147,"Marketing & Sales",2014-12-01,1,"Jakarta",2014
+90003149,"Quality Service",2015-05-01,1,"Jakarta",2015
+90003150,"Logistic & PPIC",2017-08-28,1,"Jakarta",2017
+90003152,"Job Change",2013-11-11,1,"Jakarta",2013
+90003153,"Production Planning Inventory Control",2014-09-15,1,"Jakarta",2014
+90003154,"Job Change",2013-09-01,1,"Jakarta",2013
+90003155,"Inspection Packaging",2013-08-20,1,"Jakarta",2013
+90003156,"Manufacturing Process Capability Program",2017-07-16,1,"Jakarta",2017
+90003157,"Manufacturing Process Capability Program",2014-12-01,1,"Jakarta",2014
+90003159,"Line 12 Shift B",2013-11-01,1,"Jakarta",2013
+90003161,"Line 14 Shift D",2013-12-01,1,"Jakarta",2013
+90003162,"Mould Shop",2014-08-23,1,"Jakarta",2014
+90003163,"Finance",2015-08-01,1,"Jakarta",2015
+90003166,"Plant Reliability",2014-04-01,1,"Jakarta",2014
+90003167,"Mechanical Engineering",2014-07-01,1,"Jakarta",2014
+90003170,"Job Change",2016-01-01,1,"Jakarta",2016
+90003171,"Line 11 Shift D",2016-01-20,1,"Jakarta",2016
+90003172,"Line 11 Shift B",2014-03-01,1,"Jakarta",2014
+90003173,"Line 12 Shift B",2014-03-01,1,"Jakarta",2014
+90003174,"Machine Maintenance",2014-03-01,1,"Jakarta",2014
+90003175,"PT Kangar Consolidated Industries",2018-03-16,1,"Jakarta",2018
+90003180,"Marketing & Sales",2014-12-01,1,"Jakarta",2014
+90003181,"Plant Reliability",2015-01-01,1,"Jakarta",2015
+90003182,"Manufacturing",2015-06-01,1,"Jakarta",2015
+90003183,"Manufacturing",2014-08-01,1,"Jakarta",2014
+90003185,"Line 24 Shift C",2016-09-15,1,"Jakarta",2016
+90003187,"Mould Shop",2014-11-01,1,"Jakarta",2014
+90003188,"Machine Maintenance",2019-06-27,1,"Jakarta",2019
+90003189,"Inspection Packaging",2015-04-01,1,"Jakarta",2015
+90003192,"Line 21 Shift C",2018-06-01,1,"Jakarta",2018
+90003197,"Line 24 Shift B",2014-12-01,1,"Jakarta",2014
+90003198,"Line 22 Shift D",2014-12-01,1,"Jakarta",2014
+90003199,"Quality Service",2015-09-01,1,"Jakarta",2015
+90003200,"Quality Service",2015-03-01,1,"Jakarta",2015
+90003203,"Batch & Furnace",2015-04-01,1,"Jakarta",2015
+90003204,"Electrical",2016-06-13,1,"Jakarta",2016
+90003207,"Inspection Packaging",2015-06-01,1,"Jakarta",2015
+90003208,"Manufacturing",2015-06-01,1,"Jakarta",2015
+90003209,"Manufacturing",2015-04-01,1,"Jakarta",2015
+90003211,"Line 22 Shift D",2015-04-01,1,"Jakarta",2015
+90003212,"Line 24 Shift D",2015-01-24,1,"Jakarta",2015
+90003214,"Quality Service",2015-03-01,1,"Jakarta",2015
+90003216,"Electrical",2015-04-01,1,"Jakarta",2015
+90003217,"Marketing & Sales",2016-09-17,1,"Jakarta",2016
+90003218,"Manufacturing",2015-07-06,1,"Jakarta",2015
+90003219,"PT Kangar Consolidated Industries",2017-12-01,1,"Jakarta",2017
+90003220,"Mechanical Engineering",2016-10-06,1,"Jakarta",2016
+90003222,"Line 24 Shift D",2015-04-01,1,"Jakarta",2015
+90003224,"Line 14 Shift A",2015-07-01,1,"Jakarta",2015
+90003225,"Line 14 Shift B",2015-05-13,1,"Jakarta",2015
+90003226,"Line 24 Shift B",2015-07-01,1,"Jakarta",2015
+90003227,"Line 24 Shift D",2015-07-01,1,"Jakarta",2015
+90003230,"Machine Line 24",2016-07-18,1,"Jakarta",2016
+90003231,"Manufacturing",2016-05-01,1,"Jakarta",2016
+90003232,"Marketing & Sales",2018-09-29,1,"Jakarta",2018
+90003233,"Line 14 Shift C",2015-07-24,1,"Jakarta",2015
+90003234,"Line 22 Shift D",2015-06-01,1,"Jakarta",2015
+90003237,"Marketing & Sales",2017-01-14,1,"Jakarta",2017
+90003239,"Manufacturing",2015-10-01,1,"Jakarta",2015
+90003240,"Plant Reliability",2015-10-01,1,"Jakarta",2015
+90003241,"Line 14 Shift B",2015-10-01,1,"Jakarta",2015
+90003242,"Finance",2017-07-01,1,"Jakarta",2017
+90003245,"Line 12 Shift C",2017-02-14,1,"Jakarta",2017
+90003248,"Manufacturing",2016-02-01,1,"Jakarta",2016
+90003250,"Inspection Packaging",2017-11-13,1,"Jakarta",2017
+90003251,"Line 11 Shift A",2018-06-01,1,"Jakarta",2018
+90003256,"Finance",2018-12-08,1,"Jakarta",2018
+90003258,"Job Change",2016-05-01,1,"Jakarta",2016
+90003259,"Job Change",2016-09-01,1,"Jakarta",2016
+90003260,"Electrical",2016-04-01,1,"Jakarta",2016
+90003262,"Plant Reliability",2018-12-22,1,"Jakarta",2018
+90003265,"Electrical",2017-01-01,1,"Jakarta",2017
+90003268,"Quality Service",2016-06-01,1,"Jakarta",2016
+90003269,"Marketing & Sales",2017-12-01,1,"Jakarta",2017
+90003272,"Electrical",2016-08-25,1,"Jakarta",2016
+90003277,"Inspection Packaging",2017-01-13,1,"Jakarta",2017
+90003279,"Inspection Packaging",2017-01-01,1,"Jakarta",2017
+90003280,"Inspection Packaging",2019-06-23,1,"Jakarta",2019
+90003281,"Inspection Packaging",2017-01-01,1,"Jakarta",2017
+90003282,"Inspection Packaging",2017-02-01,1,"Jakarta",2017
+90003286,"Quality Service",2017-11-01,1,"Jakarta",2017
+90003287,"Line 11 Shift D",2017-02-01,1,"Jakarta",2017
+90003288,"Line 14 Shift B",2016-12-01,1,"Jakarta",2016
+90003289,"Line 11 Shift D",2019-04-21,1,"Jakarta",2019
+90003291,"Mould Shop",2017-09-01,1,"Jakarta",2017
+90003292,"Inspection Packaging",2019-06-23,1,"Jakarta",2019
+90003294,"Job Change",2019-06-27,1,"Jakarta",2019
+90003296,"Batch & Furnace",2017-02-01,1,"Jakarta",2017
+90003298,"Electrical",2016-11-22,1,"Jakarta",2016
+90003299,"Quality Service",2018-11-01,1,"Jakarta",2018
+90003304,"Finance",2017-11-26,1,"Jakarta",2017
+90003305,"Inspection Packaging",2017-02-01,1,"Jakarta",2017
+90003306,"Inspection Packaging",2017-02-01,1,"Jakarta",2017
+90003314,"Line 22 Shift B",2018-02-01,1,"Jakarta",2018
+90003315,"Line 22 Shift D",2018-10-30,1,"Jakarta",2018
+90003316,"Line 22 Shift B",2017-06-06,1,"Jakarta",2017
+90003319,"Line 22 Shift C",2017-06-17,1,"Jakarta",2017
+90003323,"Procurement",2017-10-05,1,"Jakarta",2017
+90003325,"Plant Reliability",2018-12-27,1,"Jakarta",2018
+90003327,"Mould Shop",2019-07-01,1,"Jakarta",2019
+90003329,"Manufacturing",2017-12-01,1,"Jakarta",2017
+90003332,"Finance",2019-01-01,1,"Jakarta",2019
+90003333,"Electrical",2017-07-07,1,"Jakarta",2017
+90003334,"Electrical",2017-10-01,1,"Jakarta",2017
+90003335,"Forming Engineering",2017-10-01,1,"Jakarta",2017
+90003336,"Line 22 Shift C",2018-08-18,1,"Jakarta",2018
+90003337,"Human Resources",2019-06-22,1,"Jakarta",2019
+90003339,"Warehouse & Logistics",2018-03-13,1,"Jakarta",2018
+90003344,"Procurement",2018-02-01,1,"Jakarta",2018
+90003348,"Line 22 Shift D",2018-07-14,1,"Jakarta",2018
+90003351,"Line 24 Shift D",2018-05-01,1,"Jakarta",2018
+90003354,"Finance",2019-01-16,1,"Jakarta",2019
+90003357,"Inspection Packaging",2018-03-01,1,"Jakarta",2018
+90003359,"Electrical",2018-03-22,1,"Jakarta",2018
+90003361,"Finance",2018-03-01,1,"Jakarta",2018
+90003365,"Procurement",2018-10-05,1,"Jakarta",2018
+90003367,"Batch & Furnace",2018-04-11,1,"Jakarta",2018
+90003370,"Finance",2019-02-16,1,"Jakarta",2019
+90003371,"PT Kangar Consolidated Industries",2018-09-07,1,"Jakarta",2018
+90003373,"Manufacturing",2018-10-01,1,"Jakarta",2018
+90003374,"Batch & Furnace",2018-12-01,1,"Jakarta",2018
+90003376,"Mechanical Engineering",2019-07-01,1,"Jakarta",2019
+90003378,"Procurement",2019-01-16,1,"Jakarta",2019
+90003380,"Planning",2019-01-01,1,"Jakarta",2019
+90003385,"Manufacturing",2019-01-01,1,"Jakarta",2019
+90003386,"Manufacturing",2019-01-01,1,"Jakarta",2019
+90003387,"Line 22 Shift C",2018-08-15,1,"Jakarta",2018
+90003390,"Line 11 Shift A",2019-02-06,1,"Jakarta",2019
+90003396,"Mechanical Engineering",2019-02-01,1,"Jakarta",2019
+90003400,"Line 12 Shift C",2019-03-01,1,"Jakarta",2019
+90003409,"Finance",2019-03-08,1,"Jakarta",2019
+10000004,"Finished Products C Shift",2011-05-23,1,"Other",2011
+10000005,"Finished Products A Shift",2011-11-01,1,"Other",2011
+10000006,"Forming Services",2002-09-21,1,"Sydney",2002
+10000007,"Finished Products B Shift",2004-06-24,1,"Other",2004
+10000008,"Purchasing",2008-03-29,1,"Other",2008
+10000010,"Finished Products B Shift",2002-03-06,1,"Other",2002
+10000012,"Forming C Shift",2016-08-24,1,"Other",2016
+10000014,"Machine Maintenance",2002-06-29,1,"Sydney",2002
+10000015,"Forming Services",2009-05-01,1,"Sydney",2009
+10000016,"Forming",2018-04-07,1,"Brisbane",2018
+10000017,"Forming A Shift",2000-05-27,1,"Other",2000
+10000019,"Human Resources",2000-12-23,1,"Other",2000
+10000020,"Forming Services",2009-11-17,1,"Other",2009
+10000021,"Finished Products A Shift",2002-10-15,1,"Other",2002
+10000024,"Forming A Shift",2000-02-12,1,"Other",2000
+10000025,"Finished Products B Shift",2007-12-05,1,"Other",2007
+10000026,"Finished Products",2001-09-01,1,"Sydney",2001
+10000028,"Finished Products",2004-06-11,1,"Sydney",2004
+10000029,"Process Control",2016-02-03,1,"Other",2016
+10000030,"Plant Maintenance",2004-03-05,1,"Sydney",2004
+10000034,"Purchasing",2009-03-10,1,"Sydney",2009
+10000036,"Forming B Shift",2013-03-15,1,"Other",2013
+10000038,"Forming Services",2008-12-06,1,"Sydney",2008
+10000040,"Forming Services",2012-08-11,1,"Sydney",2012
+10000046,"Finished Products C Shift",2001-03-08,1,"Other",2001
+10000047,"Forming",2006-07-11,1,"Brisbane",2006
+10000049,"Finished Products B Shift",2011-12-31,1,"Other",2011
+10000050,"Forming D Shift",2000-06-18,1,"Other",2000
+10000051,"Resort - Day",2009-01-01,1,"Sydney",2009
+10000052,"Electrical",2002-10-22,1,"Sydney",2002
+10000053,"Forming C Shift",2011-07-23,1,"Other",2011
+10000054,"Finished Products B Shift",2019-03-28,1,"Other",2019
+10000056,"Forming B Shift",2002-11-19,1,"Other",2002
+10000057,"Electrical",2006-07-01,1,"Sydney",2006
+10000060,"Plant Maintenance",2014-05-31,1,"Sydney",2014
+10000063,"Finished Products D Shift",2006-07-11,1,"Other",2006
+10000064,"Process Control",2013-07-21,1,"Other",2013
+10000065,"Machine Maintenance",2014-03-29,1,"Sydney",2014
+10000066,"Forming Services",2013-08-03,1,"Sydney",2013
+10000067,"Raw Material",2008-08-02,1,"Other",2008
+10000069,"Process Control",2000-06-26,1,"Other",2000
+10000070,"Purchasing",2000-06-03,1,"Other",2000
+10000072,"Forming C Shift",2005-07-27,1,"Other",2005
+10000073,"Marketing",2000-11-14,1,"Other",2000
+10000080,"Quality Control",2017-07-01,1,"Brisbane",2017
+10000081,"Forming D Shift",2014-06-28,1,"Other",2014
+10000082,"Machine Maintenance",2016-02-20,1,"Sydney",2016
+10000083,"Forming B Shift",2004-06-24,1,"Other",2004
+10000084,"Quality Control",2006-11-04,1,"Sydney",2006
+10000085,"Resort - Day",2015-04-18,1,"Sydney",2015
+10000089,"Forming D Shift",2006-07-12,1,"Other",2006
+10000090,"Machine Maintenance",2004-07-03,1,"Other",2004
+10000093,"Forming A Shift",2015-07-31,1,"Other",2015
+10000094,"Forming C Shift",2016-02-22,1,"Other",2016
+10000096,"Plant Maintenance",2013-01-01,1,"Sydney",2013
+10000098,"Finished Products A Shift",2004-06-22,1,"Other",2004
+10000099,"Electrical Inspection",2018-11-01,1,"Brisbane",2018
+10000100,"Finished Products B Shift",2013-06-11,1,"Other",2013
+10000101,"Finished Products D Shift",2002-02-06,1,"Other",2002
+10000102,"Finished Products C Shift",2010-02-28,1,"Other",2010
+10000103,"Machine Maintenance",2000-01-15,1,"Sydney",2000
+10000105,"Forming B Shift",2017-09-03,1,"Brisbane",2017
+10000106,"Machine Maintenance",2001-08-25,1,"Brisbane",2001
+10000109,"Finished Products B Shift",2004-05-29,1,"Other",2004
+10000110,"Finished Products B Shift",2016-04-25,1,"Other",2016
+10000111,"Resort - Day",2016-06-30,1,"Sydney",2016
+10000113,"Temporary Resort",2001-03-13,1,"Other",2001
+10000115,"Finished Products D Shift",2016-10-07,1,"Other",2016
+10000117,"Machine Maintenance",2008-04-19,1,"Brisbane",2008
+10000118,"Finished Products D Shift",2010-02-23,1,"Other",2010
+10000121,"Forming B Shift",2017-07-11,1,"Other",2017
+10000122,"Forming A Shift",2012-02-08,1,"Other",2012
+10000124,"Raw Material",2004-05-01,1,"Other",2004
+10000125,"Electrical",2016-04-30,1,"Sydney",2016
+10000126,"Plant Maintenance",2001-04-30,1,"Sydney",2001
+10000127,"Finished Products D Shift",2014-05-17,1,"Other",2014
+10000130,"Forming C Shift",2011-07-23,1,"Other",2011
+10000131,"Finished Products C Shift",2013-05-28,1,"Other",2013
+10000134,"Machine Maintenance",2018-02-10,1,"Sydney",2018
+10000135,"Electrical",2000-01-15,1,"Sydney",2000
+10000136,"Consumer Products",2000-02-01,1,"Brisbane",2000
+10000137,"Logistics",2005-06-01,1,"Brisbane",2005
+10000139,"Administration",2011-04-01,1,"Brisbane",2011
+10000140,"Supply Chain",2011-12-01,1,"Brisbane",2011
+10000142,"Sales",2018-05-01,1,"Brisbane",2018
+10000143,"Finance",2004-05-29,1,"Brisbane",2004
+10000144,"Electrical",2017-09-01,1,"Brisbane",2017
+10000146,"Consumer Products",2000-02-01,1,"Brisbane",2000
+10000147,"Information Technology",2000-03-11,1,"Brisbane",2000
+10000148,"Batch & Furnace",2001-01-01,1,"Brisbane",2001
+10000149,"Customer Technical Services",2000-09-04,1,"Brisbane",2000
+10000150,"Finished Products A Shift",2002-04-10,1,"Brisbane",2002
+10000151,"Purchasing",2010-08-28,1,"Brisbane",2010
+10000152,"Forming",2019-04-16,1,"Brisbane",2019
+10000153,"Manufacturing",2001-12-03,1,"Other",2001
+10000155,"Business Sustainability & Environmental",2011-11-02,1,"Brisbane",2011
+10000157,"Forming",2013-09-14,1,"Brisbane",2013
+10000158,"Engineering",2001-01-24,1,"Brisbane",2001
+10000159,"Manufacturing",2002-11-01,1,"Brisbane",2002
+10000160,"Supply Chain",2017-10-28,1,"Brisbane",2017
+10000161,"Finance",2000-04-01,1,"Brisbane",2000
+10000162,"Administration",2017-04-04,1,"Brisbane",2017
+10000163,"Finance",2003-10-01,1,"Brisbane",2003
+10000164,"Engineering",2004-01-01,1,"Brisbane",2004
+10000165,"Logistics",2002-02-02,1,"Brisbane",2002
+10000167,"Consumer Products",2000-02-01,1,"Brisbane",2000
+10000168,"Human Resources",2016-11-01,1,"Brisbane",2016
+10000170,"Job Change",2001-04-07,1,"Brisbane",2001
+10000171,"Engineering",2000-07-15,1,"Brisbane",2000
+10000173,"Finished Products D Shift",2000-12-01,1,"Brisbane",2000
+10000174,"Forming",2016-04-01,1,"Brisbane",2016
+10000175,"Marketing",2000-11-01,1,"Brisbane",2000
+10000176,"Logistics",2000-07-01,1,"Brisbane",2000
+10000177,"Finished Products B Shift",2002-12-22,1,"Brisbane",2002
+10000178,"Sales & Marketing",2017-03-30,1,"Brisbane",2017
+10000179,"Plant Maintenance",2015-06-27,1,"Brisbane",2015
+10000180,"Forming",2001-01-02,1,"Brisbane",2001
+10000181,"Finished Products",2008-01-01,1,"Brisbane",2008
+10000183,"Purchasing",2000-04-27,1,"Brisbane",2000
+10000184,"Finished Products",2000-07-01,1,"Brisbane",2000
+10000186,"Finance",2002-02-02,1,"Brisbane",2002
+10000187,"Administration",2018-06-13,1,"Brisbane",2018
+10000188,"Forming Services Design Office",2000-03-25,1,"Brisbane",2000
+10000190,"Finance",2001-03-01,1,"Brisbane",2001
+10000193,"Marketing",2001-08-01,1,"Brisbane",2001
+10000194,"Consumer Products",2000-02-01,1,"Brisbane",2000
+10000195,"",2003-02-05,1,"Brisbane",2003
+10000196,"Manufacturing",2007-05-12,1,"Other",2007
+10000198,"",2000-07-01,1,"Brisbane",2000
+10000199,"",2002-12-16,1,"Brisbane",2002
+10000200,"Sales",2012-12-19,1,"Brisbane",2012
+10000201,"",2003-02-02,1,"Brisbane",2003
+10000202,"Administration",2001-05-02,1,"Brisbane",2001
+10000203,"Human Resources",2014-08-30,1,"Brisbane",2014
+10000204,"",2000-07-01,1,"Brisbane",2000
+10000205,"Machine Maintenance",2004-01-01,1,"Brisbane",2004
+10000208,"Job Change",2018-05-17,1,"Brisbane",2018
+10000209,"Forming B Shift",2017-12-22,1,"Other",2017
+10000210,"Temporary Resort",2002-04-20,1,"Sydney",2002
+10000211,"Temporary Resort",2006-12-02,1,"Sydney",2006
+10000212,"Temporary Resort",2004-07-27,1,"Sydney",2004
+10000215,"Purchasing",2000-03-18,1,"Other",2000
+10000217,"",2000-02-26,1,"Sydney",2000
+10000218,"Temporary Resort",2000-07-10,1,"Sydney",2000
+10000220,"Temporary Resort",2001-03-19,1,"Sydney",2001
+10000221,"Temporary Resort",2000-03-18,1,"Sydney",2000
+10000222,"Temporary Resort",2000-10-28,1,"Other",2000
+10000223,"Temporary Resort",2000-03-18,1,"Sydney",2000
+10000224,"Temporary Resort",2001-09-10,1,"Other",2001
+10000225,"Temporary Resort",2000-03-18,1,"Sydney",2000
+10000226,"Human Resources",2000-02-19,1,"Sydney",2000
+10000227,"Machine Maintenance",2000-11-11,1,"Sydney",2000
+10000228,"Human Resources",2001-01-23,1,"Other",2001
+10000229,"Forming",2000-05-06,1,"Brisbane",2000
+10000230,"Machine Maintenance",2003-01-01,1,"Other",2003
+10000231,"Forming",2005-10-14,1,"Brisbane",2005
+10000232,"Purchasing",2001-01-23,1,"Other",2001
+10000233,"Information Technology",2001-03-06,1,"Brisbane",2001
+10000234,"Finance",2001-09-29,1,"Brisbane",2001
+10000235,"Forming A Shift",2000-05-27,1,"Other",2000
+10000236,"Forming C Shift",2000-11-30,1,"Other",2000
+10000237,"Electrical",2003-03-08,1,"Sydney",2003
+10000238,"Electrical",2001-05-07,1,"Sydney",2001
+10000239,"Sales",2013-01-01,1,"Brisbane",2013
+10000240,"Finance",2002-07-20,1,"Brisbane",2002
+10000241,"Machine Maintenance",2003-12-03,1,"Brisbane",2003
+10000242,"Machine Maintenance",2004-11-20,1,"Sydney",2004
+10000243,"Purchasing",2008-03-21,1,"Brisbane",2008
+10000245,"Forming Services",2004-02-14,1,"Sydney",2004
+10000246,"Purchasing",2001-09-06,1,"Other",2001
+10000247,"Forming A Shift",2000-10-23,1,"Other",2000
+10000248,"Temporary Resort",2006-10-07,1,"Other",2006
+10000249,"Temporary Resort",2000-07-17,1,"Other",2000
+10000250,"Temporary Resort",2000-07-17,1,"Other",2000
+10000251,"Forming D Shift",2007-05-16,1,"Other",2007
+10000252,"ACI Glass Packaging New Zealand",2010-08-28,1,"Brisbane",2010
+10000253,"Engineering",2000-12-30,1,"Brisbane",2000
+10000254,"Forming A Shift",2004-04-03,1,"Other",2004
+10000255,"Machine Maintenance",2007-11-03,1,"Other",2007
+10000256,"Customer Technical Services",2005-01-01,1,"Brisbane",2005
+10000258,"Finance",2011-09-24,1,"Brisbane",2011
+10000259,"Temporary Resort",2002-10-13,1,"Other",2002
+10000260,"Temporary Resort",2001-04-14,1,"Other",2001
+10000261,"Temporary Resort",2000-11-23,1,"Other",2000
+10000262,"Temporary Resort",2001-11-05,1,"Other",2001
+10000263,"Temporary Resort",2001-11-05,1,"Other",2001
+10000265,"Forming C Shift",2002-01-15,1,"Other",2002
+10000266,"Forming B Shift",2000-12-07,1,"Other",2000
+10000267,"Temporary Resort",2000-12-09,1,"Other",2000
+10000268,"Temporary Resort",2004-06-29,1,"Sydney",2004
+10000269,"Marketing",2002-12-07,1,"Other",2002
+10000270,"Engineering",2001-06-02,1,"Other",2001
+10000271,"Temporary Resort",2002-04-20,1,"Sydney",2002
+10000272,"Forming D Shift",2017-12-12,1,"Other",2017
+10000273,"Forming B Shift",2008-06-29,1,"Other",2008
+10000274,"Engineering",2004-01-31,1,"Other",2004
+10000275,"Engineering",2008-03-29,1,"Brisbane",2008
+10000276,"Batch & Furnace",2001-06-30,1,"Brisbane",2001
+10000278,"Engineering",2005-07-01,1,"Brisbane",2005
+10000279,"Batch & Furnace",2006-05-20,1,"Brisbane",2006
+10000280,"Temporary Resort",2004-10-26,1,"Other",2004
+10000281,"Temporary Resort",2001-03-27,1,"Other",2001
+10000282,"Engineering",2001-06-18,1,"Other",2001
+10000283,"Human Resources",2002-02-28,1,"Other",2002
+10000284,"Temporary Resort",2001-11-05,1,"Other",2001
+10000285,"Temporary Resort",2001-04-13,1,"Other",2001
+10000286,"Job Change",2018-08-11,1,"Brisbane",2018
+10000288,"Forming A Shift",2003-01-09,1,"Other",2003
+10000289,"Forming A Shift",2002-03-31,1,"Other",2002
+10000293,"Machine Maintenance",2016-03-21,1,"Other",2016
+10000294,"Batch & Furnace",2008-11-20,1,"Brisbane",2008
+10000296,"Engineering",2003-02-22,1,"Other",2003
+10000297,"Engineering",2001-11-19,1,"Other",2001
+10000298,"Forming A Shift",2002-06-01,1,"Other",2002
+10000299,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000300,"Finance",2002-08-17,1,"Brisbane",2002
+10000301,"Purchasing",2003-08-30,1,"Other",2003
+10000302,"Temporary Resort",2008-04-03,1,"Other",2008
+10000303,"Temporary Resort",2001-11-05,1,"Other",2001
+10000304,"Temporary Resort",2001-11-05,1,"Other",2001
+10000305,"Temporary Resort",2001-11-05,1,"Other",2001
+10000306,"Temporary Resort",2001-11-05,1,"Other",2001
+10000307,"Engineering",2002-01-19,1,"Other",2002
+10000308,"Machine Maintenance",2001-12-15,1,"Other",2001
+10000309,"Engineering",2001-12-21,1,"Other",2001
+10000310,"Electrical",2006-10-28,1,"Sydney",2006
+10000313,"Administration",2019-04-01,1,"Brisbane",2019
+10000314,"Human Resources",2007-09-01,1,"Other",2007
+10000315,"Forming Services",2004-05-14,1,"Other",2004
+10000316,"Finance",2002-05-11,1,"Other",2002
+10000317,"Batch & Furnace",2004-03-28,1,"Other",2004
+10000319,"Finished Products B Shift",2011-02-12,1,"Other",2011
+10000320,"Forming A Shift",2006-06-20,1,"Other",2006
+10000321,"Job Change",2010-10-09,1,"Sydney",2010
+10000322,"Customer Technical Services",2018-04-01,1,"Brisbane",2018
+10000323,"Finished Products D Shift",2002-11-26,1,"Other",2002
+10000324,"Machine Maintenance",2006-09-30,1,"Sydney",2006
+10000325,"Finance",2003-02-01,1,"Other",2003
+10000326,"Finance",2008-06-07,1,"Brisbane",2008
+10000328,"Finance",2004-03-27,1,"Brisbane",2004
+10000330,"Temporary Resort",2005-03-08,1,"Other",2005
+10000331,"Forming Services",2003-06-26,1,"Sydney",2003
+10000332,"Marketing",2004-05-29,1,"Other",2004
+10000333,"Manufacturing",2005-01-17,1,"Brisbane",2005
+10000334,"Quality Control",2016-01-16,1,"Brisbane",2016
+10000335,"Manufacturing",2008-05-03,1,"Brisbane",2008
+10000336,"Finished Products C Shift",2004-05-25,1,"Other",2004
+10000337,"Raw Material",2008-12-06,1,"Other",2008
+10000338,"Forming B Shift",2013-10-09,1,"Other",2013
+10000339,"Logistics",2004-02-01,1,"Brisbane",2004
+10000340,"Temporary Resort",2003-02-26,1,"Other",2003
+10000341,"Temporary Resort",2003-03-17,1,"Other",2003
+10000342,"Temporary Resort",2003-09-02,1,"Other",2003
+10000343,"Temporary Resort",2004-05-11,1,"Other",2004
+10000344,"Temporary Resort",2003-02-26,1,"Other",2003
+10000345,"Unit Plant Management",2018-11-17,1,"Brisbane",2018
+10000346,"Finance",2003-08-03,1,"Other",2003
+10000347,"Temporary Resort",2006-04-10,1,"Other",2006
+10000348,"Temporary Resort",2003-09-02,1,"Other",2003
+10000349,"Temporary Resort",2003-03-17,1,"Other",2003
+10000350,"Temporary Resort",2003-03-17,1,"Other",2003
+10000351,"Temporary Resort",2003-05-25,1,"Sydney",2003
+10000352,"Electrical",2004-10-14,1,"Sydney",2004
+10000353,"Administration",2003-05-03,1,"Other",2003
+10000354,"Batch & Furnace",2006-12-16,1,"Sydney",2006
+10000355,"Raw Material",2005-01-26,1,"Other",2005
+10000356,"Temporary Resort",2003-09-29,1,"Other",2003
+10000357,"Temporary Resort",2003-09-02,1,"Other",2003
+10000358,"Purchasing",2004-05-15,1,"Other",2004
+10000360,"Finance",2006-05-04,1,"Brisbane",2006
+10000361,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000362,"Temporary Resort",2005-08-24,1,"Other",2005
+10000365,"Temporary Resort",2006-04-10,1,"Other",2006
+10000366,"Temporary Resort",2004-11-25,1,"Other",2004
+10000367,"Engineering",2004-02-21,1,"Other",2004
+10000368,"Manufacturing",2006-03-25,1,"Brisbane",2006
+10000369,"Quality Control",2019-01-01,1,"Brisbane",2019
+10000371,"Forming Services",2004-05-15,1,"Sydney",2004
+10000373,"Finance",2018-03-17,1,"Brisbane",2018
+10000374,"Forming C Shift",2005-10-14,1,"Other",2005
+10000375,"Temporary Resort",2005-02-18,1,"Other",2005
+10000376,"Finance",2007-07-07,1,"Brisbane",2007
+10000377,"Marketing",2005-12-31,1,"Other",2005
+10000378,"Finance",2017-06-10,1,"Brisbane",2017
+10000379,"Human Resources",2010-07-10,1,"Other",2010
+10000380,"Machine Maintenance",2007-06-16,1,"Other",2007
+10000381,"Forming Services",2006-01-07,1,"Sydney",2006
+10000383,"Forming Services",2013-08-24,1,"Sydney",2013
+10000384,"Temporary Resort",2004-09-16,1,"Other",2004
+10000385,"Temporary Resort",2004-08-31,1,"Other",2004
+10000386,"Temporary Resort",2004-09-16,1,"Other",2004
+10000387,"Temporary Resort",2006-12-02,1,"Other",2006
+10000388,"Temporary Resort",2007-04-06,1,"Sydney",2007
+10000389,"Job Change",2017-06-03,1,"Brisbane",2017
+10000390,"Temporary Resort",2004-10-19,1,"Other",2004
+10000391,"Temporary Resort",2005-02-15,1,"Other",2005
+10000392,"Temporary Resort",2004-10-19,1,"Other",2004
+10000393,"Temporary Resort",2006-05-03,1,"Other",2006
+10000394,"Temporary Resort",2005-02-17,1,"Other",2005
+10000395,"Temporary Resort",2006-05-03,1,"Other",2006
+10000396,"Temporary Resort",2005-08-24,1,"Other",2005
+10000397,"Temporary Resort",2004-11-08,1,"Other",2004
+10000398,"Temporary Resort",2004-10-22,1,"Other",2004
+10000399,"Temporary Resort",2006-09-28,1,"Sydney",2006
+10000400,"Temporary Resort",2006-04-10,1,"Other",2006
+10000401,"Temporary Resort",2006-12-02,1,"Sydney",2006
+10000402,"Temporary Resort",2005-02-15,1,"Other",2005
+10000403,"Temporary Resort",2004-10-19,1,"Other",2004
+10000404,"Temporary Resort",2006-04-10,1,"Other",2006
+10000405,"Customer Technical Services",2005-02-15,1,"Other",2005
+10000406,"Customer Technical Services",2005-02-15,1,"Other",2005
+10000407,"Temporary Resort",2005-05-31,1,"Other",2005
+10000408,"Temporary Resort",2005-02-17,1,"Other",2005
+10000410,"Temporary Resort",2005-05-31,1,"Other",2005
+10000411,"Machine Maintenance",2017-01-14,1,"Sydney",2017
+10000412,"Engineering",2008-12-06,1,"Brisbane",2008
+10000413,"Marketing",2012-04-12,1,"Brisbane",2012
+10000414,"Flexible Manufacturing Unit",2009-10-01,1,"Brisbane",2009
+10000415,"Machine Maintenance",2016-01-10,1,"Other",2016
+10000418,"Marketing",2007-03-26,1,"Other",2007
+10000419,"Finished Products B Shift",2008-05-01,1,"Other",2008
+10000420,"Forming Services",2007-11-29,1,"Sydney",2007
+10000421,"Marketing",2008-08-30,1,"Brisbane",2008
+10000428,"Flexible Manufacturing Unit",2008-07-16,1,"Brisbane",2008
+10000429,"Forming B Shift",2015-10-13,1,"Other",2015
+10000430,"Job Change",2018-12-05,1,"Sydney",2018
+10000432,"Temporary Resort",2006-12-23,1,"Other",2006
+10000433,"Customer Technical Services",2015-01-17,1,"Brisbane",2015
+10000434,"Electrical Inspection",2016-06-11,1,"Sydney",2016
+10000435,"Quality Control",2007-12-01,1,"Sydney",2007
+10000436,"Electrical",2013-02-05,1,"Other",2013
+10000439,"Marketing",2007-04-21,1,"Other",2007
+10000441,"Finance",2008-09-05,1,"Brisbane",2008
+10000442,"Finance",2010-06-12,1,"Brisbane",2010
+10000443,"Machine Maintenance",2008-11-29,1,"Other",2008
+10000445,"Forming C Shift",2015-09-08,1,"Other",2015
+10000446,"Sales",2013-07-13,1,"Brisbane",2013
+10000448,"Temporary Resort",2008-04-03,1,"Other",2008
+10000449,"Temporary Resort",2009-09-02,1,"Other",2009
+10000450,"Temporary Resort",2009-09-02,1,"Other",2009
+10000451,"Temporary Resort",2008-10-03,1,"Other",2008
+10000452,"Temporary Resort",2008-04-03,1,"Other",2008
+10000453,"Temporary Resort",2008-10-03,1,"Other",2008
+10000454,"Temporary Resort",2008-04-03,1,"Other",2008
+10000456,"Finished Products C Shift",2008-10-16,1,"Other",2008
+10000457,"Finance",2010-10-30,1,"Brisbane",2010
+10000458,"Marketing",2008-11-03,1,"Other",2008
+10000459,"Finished Products C Shift",2017-03-12,1,"Other",2017
+10000460,"Plant Maintenance",2016-07-23,1,"Sydney",2016
+10000462,"Purchasing",2008-10-25,1,"Brisbane",2008
+10000465,"Business Sustainability & Environmental",2010-02-06,1,"Brisbane",2010
+10000466,"Finance",2010-06-12,1,"Brisbane",2010
+10000467,"Sales",2011-02-12,1,"Brisbane",2011
+10000468,"Finance",2011-03-12,1,"Brisbane",2011
+10000469,"Plant Maintenance",2012-01-28,1,"Sydney",2012
+10000475,"Marketing",2009-02-16,1,"Other",2009
+10000476,"Forming B Shift",2016-11-26,1,"Other",2016
+10000477,"Job Change",2009-12-02,1,"Sydney",2009
+10000478,"Purchasing",2017-05-13,1,"Brisbane",2017
+10000479,"Forming B Shift",2017-11-03,1,"Other",2017
+10000480,"Logistics",2009-04-18,1,"Brisbane",2009
+10000482,"Finance",2010-12-06,1,"Other",2010
+10000486,"Forming C Shift",2011-08-19,1,"Other",2011
+10000487,"Job Change",2017-12-03,1,"Sydney",2017
+10000488,"Forming D Shift",2019-06-08,1,"Other",2019
+10000493,"Forming C Shift",2013-04-28,1,"Other",2013
+10000496,"Forming A Shift",2019-05-21,1,"Other",2019
+10000497,"Forming A Shift",2009-08-13,1,"Other",2009
+10000505,"Purchasing",2015-11-07,1,"Brisbane",2015
+10000509,"Finished Products D Shift",2013-01-01,1,"Other",2013
+10000510,"Administration",2011-07-11,1,"Other",2011
+10000511,"Logistics",2010-01-30,1,"Other",2010
+10000512,"Administration",2010-05-05,1,"Brisbane",2010
+10000514,"Forming",2012-11-01,1,"Brisbane",2012
+10000515,"Finance",2010-03-20,1,"Brisbane",2010
+10000517,"Engineering",2010-03-02,1,"Other",2010
+10000518,"Forming A Shift",2018-03-02,1,"Other",2018
+10000519,"Finished Products D Shift",2018-08-02,1,"Other",2018
+10000521,"Electrical",2010-07-03,1,"Sydney",2010
+10000522,"Finance",2011-06-01,1,"Brisbane",2011
+10000523,"Sales - Beer, Spirits, RTD & NAB",2017-05-31,1,"Brisbane",2017
+10000524,"Logistics",2010-04-16,1,"Brisbane",2010
+10000526,"Marketing",2013-08-09,1,"Brisbane",2013
+10000528,"Finished Products C Shift",2018-02-03,1,"Other",2018
+10000529,"Finished Products D Shift",2013-04-03,1,"Other",2013
+10000530,"Finished Products D Shift",2019-04-13,1,"Other",2019
+10000531,"Finished Products D Shift",2018-11-22,1,"Other",2018
+10000532,"Finished Products A Shift",2011-04-15,1,"Other",2011
+10000539,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000540,"Batch & Furnace",2011-01-22,1,"Brisbane",2011
+10000541,"ACI Glass Packaging New Zealand",2012-06-02,1,"Brisbane",2012
+10000542,"Business Sustainability & Environmental",2010-10-23,1,"Sydney",2010
+10000543,"Temporary Resort",2011-05-18,1,"Other",2011
+10000545,"Finished Products D Shift",2018-10-12,1,"Other",2018
+10000548,"Temporary Resort",2011-07-23,1,"Sydney",2011
+10000550,"Temporary Resort",2011-07-27,1,"Sydney",2011
+10000552,"Electrical",2012-05-26,1,"Sydney",2012
+10000553,"Batch & Furnace",2012-03-14,1,"Brisbane",2012
+10000554,"Sales",2012-04-16,1,"Brisbane",2012
+10000560,"Electrical",2016-03-31,1,"Sydney",2016
+10000564,"Finished Products A Shift",2013-04-26,1,"Other",2013
+10000566,"Finished Products B Shift",2016-05-02,1,"Other",2016
+10000567,"Plant Maintenance",2012-01-25,1,"Sydney",2012
+10000568,"Machine Maintenance",2012-06-08,1,"Sydney",2012
+10000570,"Unit Plant Management",2015-07-31,1,"Brisbane",2015
+10000571,"Engineering",2012-12-22,1,"Sydney",2012
+10000572,"Finance",2013-03-30,1,"Brisbane",2013
+10000573,"Sales",2013-10-24,1,"Brisbane",2013
+10000575,"Finance",2016-07-01,1,"Brisbane",2016
+10000576,"Forming",2015-04-16,1,"Brisbane",2015
+10000577,"Administration",2019-05-01,1,"Brisbane",2019
+10000578,"Finished Products B Shift",2015-01-22,1,"Other",2015
+10000579,"Finance",2017-05-06,1,"Brisbane",2017
+10000580,"ACI Glass Packaging New Zealand",2015-11-01,1,"Brisbane",2015
+10000581,"Human Resources",2015-09-12,1,"Brisbane",2015
+10000582,"Forming Services",2018-04-04,1,"Sydney",2018
+10000583,"Temporary Resort",2012-08-11,1,"Sydney",2012
+10000584,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000585,"Forming Services",2014-08-30,1,"Sydney",2014
+10000586,"Forming B Shift",2016-01-11,1,"Other",2016
+10000587,"Sales - Beer, Spirits, RTD & NAB",2015-04-03,1,"Brisbane",2015
+10000588,"Finished Products D Shift",2017-10-11,1,"Other",2017
+10000590,"Job Change",2018-07-28,1,"Brisbane",2018
+10000591,"Quality Control",2017-06-01,1,"Brisbane",2017
+10000592,"Machine Maintenance",2013-09-30,1,"Sydney",2013
+10000593,"Temporary Resort",2012-12-22,1,"Sydney",2012
+10000595,"Plant Maintenance",2014-03-15,1,"Sydney",2014
+10000597,"Machine Maintenance",2016-12-10,1,"Sydney",2016
+10000598,"Sales - Beer, Spirits, RTD & NAB",2015-07-25,1,"Brisbane",2015
+10000600,"Marketing",2014-06-18,1,"Brisbane",2014
+10000601,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000602,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000603,"Marketing",2013-11-01,1,"Brisbane",2013
+10000604,"Purchasing",2016-10-29,1,"Brisbane",2016
+10000606,"Job Change",2018-12-15,1,"Sydney",2018
+10000608,"Electrical",2013-12-21,1,"Sydney",2013
+10000609,"Sales",2019-06-01,1,"Brisbane",2019
+10000610,"Forming",2013-04-20,1,"Other",2013
+10000611,"Forming Services",2013-07-11,1,"Sydney",2013
+10000614,"Finance",2015-12-15,1,"Brisbane",2015
+10000615,"Temporary Resort",2013-12-21,1,"Sydney",2013
+10000616,"Administration",2018-02-02,1,"Brisbane",2018
+10000617,"Finished Products B Shift",2017-08-24,1,"Other",2017
+10000619,"Sales",2014-12-02,1,"Brisbane",2014
+10000620,"Finished Products A Shift",2017-05-07,1,"Other",2017
+10000624,"Forming B Shift",2014-01-13,1,"Other",2014
+10000625,"Forming C Shift",2017-11-07,1,"Other",2017
+10000626,"Plant Maintenance",2016-01-16,1,"Sydney",2016
+10000627,"Customer Service",2018-07-28,1,"Brisbane",2018
+10000632,"Forming Services",2019-06-29,1,"Sydney",2019
+10000633,"Forming B Shift",2014-04-11,1,"Other",2014
+10000634,"Sales - Beer, Spirits, RTD & NAB",2015-04-11,1,"Brisbane",2015
+10000636,"ACI Glass Packaging New Zealand",2015-12-01,1,"Brisbane",2015
+10000637,"Forming Services",2018-07-05,1,"Sydney",2018
+10000638,"Supply Chain",2014-01-22,1,"Other",2014
+10000639,"Sales & Marketing",2015-11-07,1,"Brisbane",2015
+10000640,"Supply Chain",2014-02-26,1,"Other",2014
+10000644,"Forming C Shift",2016-02-11,1,"Other",2016
+10000645,"Supply Chain",2017-06-01,1,"Brisbane",2017
+10000646,"Unit Plant Management",2014-09-27,1,"Brisbane",2014
+10000648,"Forming C Shift",2018-10-16,1,"Other",2018
+10000652,"Administration",2016-01-09,1,"Brisbane",2016
+10000653,"ACI Glass Packaging New Zealand",2014-10-11,1,"Brisbane",2014
+10000655,"Sales & Marketing",2016-07-01,1,"Brisbane",2016
+10000657,"Electrical",2018-06-19,1,"Other",2018
+10000659,"Finance",2017-06-14,1,"Brisbane",2017
+10000660,"Human Resources",2017-04-08,1,"Brisbane",2017
+10000661,"Temporary Resort",2014-12-20,1,"Sydney",2014
+10000662,"Temporary Resort",2014-12-20,1,"Sydney",2014
+10000663,"Temporary Resort",2014-12-20,1,"Sydney",2014
+10000664,"Finished Products D Shift",2019-05-03,1,"Other",2019
+10000667,"Temporary Resort",2015-03-28,1,"Sydney",2015
+10000668,"Forming",2015-04-14,1,"Brisbane",2015
+10000669,"Purchasing",2017-02-01,1,"Brisbane",2017
+10000670,"Temporary Resort",2015-11-03,1,"Sydney",2015
+10000672,"Supply Chain",2017-08-01,1,"Brisbane",2017
+10000673,"Forming Services",2015-07-18,1,"Other",2015
+10000674,"Supply Chain",2015-07-11,1,"Other",2015
+10000675,"Sales - Wine, Food and Distributors",2016-07-12,1,"Brisbane",2016
+10000677,"Sales",2019-03-29,1,"Brisbane",2019
+10000680,"Temporary Resort",2016-04-23,1,"Sydney",2016
+10000683,"Electrical",2016-03-19,1,"Sydney",2016
+10000684,"O-I New Zealand",2018-01-01,1,"Brisbane",2018
+10000686,"Sales & Marketing",2017-05-01,1,"Brisbane",2017
+10000690,"Temporary Resort",2017-03-04,1,"Sydney",2017
+10000692,"Electrical",2016-05-10,1,"Sydney",2016
+10000694,"Temporary Resort",2016-04-21,1,"Sydney",2016
+10000695,"Purchasing",2016-10-22,1,"Brisbane",2016
+10000697,"Administration",2017-08-28,1,"Brisbane",2017
+10000701,"",2018-09-27,1,"Brisbane",2018
+10000702,"Human Resources",2016-07-29,1,"Brisbane",2016
+10000704,"Quality Control",2016-08-06,1,"Brisbane",2016
+10000705,"Human Resources",2017-05-06,1,"Brisbane",2017
+10000707,"Machine Maintenance",2017-01-21,1,"Sydney",2017
+10000708,"Electrical Inspection",2018-07-14,1,"Sydney",2018
+10000714,"Manufacturing",2017-07-12,1,"Brisbane",2017
+10000715,"Purchasing",2018-12-07,1,"Brisbane",2018
+10000716,"Sales & Marketing",2017-07-13,1,"Brisbane",2017
+10000717,"Manufacturing",2016-12-02,1,"Brisbane",2016
+10000719,"Finance",2018-08-01,1,"Brisbane",2018
+10000722,"Plant Maintenance",2017-03-01,1,"Sydney",2017
+10000724,"Supply Chain",2018-07-14,1,"Brisbane",2018
+10000728,"Finance",2017-12-09,1,"Brisbane",2017
+10000730,"Machine Maintenance",2017-07-08,1,"Sydney",2017
+10000733,"Administration",2017-07-17,1,"Brisbane",2017
+10000735,"Temporary Resort",2017-03-28,1,"Sydney",2017
+10000737,"Temporary Resort",2017-04-30,1,"Sydney",2017
+10000738,"Job Change",2019-01-04,1,"Brisbane",2019
+10000740,"Finance",2018-04-13,1,"Brisbane",2018
+10000741,"Temporary Resort",2017-10-28,1,"Sydney",2017
+10000743,"Sales & Marketing",2017-07-08,1,"Brisbane",2017
+10000748,"Sales & Marketing",2017-09-30,1,"Other",2017
+10000749,"Finance",2019-01-12,1,"Brisbane",2019
+10000751,"Temporary Resort",2017-10-28,1,"Sydney",2017
+10000753,"Sales & Marketing",2017-12-01,1,"Brisbane",2017
+10000754,"Forming",2019-05-04,1,"Brisbane",2019
+10000756,"Finished Products C Shift",2017-11-23,1,"Other",2017
+10000758,"Human Resources",2017-11-25,1,"Other",2017
+10000759,"Finance",2018-08-02,1,"Brisbane",2018
+10000760,"Sales",2018-08-09,1,"Brisbane",2018
+10000762,"Finished Products B Shift",2017-11-05,1,"Other",2017
+10000764,"Finance",2018-01-13,1,"Brisbane",2018
+10000772,"Manufacturing",2018-10-27,1,"Brisbane",2018
+10000776,"Job Change",2018-06-30,1,"Sydney",2018
+10000781,"Finance",2019-03-21,1,"Brisbane",2019
+10000782,"Electrical",2019-03-20,1,"Sydney",2019
+10000794,"Electrical Inspection",2019-04-07,1,"Sydney",2019
+10000808,"Temporary Resort",2018-12-21,1,"Sydney",2018
+10000811,"Temporary Resort",2019-05-02,1,"Sydney",2019
+10000816,"Finance",2019-05-11,1,"Other",2019
+10000817,"Job Change",2019-05-04,1,"Sydney",2019

@@ -1,0 +1,202 @@
+"pers_no","action_type","reason_for_action","start_date_action","end_date_action","position","date","location","movement"
+10000574,"Hire Employee","New position",2011-08-01,2018-02-28,"Sustainability Manager",2011-08-01,"Brisbane",2403
+10000609,"Hire Employee","New position",2013-02-25,2015-03-31,"Sales Executive",2013-02-25,"Brisbane",764
+10000636,"Hire Employee","New position",2013-12-09,2015-08-23,"Unit Plant Manager",2013-12-09,"Brisbane",622
+10000645,"Hire Employee","New position",2014-03-03,2017-05-31,"Warehouse & Distribution Manager",2014-03-03,"Brisbane",1185
+10000652,"Hire Employee","New position",2014-05-26,2016-01-08,"Graduate - Manufacturing",2014-05-26,"Brisbane",592
+10000653,"Hire Employee","New position",2014-05-26,2014-10-10,"Graduate - Manufacturing",2014-05-26,"Brisbane",137
+10000655,"Hire Employee","New position",2014-07-21,2016-06-30,"Customer Service Officer",2014-07-21,"Brisbane",710
+10000659,"Hire Employee","New position",2014-09-08,2017-06-13,"Credit Controller",2014-09-08,"Brisbane",1009
+10000675,"Hire Employee","New position",2015-07-29,2016-07-11,"Bus Sales Mgr - Wine, Food and Distrib.",2015-07-29,"Brisbane",348
+10000679,"Hire Employee","New position",2015-11-02,2017-02-28,"Graduate - Manufacturing",2015-11-02,"Brisbane",484
+10000695,"Hire Employee","New position",2016-04-04,2016-10-21,"Sourcing Specialist",2016-04-04,"Brisbane",200
+10000705,"Hire Employee","New position",2016-05-30,2017-05-05,"Human Resources Co-ordinator",2016-05-30,"Brisbane",340
+10000714,"Hire Employee","New position",2016-08-30,2017-07-11,"EHS Co-ordinator",2016-08-30,"Brisbane",315
+10000720,"Hire Employee","New position",2016-10-25,2017-04-30,"Temporary Electrician",2016-10-25,"Sydney",187
+10000721,"Hire Employee","New position",2016-10-17,2017-04-30,"Area Quality Engineer",2016-10-17,"Brisbane",195
+10000724,"Hire Employee","New position",2016-12-12,2018-07-13,"Logistics Manager",2016-12-12,"Brisbane",578
+10000733,"Hire Employee","New position",2017-02-20,2017-07-16,"Graduate - Manufacturing",2017-02-20,"Brisbane",146
+10000734,"Hire Employee","New position",2017-02-20,2018-04-22,"Graduate - Manufacturing",2017-02-20,"Brisbane",426
+10000744,"Hire Employee","New position",2017-05-08,2017-07-31,"Electrician",2017-05-08,"Sydney",84
+10000754,"Hire Employee","New position",2017-09-11,2019-05-03,"Forehearth Specialist",2017-09-11,"Brisbane",599
+10000759,"Hire Employee","New position",2017-10-02,2018-08-01,"Plant Controller",2017-10-02,"Brisbane",303
+10000776,"Hire Employee","New position",2018-04-03,2018-06-29,"Engineering Trade Assistant",2018-04-03,"Sydney",87
+10000781,"Hire Employee","New position",2018-05-08,2019-03-20,"Plant Accountant",2018-05-08,"Brisbane",316
+10000782,"Hire Employee","New position",2018-05-01,2019-03-19,"Electrical Apprentice",2018-05-01,"Sydney",322
+10000782,"Hire Employee","New position",2018-05-01,2019-03-19,"Apprentice - Electrical Engineering",2018-05-01,"Sydney",322
+10000794,"Hire Employee","New position",2018-09-04,2019-04-06,"Apprentice - Electrical Engineering",2018-09-04,"Sydney",214
+10000823,"Hire Employee","New position",2019-05-06,2019-06-15,"Temporary AK2 Production Support",2019-05-06,"Other",40
+2453,"Hire Employee","New position",2005-08-22,2017-07-02,"Human Resources Manager",2005-08-22,"Brisbane",4332
+2497,"Hire Employee","New position",2006-04-10,2015-05-29,"ACL Printing Manager",2006-04-10,"Sydney",3336
+2538,"Hire Employee","New position",2006-08-12,2015-09-11,"ACL Maintenance Manager",2006-08-12,"Sydney",3317
+2877,"Hire Employee","New position",2009-11-11,2015-09-16,"Senior Sales Account Manager (VIC)",2009-11-11,"Melbourne",2135
+2881,"Hire Employee","New position",2009-11-11,2015-08-07,"Senior Sales Account Manager (SA)",2009-11-11,"Adelaide",2095
+2985,"Hire Employee","New position",2010-10-25,2016-02-29,"Stores Controller",2010-10-25,"Sydney",1953
+3011,"Hire Employee","New position",2011-01-17,2014-06-30,"Strategic Sourcing Coordinator",2011-01-17,"Melbourne",1260
+3052,"Hire Employee","New position",2011-05-16,2014-06-27,"Customer Back Analyst",2011-05-16,"Melbourne",1138
+3085,"Hire Employee","New position",2011-09-19,2017-08-31,"Marketing Manager - Beer Spirits & RTD",2011-09-19,"Melbourne",2173
+3085,"Hire Employee","New position",2011-09-19,2017-08-31,"Marketing Manager - Beer Spirits & RTD",2011-09-19,"Melbourne",2173
+3085,"Hire Employee","New position",2011-09-19,2017-08-31,"Key Account Manager",2011-09-19,"Melbourne",2173
+3087,"Hire Employee","New position",2011-10-24,2015-03-01,"Director Logistics",2011-10-24,"Melbourne",1224
+3094,"Hire Employee","New position",2012-01-03,2014-11-30,"Manufacturing Graduate",2012-01-03,"Sydney",1062
+3102,"Hire Employee","New position",2012-03-01,2014-02-28,"Director Procurement O-I Oceania",2012-03-01,"Melbourne",729
+3109,"Hire Employee","New position",2012-03-26,2014-01-31,"Mould Procurement Specialist",2012-03-26,"Melbourne",676
+3123,"Hire Employee","New position",2012-08-06,2014-03-31,"Manager - Business Analysis",2012-08-06,"Melbourne",602
+3137,"Hire Employee","New position",2012-09-18,2014-03-31,"HR Manager Operations & Tech Support",2012-09-18,"Melbourne",559
+3169,"Hire Employee","New position",2013-04-29,2017-03-31,"Product Design Engineer",2013-04-29,"Melbourne",1432
+3171,"Hire Employee","New position",2013-05-07,2014-04-30,"RIO Internee",2013-05-07,"Melbourne",358
+3175,"Hire Employee","New position",2013-06-24,2015-04-10,"HR and Administration Specialist",2013-06-24,"Brisbane",655
+3187,"Hire Employee","New position",2013-07-15,2014-05-31,"Audit Team Leader",2013-07-15,"Melbourne",320
+3190,"Hire Employee","New position",2013-08-19,2014-07-13,"Job Change Team Member",2013-08-19,"Adelaide",328
+3192,"Hire Employee","New position",2013-08-19,2014-07-13,"Job Change Team Member",2013-08-19,"Adelaide",328
+3193,"Hire Employee","New position",2013-08-19,2014-07-13,"Job Change Team Member",2013-08-19,"Adelaide",328
+3195,"Hire Employee","New position",2013-08-19,2014-07-13,"Job Change Team Member",2013-08-19,"Adelaide",328
+3205,"Hire Employee","New position",2013-10-07,2014-03-26,"Credit Controller",2013-10-07,"Melbourne",170
+3222,"Hire Employee","New position",2014-01-20,2015-04-03,"Accounting Support officer",2014-01-20,"Brisbane",438
+3225,"Hire Employee","New position",2014-01-28,2015-11-22,"Manufacturing Graduate",2014-01-28,"Melbourne",663
+3226,"Hire Employee","New position",2014-01-28,2016-03-15,"Manufacturing Graduate",2014-01-28,"Adelaide",777
+3229,"Hire Employee","New position",2014-01-27,2018-03-15,"Vice President Finance",2014-01-27,"Melbourne",1508
+3229,"Hire Employee","New position",2014-01-27,2018-03-15,"Vice President Strategy & Integration",2014-01-27,"Melbourne",1508
+3231,"Hire Employee","New position",2014-02-10,2014-08-01,"Manufacturing Graduate",2014-02-10,"Brisbane",172
+3235,"Hire Contractor","New position",2014-03-17,2016-05-30,"Sales&Operations Planning Analyst-Wine",2014-03-17,"Adelaide",805
+3237,"Hire Employee","New position",2014-03-17,2014-05-31,"ELECTRICIAN",2014-03-17,"Sydney",75
+3240,"Hire Employee","New position",2014-04-07,2015-12-06,"Manufacturing Graduate",2014-04-07,"Sydney",608
+3246,"Hire Employee","New position",2014-04-28,2017-05-21,"HR and Training Advisor",2014-04-28,"Adelaide",1119
+3250,"Hire Employee","New position",2014-05-19,2015-12-31,"Regional Integrated Operations Analyst",2014-05-19,"Melbourne",591
+3253,"Hire Employee","New position",2014-06-02,2017-06-16,"Commercial Sales Analyst",2014-06-02,"Melbourne",1110
+3253,"Hire Employee","New position",2014-06-02,2017-06-16,"Commercial Analyst",2014-06-02,"Melbourne",1110
+3254,"Hire Employee","New position",2014-06-10,2014-09-30,"Director Operational Improvement",2014-06-10,"Melbourne",112
+3260,"Hire Employee","New position",2014-06-16,2014-09-15,"Procurement Specialist",2014-06-16,"Melbourne",91
+3266,"Hire Employee","New position",2014-07-21,2016-02-14,"Director Accounting and Compliance",2014-07-21,"Melbourne",573
+3266,"Hire Employee","New position",2014-07-21,2016-02-14,"Tax and Treasury Manager",2014-07-21,"Melbourne",573
+3269,"Hire Employee","New position",2014-08-11,2015-08-09,"Mechanical Fitter Apprentice",2014-08-11,"Melbourne",363
+3284,"Hire Employee","New position",2014-10-01,2015-05-24,"Manufacturing Org Effectiveness SME",2014-10-01,"Melbourne",235
+3286,"Hire Employee","New position",2014-10-20,2015-07-05,"Fitter",2014-10-20,"Brisbane",258
+3298,"Hire Employee","New position",2015-01-05,2015-03-20,"Fitter",2015-01-05,"Brisbane",74
+3307,"Hire Employee","New position",2015-02-16,2015-07-05,"PRODUCTION OPERATOR B SHIFT",2015-02-16,"Brisbane",139
+3323,"Hire Employee","New position",2015-05-04,2017-04-28,"Senior Auditor",2015-05-04,"Melbourne",725
+3335,"Hire Employee","New position",2015-07-06,2016-02-29,"Client Strategist",2015-07-06,"Melbourne",238
+3336,"Hire Employee","New position",2015-07-06,2016-05-19,"Production and Reliability Manager",2015-07-06,"Brisbane",318
+3336,"Hire Employee","New position",2015-07-06,2016-05-19,"Integration: default position",2015-07-06,"Brisbane",318
+3337,"Hire Employee","New position",2015-07-15,2016-03-31,"Purchasing Coordinator",2015-07-15,"Melbourne",260
+3349,"Hire Employee","New position",2015-10-06,2016-07-21,"Plant Administrator",2015-10-06,"Adelaide",289
+3352,"Hire Employee","New position",2015-10-06,2017-09-30,"Snr Project Manager",2015-10-06,"Melbourne",725
+3364,"Hire Employee","New position",2015-10-12,2017-07-31,"Manufacturing Graduate",2015-10-12,"Sydney",658
+3369,"Hire Employee","New position",2015-11-09,2015-11-09,"Purchasing Coordinator",2015-11-09,"Melbourne",0
+3377,"Hire Employee","New position",2016-01-11,2016-07-03,"Inspector",2016-01-11,"Sydney",174
+3390,"Hire Employee","New position",2016-02-01,2017-04-13,"Director Strategic Programs",2016-02-01,"Melbourne",437
+3393,"Hire Employee","New position",2016-02-24,2018-05-25,"Energy and Environment Coordinator",2016-02-24,"Brisbane",821
+3393,"Hire Employee","New position",2016-02-24,2018-05-25,"Environment Health and Safety Coordinato",2016-02-24,"Brisbane",821
+3395,"Hire Employee","New position",2016-03-21,2016-08-31,"HR Business Partner & Total Reward Mgr",2016-03-21,"Melbourne",163
+3397,"Hire Employee","New position",2016-03-21,2017-08-09,"Environmental Health & Safety Manager",2016-03-21,"Melbourne",506
+3399,"Hire Employee","New position",2016-04-01,2016-11-30,"Continuous Improvement Manager",2016-04-01,"Melbourne",243
+3407,"Hire Employee","New position",2016-05-02,2016-09-30,"Environmental Health &Safety Coordinator",2016-05-02,"Melbourne",151
+3415,"Hire Employee","New position",2016-06-15,2017-05-31,"Regional Supply Chain Planning Director",2016-06-15,"Melbourne",350
+3417,"Hire Employee","New position",2016-07-07,2018-04-30,"Talent Acquisition Specialist",2016-07-07,"Melbourne",662
+3417,"Hire Employee","New position",2016-07-07,2018-04-30,"Talent Acquisition Lead",2016-07-07,"Melbourne",662
+3420,"Hire Employee","New position",2016-07-11,2017-03-24,"Fitter",2016-07-11,"Brisbane",256
+3422,"Hire Employee","New position",2016-07-11,2016-08-19,"Finance and Plant Administrator",2016-07-11,"Melbourne",39
+3424,"Hire Employee","New position",2016-07-11,2017-07-07,"Global Service Desk Analyst",2016-07-11,"Melbourne",361
+3427,"Hire Employee","New position",2016-08-01,2017-09-29,"Administration Assistant",2016-08-01,"Brisbane",424
+3435,"Hire Employee","New position",2016-08-29,2017-02-19,"Stat Process Control Coord/Manu Grad",2016-08-29,"Melbourne",174
+3442,"Hire Employee","New position",2016-10-24,2019-04-30,"Regional HR Business Partner",2016-10-24,"Melbourne",918
+3442,"Hire Employee","New position",2016-10-24,2019-04-30,"Head of Talent - APAC",2016-10-24,"Melbourne",918
+3447,"Hire Employee","New position",2016-11-07,2018-12-31,"Key Account Director Sales and Marketing",2016-11-07,"Melbourne",784
+3447,"Hire Employee","New position",2016-11-07,2018-12-31,"Key Account Director",2016-11-07,"Melbourne",784
+3451,"Hire Employee","New position",2016-11-21,2017-07-15,"Pack Centre Manager",2016-11-21,"Melbourne",236
+3453,"Hire Employee","New position",2016-11-21,2017-09-29,"Talent Acquisition Consultant",2016-11-21,"Melbourne",312
+3457,"Hire Employee","New position",2016-11-28,2018-11-30,"Regional Logistics Director",2016-11-28,"Melbourne",732
+3457,"Hire Employee","New position",2016-11-28,2018-11-30,"ITF Bussiness Lead",2016-11-28,"Melbourne",732
+3459,"Hire Employee","New position",2017-01-09,2017-06-23,"Regional Training Manager",2017-01-09,"Melbourne",165
+3464,"Hire Employee","New position",2017-01-03,2017-08-31,"Master Data Analyst",2017-01-03,"Melbourne",240
+3472,"Hire Employee","New position",2017-01-23,2017-07-07,"Global Service Desk Analyst",2017-01-23,"Melbourne",165
+3474,"Hire Employee","New position",2017-01-30,2017-10-28,"Furnance Support Engineer",2017-01-30,"Melbourne",271
+3475,"Hire Employee","New position",2017-02-20,2017-02-20,"Manufacturing Engineer Graduate",2017-02-20,"Melbourne",0
+3477,"Hire Employee","New position",2017-02-20,2017-02-20,"Manufacturing Engineer Graduate",2017-02-20,"Melbourne",0
+3478,"Hire Employee","New position",2017-02-20,2017-02-20,"Manufacturing Engineer Graduate",2017-02-20,"Melbourne",0
+3479,"Hire Employee","New position",2017-02-20,2017-02-20,"Manufacturing Engineering Graduate",2017-02-20,"Melbourne",0
+3481,"Hire Employee","New position",2017-02-27,2018-09-28,"Quality Coordinator",2017-02-27,"Adelaide",578
+3481,"Hire Employee","New position",2017-02-27,2018-09-28,"Assistant Quality Manager",2017-02-27,"Adelaide",578
+3483,"Hire Employee","New position",2017-02-13,2017-09-29,"Business Analyst O-I Australia",2017-02-13,"Melbourne",228
+3484,"Hire Employee","New position",2017-02-27,2017-06-30,"Project Manager",2017-02-27,"Melbourne",123
+3485,"Hire Employee","New position",2017-02-22,2017-09-30,"Regional Forming Training SME",1982-09-06,"Sydney",220
+3487,"Hire Employee","New position",2017-03-06,2017-12-15,"Change Manager",2017-03-06,"Melbourne",284
+3488,"Hire Employee","New position",2017-03-02,2017-07-28,"HR Shared Services Administrator",2017-03-02,"Melbourne",148
+3494,"Hire Employee","New position",2017-03-27,2019-03-30,"Furnance Design Engineer",2017-03-27,"Melbourne",733
+3497,"Hire Employee","New position",2017-04-07,2017-09-29,"LOGISTICS ANALYST",2017-04-07,"Melbourne",175
+3497,"Hire Employee","New position",2017-04-07,2017-09-29,"ITF Business Analyst",2017-04-07,"Melbourne",175
+3498,"Hire Employee","New position",2017-04-10,2017-10-02,"Shift Supervisor Brisbane Cullet",2017-04-10,"Brisbane",175
+3499,"Hire Contractor","New position",2017-04-10,2017-04-16,"SHIFT SUPERVISOR BRISBANE CULLET",2017-04-10,"Brisbane",6
+3504,"Hire Employee","New position",2017-05-15,2017-05-28,"Shift Supervisor Brisbane Cullet",2017-05-15,"Brisbane",13
+3517,"Hire Employee","New position",2017-06-13,2018-03-16,"HR Central Advisor",2017-06-13,"Melbourne",276
+3519,"Hire Employee","New position",2017-06-22,2017-09-30,"Victorian Logistics Lead",2017-06-22,"Melbourne",100
+3520,"Hire Employee","New position",2017-07-03,2017-09-30,"Sales Director ANZ",2017-07-03,"Melbourne",89
+3528,"Hire Employee","New position",2017-07-11,2017-09-29,"Junior Finance Administrator",2017-07-11,"Melbourne",80
+3531,"Hire Employee","New position",2017-07-17,2017-10-31,"Senior Change Manager",2017-07-17,"Melbourne",106
+3532,"Hire Employee","New position",2017-07-17,2018-06-30,"Manufacturing Gradutate",2017-07-17,"Melbourne",348
+3536,"Hire Employee","New position",2017-07-17,2017-09-29,"Document Management Coordinator",2017-07-17,"Melbourne",74
+3538,"Hire Employee","New position",2017-08-07,2018-02-20,"HR Shared Services Advisor",2017-08-07,"Melbourne",197
+3543,"Hire Employee","New position",2017-08-23,2018-02-22,"Commercial Analyst",2017-08-23,"Melbourne",183
+3546,"Hire Employee","New position",2017-08-28,2017-09-29,"HR Consultant",2017-08-28,"Melbourne",32
+3547,"Hire Employee","New position",2017-09-04,2017-09-29,"Deployment Lead - SAP",2017-09-04,"Melbourne",25
+3548,"Hire Employee","New position",2017-09-04,2017-09-29,"Business Analyst - SAP",2017-09-04,"Melbourne",25
+3550,"Hire Employee","New position",2017-09-11,2017-09-29,"Business Analyst - SAP",2017-09-11,"Melbourne",18
+3553,"Hire Employee","New position",2017-09-04,2017-09-29,"Change Manager",2017-09-04,"Melbourne",25
+3556,"Hire Employee","New position",2017-09-18,2018-07-01,"Batch House Operator",2017-09-18,"Sydney",286
+3557,"Hire Employee","New position",2017-09-14,2017-09-29,"Business Lead - P2P",2017-09-14,"Melbourne",15
+3559,"Hire Employee","New position",2017-09-18,2017-09-29,"Corporate and Compliance Accountant",2017-09-18,"Melbourne",11
+3561,"Hire Employee","New position",2017-10-09,2018-08-07,"Senior Supply Planner",2017-10-09,"Melbourne",302
+3564,"Hire Employee","New position",2017-10-02,2017-10-15,"Electrical Engineering Designer",2017-10-02,"Melbourne",13
+3567,"Hire Employee","New position",2017-10-09,2018-10-05,"Internal Communications Consultant",2017-10-09,"Melbourne",361
+3570,"Hire Employee","New position",2017-10-09,2018-07-01,"Fitter",2017-10-09,"Brisbane",265
+3572,"Hire Employee","New position",2017-10-09,2017-10-09,"Pack Centre Operator",2017-10-09,"Sydney",0
+3575,"Hire Employee","New position",2017-10-16,2018-04-17,"Data Analytics Programmer",2017-10-16,"Melbourne",183
+3578,"Hire Employee","New position",2017-10-23,2019-05-14,"Demand Planner",2017-10-23,"Melbourne",568
+3591,"Hire Employee","New position",2017-12-08,2019-06-06,"Project Administrator",2017-12-07,"Melbourne",545
+3592,"Hire Employee","New position",2017-12-11,2018-12-10,"Training Team Lead",2017-12-11,"Melbourne",364
+3596,"Hire Employee","New position",2017-12-11,2018-10-05,"Procurement Specialist",2017-12-11,"Adelaide",298
+3599,"Hire Employee","New position",2017-12-07,2018-12-13,"Global SAP Lead",2017-12-07,"Melbourne",371
+3605,"Hire Employee","New position",2018-01-16,2018-03-15,"Reward Administrator",2018-01-16,"Melbourne",58
+3606,"Hire Employee","New position",2018-01-08,2018-10-31,"P2P SME - SAP Implementation Project",2018-01-08,"Melbourne",296
+3608,"Hire Employee","New position",2018-02-05,2018-02-18,"Multi Skilled Operator",2018-02-05,"Adelaide",13
+3611,"Hire Employee","New position",2018-02-12,2018-02-18,"Production Support Glassworker",2018-02-12,"Adelaide",6
+3613,"Hire Employee","New position",2018-02-05,2018-08-07,"Stores Controller",2018-02-05,"Sydney",183
+3617,"Hire Employee","New position",2018-03-01,2018-03-08,"Data Analyst - OTC Stream",2018-03-01,"Melbourne",7
+3619,"Hire Employee","New position",2018-03-05,2019-03-01,"Customer Service Representative",2018-03-05,"Melbourne",361
+3626,"Hire Employee","New position",2018-03-29,2018-11-30,"PMO Administrator",2018-03-29,"Melbourne",246
+3629,"Hire Employee","New position",2018-04-03,2018-05-20,"Process Control Engineer",2018-04-03,"Sydney",47
+3644,"Hire Employee","New position",2018-04-01,2018-08-07,"Regional PMO Lead",2018-04-01,"Melbourne",128
+3645,"Hire Employee","New position",2018-04-30,2018-09-02,"Change Management Intern",2018-04-30,"Melbourne",125
+3670,"Hire Employee","New position",2018-08-27,2019-01-06,"General Plant Operator",2018-08-27,"Melbourne",132
+3671,"Hire Employee","New position",2018-08-27,2019-01-06,"General Plant Operator",2018-08-27,"Melbourne",132
+3672,"Hire Employee","New position",2018-08-27,2019-01-06,"General Plant Operator",2018-08-27,"Melbourne",132
+3680,"Hire Employee","New position",2018-11-05,2019-01-02,"General Plant Operator",2018-11-05,"Melbourne",58
+3681,"Hire Employee","New position",2018-11-19,2019-04-07,"Graduate Intern",2018-11-19,"Adelaide",139
+3683,"Hire Employee","New position",2018-11-19,2019-04-05,"Graduate Intern",2018-11-19,"Adelaide",137
+3692,"Hire Employee","New position",2019-01-14,2019-03-17,"Multi Skilled Operator",2019-01-14,"Melbourne",62
+90003101,"Hire Employee","New position",2011-06-01,2014-05-31,"Packer Meal Reliefe",2011-06-01,"Jakarta",1095
+90003102,"Hire Employee","New position",2011-06-01,2014-05-31,"Packer Meal Reliefe",2011-06-01,"Jakarta",1095
+90003147,"Hire Employee","New position",2013-04-01,2014-11-30,"Business Development Manager",2013-04-01,"Jakarta",608
+90003150,"Hire Employee","New position",2013-05-01,2017-08-27,"Distribution Administratior",2013-05-01,"Jakarta",1579
+90003150,"Hire Employee","New position",2013-05-01,2017-08-27,"Export Import Logistic Supervisor",2013-05-01,"Jakarta",1579
+90003156,"Hire Employee","New position",2013-07-01,2017-07-15,"General Mgr Opr Advance SE Asia",2013-07-01,"Jakarta",1475
+90003157,"Hire Employee","New position",2013-08-01,2014-11-30,"Job Change Acceleration Manager SEA",2013-08-01,"Jakarta",486
+90003158,"Hire Employee","New position",2013-09-01,2018-11-30,"Executive Assistant",2013-09-01,"Jakarta",1916
+90003175,"Hire Employee","New position",2014-02-03,2018-03-15,"Strategy & Business Development Director",2014-02-03,"Jakarta",1501
+90003182,"Hire Employee","New position",2014-07-01,2015-05-31,"Graduate Trainee",2014-07-01,"Jakarta",334
+90003183,"Hire Employee","New position",2014-07-01,2014-07-31,"Graduate Trainee",2014-07-01,"Jakarta",30
+90003187,"Hire Employee","New position",2014-08-01,2014-10-31,"Mould Shop Engineer",2014-08-01,"Jakarta",91
+90003189,"Hire Employee","New position",2014-09-01,2015-03-31,"Inspection & Packaging Engineer",2014-09-01,"Jakarta",211
+90003203,"Hire Employee","New position",2015-01-05,2015-03-31,"Batch House Engineer",2015-01-05,"Jakarta",85
+90003204,"Hire Employee","New position",2015-01-05,2016-06-12,"Electrical Engineer",2015-01-05,"Jakarta",524
+90003204,"Hire Employee","New position",2015-01-05,2016-06-12,"Electrical Engineer",2015-01-05,"Jakarta",524
+90003207,"Hire Employee","New position",2015-01-05,2015-05-31,"Inspection & Packaging Engineer",2015-01-05,"Jakarta",146
+90003217,"Hire Employee","New position",2015-02-02,2016-09-16,"Marketing Manager",2015-02-02,"Jakarta",592
+90003218,"Hire Employee","New position",2015-02-02,2015-07-05,"Continuous Improvement Specialist",2015-02-02,"Jakarta",153
+90003242,"Hire Employee","New position",2015-08-01,2015-12-31,"Strategic Business Analysis Sr Manager",2015-08-01,"Jakarta",152
+90003269,"Hire Employee","New position",2016-05-01,2017-11-30,"Sales Director",2016-05-01,"Jakarta",578
+90003304,"Hire Employee","New position",2016-11-15,2017-11-25,"Commercial Controller",2016-11-15,"Jakarta",375
+90003322,"Hire Employee","New position",2017-03-20,2019-01-31,"Technical Service Representative",2017-03-20,"Jakarta",682
+90003323,"Hire Employee","New position",2017-04-05,2017-10-04,"Procurement Administrator",2017-04-05,"Jakarta",182
+90003329,"Hire Employee","New position",2017-05-12,2017-11-30,"Manufacturing Business Development",2017-05-12,"Jakarta",202
+90003339,"Hire Employee","New position",2017-09-05,2017-10-31,"Raw Material Storeman",2017-09-05,"Jakarta",56
