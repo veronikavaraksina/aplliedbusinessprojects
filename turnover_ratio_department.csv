@@ -1,0 +1,237 @@
+"organizational_unit","positive","negative"
+"",12,15
+"A Shift",15,76
+"Accounts Payable",2,4
+"ACI Glass Packaging New Zealand",2,5
+"ACL Printing",2,2
+"Adelaide Plant",5,3
+"Administration",18,13
+"ANZ Finance",1,1
+"ANZ Logistics",9,4
+"ANZ Planning",8,6
+"Applications",6,19
+"AUDIT",1,3
+"Australian Financial Operations",3,2
+"B Shift",13,60
+"Batch & Furnace",80,95
+"Batch and Furnace",8,11
+"Beer Segment O-I Australia",4,4
+"Brisbane Cullet",6,2
+"Brisbane Cullet Pty Ltd",6,4
+"Business Controlling",5,1
+"Business Planning",3,2
+"Business Services",21,57
+"Business Services Melbourne",3,3
+"C Shift",18,62
+"Change Management",6,5
+"Cold End Job Change",8,9
+"Commercial",18,9
+"Commercial Accounting",6,27
+"Commercial Logistics",3,1
+"Commercial O-I Asia Pacific",3,1
+"Communications",2,1
+"Continuous Improvement",1,1
+"Corporate Accounting",2,5
+"Cullet",1,1
+"Cullet Operations",5,1
+"Customer Service",7,1
+"Customer Services",6,8
+"Customer Technical Services",7,17
+"Customer Technical Services Australia",1,4
+"D Shift",14,72
+"Distribution",9,22
+"Distribution - Queensland",18,23
+"Distribution - South Australia",1,1
+"E Shift",3,43
+"EH&S Brisbane",4,2
+"Electrical",40,43
+"Electrical Engineering",7,2
+"Electrical Inspection",8,4
+"Electrical Maintenance",12,6
+"Electrical Services",16,24
+"ELECTRICIAN",1,1
+"Engineering",79,56
+"Engineering Services",2,11
+"Facilities Advancement",2,4
+"Finance",44,61
+"Finished Products A Shift",8,7
+"Finished Products B Shift",15,15
+"Finished Products C Shift",11,9
+"Finished Products D Shift",12,15
+"Food & NAB Segment",1,1
+"Forming",124,33
+"Forming A Shift",10,14
+"Forming B Shift",17,15
+"Forming C Shift",20,14
+"Forming D Shift",16,6
+"Forming Development",1,3
+"Forming Engineering",9,4
+"Forming Job Change",1,12
+"Forming Maintenance",4,8
+"Forming Services",20,19
+"Forming Team",3,1
+"Furnace Design",5,1
+"General Maintenace",12,1
+"General Maintenance",6,1
+"Glass and Materials Advancement",3,2
+"Global Operations Support Centre",1,1
+"Hot End Job Change Team",5,1
+"Human Resources",42,77
+"Human Resources Brisbane",6,2
+"Human Resources Business Partnering",11,5
+"Human Resources O-I Asia Pacific",23,22
+"Human Resources Shared Services",9,6
+"Information Technology",2,20
+"Information Technology O-I AP",1,1
+"Inspection & Packaging Engineering",7,5
+"Inspection and Packaging",3,2
+"Inspection Packaging",33,22
+"Integrated Systems & Risk",1,5
+"Integrated Systems and Risk",12,13
+"Integrates Systems and Risk C Shift",1,3
+"IS Repair",23,3
+"IT Operations",11,7
+"Job Change",87,56
+"Job Change Team",6,1
+"Learning and Development",2,2
+"Line 11 Shift A",2,3
+"Line 11 Shift B",5,2
+"Line 11 Shift C",3,2
+"Line 11 Shift D",3,4
+"Line 12 Shift B",4,2
+"Line 12 Shift C",5,2
+"Line 14 Shift A",4,1
+"Line 14 Shift B",3,4
+"Line 14 Shift C",5,3
+"Line 14 Shift D",3,1
+"Line 21 Shift A",3,2
+"Line 21 Shift B",3,1
+"Line 21 Shift C",5,2
+"Line 22 Shift A",6,1
+"Line 22 Shift B",8,4
+"Line 22 Shift C",9,6
+"Line 22 Shift D",8,5
+"Line 24 Shift A",4,4
+"Line 24 Shift B",5,3
+"Line 24 Shift C",7,3
+"Line 24 Shift D",8,4
+"Line Development",1,2
+"Logistic & PPIC",3,2
+"Logistics",7,17
+"Machine Line 24",1,1
+"Machine Maintenance",26,59
+"Maintenance",10,1
+"Maintenance-Cold End",6,8
+"Maintenance Day Trades",1,1
+"Maintenance Planning",2,1
+"Management Accounting",5,2
+"Manufacturing",41,43
+"Manufacturing Process Capability Program",5,4
+"Marketing",4,21
+"Marketing & Sales",17,31
+"Marketing Australia",1,2
+"Mechanical Engineering",33,35
+"Monthly Reporting and Planning",13,8
+"Mould and Machine Maintenance",1,8
+"Mould Repair",41,61
+"Mould Shop",20,20
+"Mould Shop/R & D",1,16
+"National Planning",4,11
+"New Product Development",5,11
+"O-I Adelaide Plant",3,1
+"O-I Asia Pacific",6,5
+"O-I Australia",3,5
+"O-I Brisbane Plant",5,4
+"O-I Melbourne Plant",7,1
+"O-I Sydney Plant",5,1
+"Occupational Health & Safety",9,34
+"Operational Advancement",7,6
+"Operational and Facilities Advancement",1,2
+"Operational Capability",11,1
+"Operations O-I Australia",1,1
+"Pack Centre",14,6
+"Planning",7,2
+"Plant Controls Adelaide",5,1
+"Plant Controls Brisbane",4,3
+"Plant Controls Sydney",4,1
+"Plant Electrical Sydney",6,9
+"Plant Engineering",9,23
+"Plant Maintenance",25,16
+"Plant Maintenance Sydney",6,2
+"Plant Mechanical Maintenance",7,2
+"Plant Mechanical Sydney",7,4
+"Plant Reliability",28,19
+"Plant Reliability Sydney",6,3
+"Pricing",1,2
+"Pricing O-I Asia Pacific",5,3
+"Process Control",2,3
+"Process Improvement",6,2
+"Procurement",28,22
+"Procurement Administration",5,1
+"Product & Mould Design",1,2
+"Production",7,2
+"Production Planning Inventory Control",2,6
+"Production Support",22,1
+"Project Quantum",7,2
+"PT Kangar Consolidated Industries",9,8
+"Purchasing",9,24
+"Quality",4,1
+"Quality Control",5,9
+"Quality Service",20,32
+"Quality Services",1,4
+"Quantum_IT",4,3
+"Quantum_ITF",2,1
+"Quantum_OTC",2,2
+"Quantum_PTP",1,2
+"Quantum_RTP",1,1
+"Quantum_RTR",2,2
+"Raw Material",1,4
+"Regional EHS",1,1
+"Regional Engineering",11,2
+"Regional Integrated Operations",6,6
+"Regional Procurement",6,2
+"Regional Quality",5,7
+"Reliability",2,1
+"Resort - Day",2,3
+"Risk Management",1,3
+"Sales",17,13
+"Sales - Beer, Spirits, RTD & NAB",4,4
+"Sales - Wine, Food and Distributors",4,1
+"Sales & Marketing",11,19
+"Sales & Marketing O-I Australia",14,8
+"Service Desk AP",10,11
+"Shared Services",11,8
+"Shift A",22,1
+"Shift B",24,1
+"Shift C",25,6
+"Shift D",26,2
+"Shift E",20,1
+"Shift Operation ""A""",1,3
+"Shift Operation ""B""",1,4
+"Shift Operation ""C""",1,2
+"Shift Operation ""D""",1,6
+"Store",1,3
+"Strategic Sourcing",3,1
+"Strategic Sourcing and Demand",6,2
+"Strategy and Integration O-I AP",8,3
+"Strategy and PMO",2,1
+"Supply Chain",15,12
+"Supply Chain O-I Asia Pacific",4,1
+"Technical Services",5,1
+"Temporary Resort",34,105
+"Unit Plant 1",3,1
+"Unit Plant 2",2,3
+"Unit Plant Management",15,4
+"Unit Plant QG12",6,2
+"Unit Plant QG3",10,1
+"Unit Plant QG31",14,3
+"Unit Plant QG33",9,2
+"UPM",5,5
+"UPM3",2,2
+"UPM3 A Shift",1,1
+"UPM3 C Shift",2,2
+"UPM4 D Shift",1,2
+"UPM4 E Shift",1,1
+"Warehouse",5,3
+"Warehouse & Logistics",4,1
+"Wine Segment",6,4

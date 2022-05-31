@@ -355,6 +355,11 @@ turnover_ratio_dep <- inner_join(a, b)
 Gap between new hires and leavers
 
 ```{r}
+new_starter_mov$pers_count <- 1
+```
+
+
+```{r}
 turnover <- turnover %>% mutate(years = year(date))
 ```
 
