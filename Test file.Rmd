@@ -369,12 +369,82 @@ turnover_positive <- turnover_positive %>% mutate(years = year(date))
 new_hired <- new_hired %>% mutate(years = year(date))
 ```
 
+Turnover by year
+
+2019
+
+```{r}
+new_hired_2019 <- new_hired %>%
+  mutate(years = year(date)) %>%
+  filter(years == 2019)
+headcount_turnover <- headcount_turnover %>%
+  mutate(years = year(date))
+positive_2019 <- union(headcount_turnover, new_hired_2019)
+turnover_negative <- turnover_negative %>%
+  mutate(years = year(date))
+tunrover_pos_19 <- positive_2019 %>%
+  count(location, name = "positive")
+tunrover_neg_19 <- turnover_negative %>%
+  filter(years == 2019) %>%
+  count(location, name = "negative")
+turnover_19 <- inner_join(tunrover_pos_19, tunrover_neg_19)
+turnover_19 <- turnover_19 %>%
+  mutate(ratio = negative / positive * 100)
+```
+
+2018
+
+```{r}
+new_hired_2018 <- new_hired %>%
+  mutate(years = year(date)) %>%
+  filter(years == 2018)
+headcount_turnover_18 <- headcount_turnover %>%
+  mutate(years = year(date)) %>%
+  filter(years != 2019)
+positive_2018 <- union(headcount_turnover_18, new_hired_2018)
+turnover_negative <- turnover_negative %>%
+  mutate(years = year(date))
+tunrover_pos_18 <- positive_2018 %>%
+  count(location, name = "positive")
+tunrover_neg_18 <- turnover_negative %>%
+  filter(years == 2018) %>%
+  count(location, name = "negative")
+turnover_18 <- inner_join(tunrover_pos_18, tunrover_neg_18)
+turnover_18 <- turnover_18 %>%
+  mutate(ratio = negative / positive * 100)
+```
+
+2017
+
+```{r}
+new_hired_2017 <- new_hired %>%
+  mutate(years = year(date)) %>%
+  filter(years == 2017)
+headcount_turnover_17 <- headcount_turnover %>%
+  mutate(years = year(date)) %>%
+  filter(years != 2019 & years != 2018)
+positive_2017 <- union(headcount_turnover_17, new_hired_2017)
+turnover_negative <- turnover_negative %>%
+  mutate(years = year(date))
+tunrover_pos_17 <- positive_2017 %>%
+  count(location, name = "positive")
+tunrover_neg_17 <- turnover_negative %>%
+  filter(years == 2017) %>%
+  count(location, name = "negative")
+turnover_17 <- inner_join(tunrover_pos_17, tunrover_neg_17)
+turnover_17 <- turnover_17 %>%
+  mutate(ratio = negative / positive * 100)
+```
+
 ```{r}
 write.csv(turnover_ratio_2,"turnover_ratio_location.csv", row.names = FALSE)
-write.csv(turnover_ratio_dep,"turnover_ratio_department", row.names = FALSE)
+write.csv(turnover_ratio_dep,"turnover_ratio_department.csv", row.names = FALSE)
 write.csv(turnover_negative,"leavers.csv", row.names = FALSE)
 write.csv(new_starter_mov,"promotion_data.csv", row.names = FALSE)
 write.csv(turnover,"turnover.csv", row.names = FALSE)
 write.csv(new_hired,"new_employees.csv", row.names = FALSE)
+write.csv(turnover_17,"turnover_17.csv", row.names = FALSE)
+write.csv(turnover_18,"turnover_18.csv", row.names = FALSE)
+write.csv(turnover_19,"turnover_19.csv", row.names = FALSE)
 ```
 
